@@ -1,0 +1,427 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                19
+            ]
+        ],
+        "date-time": "2022-04-19T06:37:49Z",
+        "timestamp": 1650350269332
+    },
+    "reference-count": 50,
+    "publisher": "MDPI AG",
+    "issue": "15",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        7,
+                        25
+                    ]
+                ],
+                "date-time": "2020-07-25T00:00:00Z",
+                "timestamp": 1595635200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100010661",
+            "name": "Horizon 2020 Framework Programme",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "862444"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>The practice of non-testing approaches in nanoparticles hazard assessment is necessary to identify and classify potential risks in a cost effective and timely manner. Machine learning techniques have been applied in the field of nanotoxicology with encouraging results. A neurotoxicity classification model for diverse nanoparticles is presented in this study. A data set created from multiple literature sources consisting of nanoparticles physicochemical properties, exposure conditions and in vitro characteristics is compiled to predict cell viability. Pre-processing techniques were applied such as normalization methods and two supervised instance methods, a synthetic minority over-sampling technique to address biased predictions and production of subsamples via bootstrapping. The classification model was developed using random forest and goodness-of-fit with additional robustness and predictability metrics were used to evaluate the performance. Information gain analysis identified the exposure dose and duration, toxicological assay, cell type, and zeta potential as the five most important attributes to predict neurotoxicity in vitro. This is the first tissue-specific machine learning tool for neurotoxicity prediction caused by nanoparticles in in vitro systems. The model performs better than non-tissue specific models.</jats:p>",
+    "DOI": "10.3390/ijms21155280",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                27
+            ]
+        ],
+        "date-time": "2020-07-27T08:39:50Z",
+        "timestamp": 1595839190000
+    },
+    "page": "5280",
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": "Predicting In Vitro Neurotoxicity Induced by Nanoparticles Using Machine Learning",
+    "prefix": "10.3390",
+    "volume": "21",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0002-2263-0279",
+            "authenticated-orcid": false,
+            "given": "Irini",
+            "family": "Furxhi",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-7463-7923",
+            "authenticated-orcid": false,
+            "given": "Finbarr",
+            "family": "Murphy",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "1968",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                25
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ref1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/15376516.2019.1566425"
+        },
+        {
+            "key": "ref2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jfda.2014.01.005"
+        },
+        {
+            "key": "ref3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/ijms18010120"
+        },
+        {
+            "key": "ref4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2011/450912"
+        },
+        {
+            "key": "ref5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2147/ijn.S16603"
+        },
+        {
+            "key": "ref6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn200021j"
+        },
+        {
+            "key": "ref7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1787/9789264071025-en"
+        },
+        {
+            "key": "ref8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1787/9789264067394-en"
+        },
+        {
+            "key": "ref9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1289/ehp.11447"
+        },
+        {
+            "key": "ref10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00216-018-0940-y"
+        },
+        {
+            "key": "ref11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2131/jts.41.SP69"
+        },
+        {
+            "key": "ref12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1787/9789264274730-en"
+        },
+        {
+            "key": "ref13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.comtox.2019.03.003"
+        },
+        {
+            "key": "ref14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1787/9789264085442-en"
+        },
+        {
+            "key": "ref15",
+            "series-title": "The use of alternatives to testing on animals for the REACH Regulation",
+            "first-page": "103",
+            "year": "2017"
+        },
+        {
+            "key": "ref16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tiv.2019.03.039"
+        },
+        {
+            "key": "ref17",
+            "series-title": "Non-Animal Approaches—Current Status of Regulatory Applicability under the REACH, CLP and Biocidal Products Regulations",
+            "first-page": "163",
+            "year": "2017"
+        },
+        {
+            "key": "ref18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2020.1729439"
+        },
+        {
+            "key": "ref19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/nano10010116"
+        },
+        {
+            "key": "ref20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2019.1595206"
+        },
+        {
+            "key": "ref21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C8EN00061A"
+        },
+        {
+            "key": "ref22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acsnano.8b07562"
+        },
+        {
+            "key": "ref23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41598-018-21431-9"
+        },
+        {
+            "key": "ref24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201900510"
+        },
+        {
+            "key": "ref25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nnano.2015.338"
+        },
+        {
+            "key": "ref26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2016.1278481"
+        },
+        {
+            "key": "ref27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2147/IJN.S203352"
+        },
+        {
+            "key": "ref28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s12035-015-9259-2"
+        },
+        {
+            "key": "ref29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.neuro.2012.04.008"
+        },
+        {
+            "key": "ref30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C5NR03598H"
+        },
+        {
+            "key": "ref31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41598-018-24483-z"
+        },
+        {
+            "key": "ref32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201600597"
+        },
+        {
+            "key": "ref33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.chemrestox.7b00303"
+        },
+        {
+            "key": "ref34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/toxsci/kfr124"
+        },
+        {
+            "key": "ref35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C4NR01285B"
+        },
+        {
+            "key": "ref36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envint.2014.08.009"
+        },
+        {
+            "key": "ref37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.toxlet.2019.05.016"
+        },
+        {
+            "key": "ref38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1177/0049124189018002003"
+        },
+        {
+            "key": "ref39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/wics.182"
+        },
+        {
+            "key": "ref40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/B978-0-12-374856-0.00018-3"
+        },
+        {
+            "key": "ref41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12864-019-6413-7"
+        },
+        {
+            "key": "ref42",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10115-018-1185-y"
+        },
+        {
+            "key": "ref43"
+        },
+        {
+            "key": "ref44"
+        },
+        {
+            "key": "ref45",
+            "first-page": "3640",
+            "article-title": "Classification Algorithms with Attribute Selection: An evaluation study using WEKA",
+            "volume": "9",
+            "author": "Gnanambal",
+            "year": "2018",
+            "journal-title": "Int. J. Adv. Netw. Appl."
+        },
+        {
+            "key": "ref46"
+        },
+        {
+            "key": "ref47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/molecules17054791"
+        },
+        {
+            "key": "ref48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C8NR02278J"
+        },
+        {
+            "key": "ref49",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fchem.2018.00145"
+        },
+        {
+            "key": "ref50",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2017.1379567"
+        }
+    ],
+    "container-title": "International Journal of Molecular Sciences",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://www.mdpi.com/1422-0067/21/15/5280/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                27
+            ]
+        ],
+        "date-time": "2020-07-27T13:43:21Z",
+        "timestamp": 1595857401000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.mdpi.com/1422-0067/21/15/5280"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                25
+            ]
+        ]
+    },
+    "references-count": 50,
+    "journal-issue": {
+        "issue": "15",
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    8
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "ijms21155280"
+    ],
+    "URL": "http://dx.doi.org/10.3390/ijms21155280",
+    "relation": {},
+    "ISSN": [
+        "1422-0067"
+    ],
+    "subject": [
+        "Inorganic Chemistry",
+        "Organic Chemistry",
+        "Physical and Theoretical Chemistry",
+        "Computer Science Applications",
+        "Spectroscopy",
+        "Molecular Biology",
+        "General Medicine",
+        "Catalysis"
+    ],
+    "container-title-short": "IJMS",
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                7,
+                25
+            ]
+        ]
+    }
+}

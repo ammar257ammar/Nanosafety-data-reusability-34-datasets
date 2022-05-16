@@ -1,0 +1,923 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                2
+            ]
+        ],
+        "date-time": "2022-04-02T06:24:18Z",
+        "timestamp": 1648880658382
+    },
+    "reference-count": 142,
+    "publisher": "MDPI AG",
+    "issue": "7",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        7
+                    ]
+                ],
+                "date-time": "2021-07-07T00:00:00Z",
+                "timestamp": 1625616000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100007601",
+            "name": "Horizon 2020",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "862444"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>The emergence and rapid spread of multidrug-resistant bacteria strains are a public health concern. This emergence is caused by the overuse and misuse of antibiotics leading to the evolution of antibiotic-resistant strains. Nanoparticles (NPs) are objects with all three external dimensions in the nanoscale that varies from 1 to 100 nm. Research on NPs with enhanced antimicrobial activity as alternatives to antibiotics has grown due to the increased incidence of nosocomial and community acquired infections caused by pathogens. Machine learning (ML) tools have been used in the field of nanoinformatics with promising results. As a consequence of evident achievements on a wide range of predictive tasks, ML techniques are attracting significant interest across a variety of stakeholders. In this article, we present an ML tool that successfully predicts the antibacterial capacity of NPs while the model’s validation demonstrates encouraging results (R2 = 0.78). The data were compiled after a literature review of 60 articles and consist of key physico-chemical (p-chem) properties and experimental conditions (exposure variables and bacterial clustering) from in vitro studies. Following data homogenization and pre-processing, we trained various regression algorithms and we validated them using diverse performance metrics. Finally, an important attribute evaluation, which ranks the attributes that are most important in predicting the outcome, was performed. The attribute importance revealed that NP core size, the exposure dose, and the species of bacterium are key variables in predicting the antibacterial effect of NPs. This tool assists various stakeholders and scientists in predicting the antibacterial effects of NPs based on their p-chem properties and diverse exposure settings. This concept also aids the safe-by-design paradigm by incorporating functionality tools.</jats:p>",
+    "DOI": "10.3390/nano11071774",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                8
+            ]
+        ],
+        "date-time": "2021-07-08T08:32:49Z",
+        "timestamp": 1625733169000
+    },
+    "page": "1774",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": "A Machine Learning Tool to Predict the Antibacterial Capacity of Nanoparticles",
+    "prefix": "10.3390",
+    "volume": "11",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0002-1005-8105",
+            "authenticated-orcid": false,
+            "given": "Mahsa",
+            "family": "Mirzaei",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Irini",
+            "family": "Furxhi",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-7463-7923",
+            "authenticated-orcid": false,
+            "given": "Finbarr",
+            "family": "Murphy",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Martin",
+            "family": "Mullins",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "1968",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                7
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ref1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1574-6976.2011.00295.x"
+        },
+        {
+            "key": "ref2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tibtech.2012.06.004"
+        },
+        {
+            "key": "ref3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/jac/dku379"
+        },
+        {
+            "key": "ref4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1086/381972"
+        },
+        {
+            "key": "ref5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/anie.200600350"
+        },
+        {
+            "key": "ref6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.meegid.2003.12.005"
+        },
+        {
+            "key": "ref7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2147/IJN.S134526"
+        },
+        {
+            "key": "ref8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.7860/JCDR/2015/14933.6819"
+        },
+        {
+            "key": "ref9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2471/BLT.17.199687"
+        },
+        {
+            "key": "ref10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.4067/S0718-48162007000100011"
+        },
+        {
+            "key": "ref11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jcma.2017.07.012"
+        },
+        {
+            "key": "ref12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1128/AEM.02821-16"
+        },
+        {
+            "key": "ref13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/femsec/fiy044"
+        },
+        {
+            "key": "ref14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.est.6b00835"
+        },
+        {
+            "key": "ref15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0140-6736(01)05321-1"
+        },
+        {
+            "key": "ref16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s13756-019-0533-3"
+        },
+        {
+            "key": "ref17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/14787210.2019.1614914"
+        },
+        {
+            "key": "ref18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1097/01.prs.0000225439.39352.ce"
+        },
+        {
+            "key": "ref19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ijantimicag.2003.12.004"
+        },
+        {
+            "key": "ref20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.biomaterials.2004.01.008"
+        },
+        {
+            "key": "ref21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1515/ntrev-2016-0054"
+        },
+        {
+            "key": "ref22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/jac/dkr408"
+        },
+        {
+            "key": "ref23",
+            "first-page": "509",
+            "article-title": "Microbial synthesis of selenium nanocomposite using Saccharomyces cerevisiae and its antimicrobial activity against pathogens causing nosocomial infection",
+            "volume": "9",
+            "author": "Hariharan",
+            "year": "2012",
+            "journal-title": "Chalcogenide Lett."
+        },
+        {
+            "key": "ref24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/aoc.5190"
+        },
+        {
+            "key": "ref25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jemt.23553"
+        },
+        {
+            "key": "ref26",
+            "first-page": "114",
+            "article-title": "Assessment of antibacterial and antifungal activities of silver nanoparticles obtained from the callus extracts (stem and leaf) of Tridax procumbens L.",
+            "volume": "13",
+            "author": "Bhati-Kushwaha",
+            "year": "2014",
+            "journal-title": "Indian J. Biotechnol."
+        },
+        {
+            "key": "ref27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/ofid/ofaa083"
+        },
+        {
+            "key": "ref28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bcp.2011.07.077"
+        },
+        {
+            "key": "ref29",
+            "doi-asserted-by": "crossref",
+            "first-page": "57",
+            "DOI": "10.4103/phrev.phrev_21_17",
+            "article-title": "Developing new antimicrobial therapies: Are synergistic combinations of plant extracts/compounds with conventional antibiotics the solution?",
+            "volume": "11",
+            "author": "Cheesman",
+            "year": "2017",
+            "journal-title": "Pharmacogn. Rev."
+        },
+        {
+            "key": "ref30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.msec.2014.08.031"
+        },
+        {
+            "key": "ref31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/ijms20112808"
+        },
+        {
+            "key": "ref32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2147/IJN.S121956"
+        },
+        {
+            "key": "ref33"
+        },
+        {
+            "key": "ref34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2147/ijn.s9220"
+        },
+        {
+            "key": "ref35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2217/fmb-2018-0257"
+        },
+        {
+            "key": "ref36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.colsurfa.2003.09.010"
+        },
+        {
+            "key": "ref37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2011.01.014"
+        },
+        {
+            "key": "ref38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2009.12.056"
+        },
+        {
+            "key": "ref39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es060999b"
+        },
+        {
+            "key": "ref40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2013/287638"
+        },
+        {
+            "key": "ref41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jcis.2004.02.012"
+        },
+        {
+            "key": "ref42",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.micpath.2020.104188"
+        },
+        {
+            "key": "ref43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s12668-018-0552-1"
+        },
+        {
+            "key": "ref44",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.1108752"
+        },
+        {
+            "key": "ref45",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.nantod.2011.08.001"
+        },
+        {
+            "key": "ref46",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nmat2442"
+        },
+        {
+            "key": "ref47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.jpclett.7b02364"
+        },
+        {
+            "key": "ref48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ijengsci.2017.06.024"
+        },
+        {
+            "key": "ref49",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.1919755117"
+        },
+        {
+            "key": "ref50",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2020.1729439"
+        },
+        {
+            "key": "ref51",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2019.1595206"
+        },
+        {
+            "key": "ref52",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C4NR01285B"
+        },
+        {
+            "key": "ref53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/ijms21155280"
+        },
+        {
+            "key": "ref54",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.toxlet.2019.05.016"
+        },
+        {
+            "key": "ref55",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es503861x"
+        },
+        {
+            "key": "ref56",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envint.2014.08.009"
+        },
+        {
+            "key": "ref57",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17460441.2020.1776696"
+        },
+        {
+            "key": "ref58",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/cbdd.12423"
+        },
+        {
+            "key": "ref59",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/bioinformatics/bty276"
+        },
+        {
+            "key": "ref60",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.15252/emmm.201910264"
+        },
+        {
+            "key": "ref61",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fmicb.2020.00048"
+        },
+        {
+            "key": "ref62",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/bioinformatics/btx801"
+        },
+        {
+            "key": "ref63",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jobm.201900569"
+        },
+        {
+            "key": "ref64",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2139/ssrn.3326377"
+        },
+        {
+            "key": "ref65",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.5120/ijca2017915495"
+        },
+        {
+            "key": "ref66"
+        },
+        {
+            "key": "ref67"
+        },
+        {
+            "key": "ref68",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/21691401.2017.1367927"
+        },
+        {
+            "key": "ref69",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.btre.2020.e00427"
+        },
+        {
+            "key": "ref70",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12951-016-0225-6"
+        },
+        {
+            "key": "ref71",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn300934k"
+        },
+        {
+            "key": "ref72",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1063/1.2742324"
+        },
+        {
+            "key": "ref73",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jphotobiol.2019.111593"
+        },
+        {
+            "key": "ref74",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jconrel.2011.07.002"
+        },
+        {
+            "key": "ref75",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.colsurfb.2010.03.029"
+        },
+        {
+            "key": "ref76",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/c2ra00602b"
+        },
+        {
+            "key": "ref77",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.4161/viru.2.5.17035"
+        },
+        {
+            "key": "ref78",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/10408440601177780"
+        },
+        {
+            "key": "ref79",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.5530/ijpi.2020.2.27"
+        },
+        {
+            "key": "ref80",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.22159/ajpcr.2017.v10i5.17469"
+        },
+        {
+            "key": "ref81",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1208/s12248-008-9027-6"
+        },
+        {
+            "key": "ref82",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C1CS15237H"
+        },
+        {
+            "key": "ref83",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.arabjc.2017.05.011"
+        },
+        {
+            "key": "ref84",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201303947"
+        },
+        {
+            "key": "ref85",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.2517-6161.1975.tb01037.x"
+        },
+        {
+            "key": "ref86",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.asoc.2019.105524"
+        },
+        {
+            "key": "ref87",
+            "series-title": "Introduction to Statistical Pattern Recognition",
+            "author": "Fukunaga",
+            "year": "2013"
+        },
+        {
+            "key": "ref88"
+        },
+        {
+            "key": "ref89"
+        },
+        {
+            "key": "ref90",
+            "series-title": "Regression",
+            "first-page": "21",
+            "article-title": "Regression models",
+            "author": "Fahrmeir",
+            "year": "2013"
+        },
+        {
+            "key": "ref91",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1467-9868.2007.00627.x"
+        },
+        {
+            "key": "ref92",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.2517-6161.1996.tb02080.x"
+        },
+        {
+            "key": "ref93",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/00401706.1970.10488634"
+        },
+        {
+            "key": "ref94",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/insr.12099"
+        },
+        {
+            "key": "ref95",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1751-5823.2007.00007.x"
+        },
+        {
+            "key": "ref96",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tourman.2018.09.008"
+        },
+        {
+            "key": "ref97",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/wics.14"
+        },
+        {
+            "key": "ref98",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1467-9868.2005.00503.x"
+        },
+        {
+            "key": "ref99",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1023/A:1010933404324"
+        },
+        {
+            "key": "ref100",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1471-2105-10-213"
+        },
+        {
+            "key": "ref101",
+            "series-title": "Consistency for a Simple Model of Random Forests, Technical Report 670",
+            "author": "Breiman",
+            "year": "2004"
+        },
+        {
+            "key": "ref102",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/B978-0-12-817426-5.00001-6"
+        },
+        {
+            "key": "ref103"
+        },
+        {
+            "key": "ref104",
+            "doi-asserted-by": "crossref",
+            "first-page": "532",
+            "DOI": "10.1007/978-0-387-39940-9_565",
+            "article-title": "Cross-validation",
+            "volume": "5",
+            "author": "Refaeilzadeh",
+            "year": "2009",
+            "journal-title": "Encycl. Database Syst."
+        },
+        {
+            "key": "ref105",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01621459.1984.10478083"
+        },
+        {
+            "key": "ref106",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1471-2105-8-25"
+        },
+        {
+            "key": "ref107",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/00365516009065406"
+        },
+        {
+            "key": "ref108",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1128/AAC.23.1.142"
+        },
+        {
+            "key": "ref109",
+            "first-page": "46",
+            "article-title": "Measurement of microbial cells by optical density",
+            "volume": "17",
+            "author": "Sutton",
+            "year": "2011",
+            "journal-title": "J. Valid. Technol."
+        },
+        {
+            "key": "ref110",
+            "series-title": "Kirby-Bauer Disk Diffusion Susceptibility Test Protocol",
+            "author": "Hudzicki",
+            "year": "2009"
+        },
+        {
+            "key": "ref111",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1373/clinchem.2018.299800"
+        },
+        {
+            "key": "ref112",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1787/9789264085442-en"
+        },
+        {
+            "key": "ref113",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.colsurfb.2019.02.013"
+        },
+        {
+            "key": "ref114",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1128/AEM.02218-06"
+        },
+        {
+            "key": "ref115",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11671-010-9772-1"
+        },
+        {
+            "key": "ref116",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/am302910q"
+        },
+        {
+            "key": "ref117",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.nantod.2015.04.002"
+        },
+        {
+            "key": "ref118",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/adhm.201701503"
+        },
+        {
+            "key": "ref119",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2017/4752314"
+        },
+        {
+            "key": "ref120",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1471-2156-7-23"
+        },
+        {
+            "key": "ref121",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1471-2105-7-3"
+        },
+        {
+            "key": "ref122",
+            "first-page": "974",
+            "article-title": "Machine learning techniques on multidimensional curve fitting data based on R-square and chi-square methods",
+            "volume": "6",
+            "author": "Vidyullatha",
+            "year": "2016",
+            "journal-title": "Int. J. Electr. Comput. Eng."
+        },
+        {
+            "key": "ref123",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.agwat.2019.105875"
+        },
+        {
+            "key": "ref124",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0022-1694(70)90255-6"
+        },
+        {
+            "key": "ref125",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/nano10010116"
+        },
+        {
+            "key": "ref126",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2018.11.014"
+        },
+        {
+            "key": "ref127",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/1062936X.2014.984327"
+        },
+        {
+            "key": "ref128",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.chemrestox.7b00303"
+        },
+        {
+            "key": "ref129",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12951-017-0308-z"
+        },
+        {
+            "key": "ref130",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/0957-4484/18/22/225103"
+        },
+        {
+            "key": "ref131",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11051-008-9428-6"
+        },
+        {
+            "key": "ref132",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2015/720654"
+        },
+        {
+            "key": "ref133",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nl301934w"
+        },
+        {
+            "key": "ref134",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.colsurfb.2010.01.029"
+        },
+        {
+            "key": "ref135",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11051-019-4617-z"
+        },
+        {
+            "key": "ref136",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2147/IJN.S35347"
+        },
+        {
+            "key": "ref137",
+            "first-page": "1368",
+            "article-title": "Antibacterial activity of ZnO nanoparticle on gram-positive and gram-negative bacteria",
+            "volume": "5",
+            "author": "Emami-Karvani",
+            "year": "2011",
+            "journal-title": "Afr. J. Microbiol. Res."
+        },
+        {
+            "key": "ref138",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1101/cshperspect.a000414"
+        },
+        {
+            "key": "ref139",
+            "first-page": "647",
+            "article-title": "Time and dose-dependent antimicrobial potential of Ag nanoparticles synthesized by top-down approach",
+            "volume": "95",
+            "author": "Tiwari",
+            "year": "2008",
+            "journal-title": "Curr. Sci."
+        },
+        {
+            "key": "ref140",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.msec.2020.111021"
+        },
+        {
+            "key": "ref141",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1006/rtph.1996.1076"
+        },
+        {
+            "key": "ref142",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1162/dint_a_00031"
+        }
+    ],
+    "container-title": "Nanomaterials",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://www.mdpi.com/2079-4991/11/7/1774/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                14
+            ]
+        ],
+        "date-time": "2021-07-14T15:16:12Z",
+        "timestamp": 1626275772000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.mdpi.com/2079-4991/11/7/1774"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                7
+            ]
+        ]
+    },
+    "references-count": 142,
+    "journal-issue": {
+        "issue": "7",
+        "published-online": {
+            "date-parts": [
+                [
+                    2021,
+                    7
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "nano11071774"
+    ],
+    "URL": "http://dx.doi.org/10.3390/nano11071774",
+    "relation": {},
+    "ISSN": [
+        "2079-4991"
+    ],
+    "subject": [
+        "General Materials Science",
+        "General Chemical Engineering"
+    ],
+    "container-title-short": "Nanomaterials",
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                7
+            ]
+        ]
+    }
+}

@@ -1,0 +1,926 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                19
+            ]
+        ],
+        "date-time": "2022-04-19T06:31:55Z",
+        "timestamp": 1650349915065
+    },
+    "reference-count": 121,
+    "publisher": "Informa UK Limited",
+    "issue": "6",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        5,
+                        29
+                    ]
+                ],
+                "date-time": "2019-05-29T00:00:00Z",
+                "timestamp": 1559088000000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "name": "European Union’s Horizon 2020 research and innovation program",
+            "award": [
+                "720851"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100000856",
+            "name": "Colt Foundation",
+            "doi-asserted-by": "crossref"
+        },
+        {
+            "DOI": "10.13039/100010675",
+            "name": "H2020 Innovation In SMEs",
+            "doi-asserted-by": "crossref"
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "www.tandfonline.com"
+        ],
+        "crossmark-restriction": true
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2019,
+                7,
+                3
+            ]
+        ]
+    },
+    "DOI": "10.1080/17435390.2019.1595206",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                5,
+                29
+            ]
+        ],
+        "date-time": "2019-05-29T16:00:21Z",
+        "timestamp": 1559145621000
+    },
+    "page": "827-848",
+    "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 20,
+    "title": "Application of Bayesian networks in determining nanoparticle-induced cellular outcomes using transcriptomics",
+    "prefix": "10.1080",
+    "volume": "13",
+    "author": [
+        {
+            "given": "Irini",
+            "family": "Furxhi",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Accounting and Finance, Kemmy Business School University of Limerick, Limerick, Ireland;"
+                }
+            ]
+        },
+        {
+            "given": "Finbarr",
+            "family": "Murphy",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Accounting and Finance, Kemmy Business School University of Limerick, Limerick, Ireland;"
+                }
+            ]
+        },
+        {
+            "given": "Craig A.",
+            "family": "Poland",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ELEGI/Colt Laboratory, Queen’s Medical Research Institute, University of Edinburgh, Edinburgh, Scotland;"
+                }
+            ]
+        },
+        {
+            "given": "Barry",
+            "family": "Sheehan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Accounting and Finance, Kemmy Business School University of Limerick, Limerick, Ireland;"
+                }
+            ]
+        },
+        {
+            "given": "Martin",
+            "family": "Mullins",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Accounting and Finance, Kemmy Business School University of Limerick, Limerick, Ireland;"
+                }
+            ]
+        },
+        {
+            "given": "Paride",
+            "family": "Mantecca",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Earth and Environmental Sciences, Particulate Matter and Health Risk (POLARIS) Research Centre University of Milano Bicocca, Milano, Italy"
+                }
+            ]
+        }
+    ],
+    "member": "301",
+    "published-online": {
+        "date-parts": [
+            [
+                2019,
+                5,
+                29
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "CIT0001",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/sim.4780040411"
+        },
+        {
+            "key": "CIT0002",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/ijms160818149"
+        },
+        {
+            "key": "CIT0003",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/nano8090634"
+        },
+        {
+            "issue": "77",
+            "key": "CIT0004",
+            "volume": "9",
+            "author": "Alexiou A.",
+            "year": "2017",
+            "journal-title": "Frontiers in Aging Neuroscience"
+        },
+        {
+            "key": "CIT0005",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.taap.2017.03.011"
+        },
+        {
+            "key": "CIT0006",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.toxlet.2014.12.008"
+        },
+        {
+            "key": "CIT0007",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nmeth0605-477a"
+        },
+        {
+            "key": "CIT0008",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2017.1371351"
+        },
+        {
+            "key": "CIT0009",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn402111z"
+        },
+        {
+            "key": "CIT0010",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.comtox.2017.07.004"
+        },
+        {
+            "key": "CIT0011",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/pd.4111"
+        },
+        {
+            "key": "CIT0012",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.12688/f1000research.10493.1"
+        },
+        {
+            "key": "CIT0013",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn2007145"
+        },
+        {
+            "key": "CIT0014",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1743-8977-11-18"
+        },
+        {
+            "key": "CIT0015",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.yrtph.2017.09.002"
+        },
+        {
+            "key": "CIT0016",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-319-72041-8_4"
+        },
+        {
+            "key": "CIT0017",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2147/IJN.S94370"
+        },
+        {
+            "key": "CIT0018",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1613/jair.953"
+        },
+        {
+            "key": "CIT0019",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/ma10091013"
+        },
+        {
+            "key": "CIT0020",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/10408444.2014.973935"
+        },
+        {
+            "key": "CIT0021",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/toxsci/kfs006"
+        },
+        {
+            "key": "CIT0022",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41598-018-24483-z"
+        },
+        {
+            "key": "CIT0023",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jesit.2017.06.004"
+        },
+        {
+            "key": "CIT0024",
+            "unstructured": "Cinicioglu, E. N., and G. Büyükuğur. 2014. How to Create Better Performing Bayesian Networks: A Heuristic Approach for Variable Selection. Cham: Springer International Publishing, 527–535."
+        },
+        {
+            "key": "CIT0025",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2017.1379567"
+        },
+        {
+            "key": "CIT0026",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2012/167896"
+        },
+        {
+            "key": "CIT0027",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.5121/ijcnc.2014.6315"
+        },
+        {
+            "key": "CIT0028",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.impact.2017.08.002"
+        },
+        {
+            "key": "CIT0029",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ijar.2010.02.001"
+        },
+        {
+            "issue": "22",
+            "key": "CIT0030",
+            "volume": "14",
+            "author": "Engin A. B.",
+            "year": "2017",
+            "journal-title": "Particle and Fibre Toxicology"
+        },
+        {
+            "key": "CIT0031",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/gepi.20621"
+        },
+        {
+            "key": "CIT0032",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tibtech.2017.03.010"
+        },
+        {
+            "key": "CIT0033",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1089/106652700750050961"
+        },
+        {
+            "key": "CIT0034",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12951-017-0320-3"
+        },
+        {
+            "key": "CIT0035",
+            "unstructured": "Furxhi, I. 2019. Literature transcriptomics review and data of Nanoparticle Induced Cellular Outcomes. Journal [Online] Available at: https://nanohub.org/resources/30099."
+        },
+        {
+            "key": "CIT0036",
+            "first-page": "1",
+            "author": "Furxhi I.",
+            "year": "2018",
+            "journal-title": "2018 IEEE 18th International Conference on Nanotechnology (IEEE-NANO)"
+        },
+        {
+            "key": "CIT0037",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10618-010-0178-6"
+        },
+        {
+            "key": "CIT0038",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/15376511003667842"
+        },
+        {
+            "key": "CIT0039",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1745-6673-8-32"
+        },
+        {
+            "key": "CIT0040",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.comtox.2016.07.001"
+        },
+        {
+            "key": "CIT0041",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2174/1568026611313140011"
+        },
+        {
+            "key": "CIT0042",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.jcim.6b00458"
+        },
+        {
+            "key": "CIT0043",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C4NR05166A"
+        },
+        {
+            "key": "CIT0044",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41598-018-21431-9"
+        },
+        {
+            "key": "CIT0045",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2012.739664"
+        },
+        {
+            "key": "CIT0046",
+            "volume-title": "Feature Subset Selection: A Correlation Based Filter Approach. Department of Computer Science.",
+            "author": "Hall M. A.",
+            "year": "1998"
+        },
+        {
+            "key": "CIT0047",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s13059-017-1215-1"
+        },
+        {
+            "key": "CIT0048",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tiv.2016.01.006"
+        },
+        {
+            "key": "CIT0049",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Hrdlickova, R., M. Toloue, and B. Tian. 2017. RNA-Seq methods for transcriptome analysis. Wiley interdisciplinary reviews RNA 8:10.1002/wrna.1364.",
+            "DOI": "10.1002/wrna.1364"
+        },
+        {
+            "key": "CIT0050",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2012.750695"
+        },
+        {
+            "key": "CIT0051",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/ijms18122702"
+        },
+        {
+            "key": "CIT0052",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-94-017-8739-0_7"
+        },
+        {
+            "key": "CIT0053",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11051-016-3564-1"
+        },
+        {
+            "key": "CIT0054",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.yrtph.2010.02.003"
+        },
+        {
+            "key": "CIT0055",
+            "first-page": "1353",
+            "volume": "33",
+            "author": "Jaworska J.",
+            "year": "2013",
+            "journal-title": "Journal of Applied Toxicology"
+        },
+        {
+            "key": "CIT0056",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/tx100428e"
+        },
+        {
+            "key": "CIT0057",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1159/000453200"
+        },
+        {
+            "key": "CIT0058",
+            "first-page": "271",
+            "volume": "2",
+            "author": "Karegowda A. G.",
+            "year": "2010",
+            "journal-title": "International Journal of Information Technology and Knowledge Management"
+        },
+        {
+            "key": "CIT0059",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es900754q"
+        },
+        {
+            "key": "CIT0060",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acsnano.6b08650"
+        },
+        {
+            "key": "CIT0061",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envint.2014.08.009"
+        },
+        {
+            "key": "CIT0062",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es503861x"
+        },
+        {
+            "key": "CIT0063",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0004-3702(97)00043-X"
+        },
+        {
+            "key": "CIT0064",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12989-016-0125-9"
+        },
+        {
+            "key": "CIT0065",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/08839514.2011.529265"
+        },
+        {
+            "key": "CIT0066",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-1-62703-002-1_24"
+        },
+        {
+            "key": "CIT0067",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/mp800049w"
+        },
+        {
+            "key": "CIT0068",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s40364-017-0082-y"
+        },
+        {
+            "key": "CIT0069",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C4NR01285B"
+        },
+        {
+            "key": "CIT0070",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/toxsci/kfy152"
+        },
+        {
+            "key": "CIT0071",
+            "doi-asserted-by": "crossref",
+            "first-page": "40882",
+            "DOI": "10.18632/oncotarget.8553",
+            "volume": "7",
+            "author": "Ma D. D.",
+            "year": "2016",
+            "journal-title": "Oncotarget"
+        },
+        {
+            "key": "CIT0072",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C5NR08944A"
+        },
+        {
+            "key": "CIT0073",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2016.1278481"
+        },
+        {
+            "key": "CIT0074",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0005-2795(75)90109-9"
+        },
+        {
+            "key": "CIT0075",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1517/17530059.2012.718329"
+        },
+        {
+            "key": "CIT0076",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1539-6924.2005.00681.x"
+        },
+        {
+            "key": "CIT0077",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.4155/fsoa-2018-0051"
+        },
+        {
+            "key": "CIT0078",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s11671-016-1724-y"
+        },
+        {
+            "key": "CIT0079",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1743-8977-7-39"
+        },
+        {
+            "key": "CIT0080",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ar300022h"
+        },
+        {
+            "key": "CIT0081",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-642-14706-7_19"
+        },
+        {
+            "key": "CIT0082",
+            "volume-title": "Committee on Communicating Toxicogenomics Information to Nonexperts. Communicating Toxicogenomics Information to Nonexperts: A Workshop Summary",
+            "author": "NRC.",
+            "year": "2005"
+        },
+        {
+            "key": "CIT0083",
+            "volume-title": "Toxicity Testing in the 21st Century: A Vision and a Strategy",
+            "author": "NRC.",
+            "year": "2007"
+        },
+        {
+            "key": "CIT0084",
+            "unstructured": "OECD. 2017. Revised Guidance Document on Developing and Assessing Adverse Outcome Pathway. Series on testing and assessment. Environment Directorate of the OECD, Paris."
+        },
+        {
+            "key": "CIT0085",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nl903043z"
+        },
+        {
+            "key": "CIT0086",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es3001618"
+        },
+        {
+            "key": "CIT0087",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Priddy, K. L., and E. P. Keller. 2005. Artificial Neural Networks: An Introduction.",
+            "DOI": "10.1117/3.633187"
+        },
+        {
+            "key": "CIT0088",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/wcms.1240"
+        },
+        {
+            "key": "CIT0089",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/wnan.24"
+        },
+        {
+            "key": "CIT0090",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pone.0097640"
+        },
+        {
+            "key": "CIT0091",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jat.3170"
+        },
+        {
+            "key": "CIT0092",
+            "author": "Saliani M.",
+            "year": "2016",
+            "journal-title": "Nanomedicine Journal"
+        },
+        {
+            "key": "CIT0093",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pone.0121569"
+        },
+        {
+            "key": "CIT0094",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.yrtph.2017.09.020"
+        },
+        {
+            "key": "CIT0095",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12989-017-0233-1"
+        },
+        {
+            "key": "CIT0096",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-1-61779-027-0_1"
+        },
+        {
+            "key": "CIT0097",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.compbiomed.2014.04.010"
+        },
+        {
+            "key": "CIT0098",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/adma.201704463"
+        },
+        {
+            "key": "CIT0099",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/ijms19030649"
+        },
+        {
+            "key": "CIT0100",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.5483/BMBRep.2018.51.1.237"
+        },
+        {
+            "key": "CIT0101",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.drudis.2010.07.007"
+        },
+        {
+            "key": "CIT0102",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/ijms18071515"
+        },
+        {
+            "key": "CIT0103",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C4NR03487B"
+        },
+        {
+            "key": "CIT0104",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tox.2014.12.012"
+        },
+        {
+            "key": "CIT0105",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.200902084"
+        },
+        {
+            "key": "CIT0106",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2217/nnm.14.96"
+        },
+        {
+            "key": "CIT0107",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bbrc.2016.09.095"
+        },
+        {
+            "key": "CIT0108",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2217/nnm.11.78"
+        },
+        {
+            "key": "CIT0109",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smtd.201700139"
+        },
+        {
+            "key": "CIT0110",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2016.1225132"
+        },
+        {
+            "key": "CIT0111",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.artmed.2012.12.004"
+        },
+        {
+            "issue": "11",
+            "key": "CIT0112",
+            "volume": "13",
+            "author": "Vietti G.",
+            "year": "2016",
+            "journal-title": "Particle and Fibre Toxicology"
+        },
+        {
+            "key": "CIT0113",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-981-10-4026-9_8"
+        },
+        {
+            "key": "CIT0114",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.12688/f1000research.12691.1"
+        },
+        {
+            "key": "CIT0115",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tox.2012.11.005"
+        },
+        {
+            "key": "CIT0116",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/1062936X.2013.874367"
+        },
+        {
+            "key": "CIT0117",
+            "unstructured": "Worth, A., K. Aschberger, A. B. David, et al. 2017. Evaluation of the availability and applicability of computational approaches in the safety assessment of nanomaterials: Final report of the Nanocomput project. Luxembourg: Publications Office of the European Union: JRC."
+        },
+        {
+            "key": "CIT0118",
+            "unstructured": "Zabinski, J. W. 2017. Advancing environmental human health risk assessment through bayesian network analysis. Department of Environmental Sciences and Engineering. University of North Carolina at Chapel Hill 172."
+        },
+        {
+            "key": "CIT0119",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.estlett.6b00076"
+        },
+        {
+            "key": "CIT0120",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Zabinski, J. W., K. J. Pieper, and J. M. Gibson. 2017. A Bayesian Belief Network Model Assessing the Risk to Wastewater Workers of Contracting Ebola Virus Disease During an Outbreak. Risk analysis: an official publication of the Society for Risk Analysis.",
+            "DOI": "10.1111/risa.12827"
+        },
+        {
+            "key": "CIT0121",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.theriogenology.2016.03.006"
+        }
+    ],
+    "container-title": "Nanotoxicology",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://tandfonline.com/doi/pdf/10.1080/17435390.2019.1595206",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://www.tandfonline.com/doi/pdf/10.1080/17435390.2019.1595206",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                8,
+                30
+            ]
+        ],
+        "date-time": "2020-08-30T01:23:43Z",
+        "timestamp": 1598750623000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.tandfonline.com/doi/full/10.1080/17435390.2019.1595206"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019,
+                5,
+                29
+            ]
+        ]
+    },
+    "references-count": 121,
+    "journal-issue": {
+        "issue": "6",
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    7,
+                    3
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1080/17435390.2019.1595206"
+    ],
+    "URL": "http://dx.doi.org/10.1080/17435390.2019.1595206",
+    "relation": {},
+    "ISSN": [
+        "1743-5390",
+        "1743-5404"
+    ],
+    "subject": [
+        "Toxicology",
+        "Biomedical Engineering"
+    ],
+    "container-title-short": "Nanotoxicology",
+    "published": {
+        "date-parts": [
+            [
+                2019,
+                5,
+                29
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+            "order": 1,
+            "name": "peerreview_statement",
+            "label": "Peer Review Statement"
+        },
+        {
+            "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=inan20",
+            "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=inan20",
+            "order": 2,
+            "name": "aims_and_scope_url",
+            "label": "Aim & Scope"
+        },
+        {
+            "value": "2019-01-11",
+            "order": 0,
+            "name": "received",
+            "label": "Received",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        },
+        {
+            "value": "2019-03-07",
+            "order": 1,
+            "name": "revised",
+            "label": "Revised",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        },
+        {
+            "value": "2019-03-09",
+            "order": 2,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        },
+        {
+            "value": "2019-05-29",
+            "order": 3,
+            "name": "published",
+            "label": "Published",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        }
+    ]
+}

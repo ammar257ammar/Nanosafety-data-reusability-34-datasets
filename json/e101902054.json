@@ -1,0 +1,715 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                30
+            ]
+        ],
+        "date-time": "2022-03-30T08:59:29Z",
+        "timestamp": 1648630769641
+    },
+    "reference-count": 43,
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        3,
+                        20
+                    ]
+                ],
+                "date-time": "2020-03-20T00:00:00Z",
+                "timestamp": 1584662400000
+            },
+            "content-version": "am",
+            "delay-in-days": 444,
+            "URL": "http://rsc.li/journals-terms-of-use"
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "rsc.org"
+        ],
+        "crossmark-restriction": true
+    },
+    "abstract": "<p>Using a combination of electronic structure simulations and machine learning we have shown that the characteristic negative electron affinity (NEA) of hydrogenated diamond nanoparticles exhibits a class-dependent structure/property relationship.</p>",
+    "DOI": "10.1039/c9nh00060g",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                3,
+                20
+            ]
+        ],
+        "date-time": "2019-03-20T16:04:24Z",
+        "timestamp": 1553097864000
+    },
+    "page": "983-990",
+    "update-policy": "http://dx.doi.org/10.1039/rsc_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 10,
+    "title": "Classifying and predicting the electron affinity of diamond nanoparticles using machine learning",
+    "prefix": "10.1039",
+    "volume": "4",
+    "author": [
+        {
+            "given": "C. A.",
+            "family": "Feigl",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "CSIRO Data61"
+                },
+                {
+                    "name": "Docklands"
+                },
+                {
+                    "name": "Australia"
+                }
+            ]
+        },
+        {
+            "given": "B.",
+            "family": "Motevalli",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "CSIRO Data61"
+                },
+                {
+                    "name": "Docklands"
+                },
+                {
+                    "name": "Australia"
+                }
+            ]
+        },
+        {
+            "given": "A. J.",
+            "family": "Parker",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "CSIRO Data61"
+                },
+                {
+                    "name": "Docklands"
+                },
+                {
+                    "name": "Australia"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-6635-2549",
+            "authenticated-orcid": false,
+            "given": "B.",
+            "family": "Sun",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "CSIRO Data61"
+                },
+                {
+                    "name": "Docklands"
+                },
+                {
+                    "name": "Australia"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-4784-2382",
+            "authenticated-orcid": false,
+            "given": "A. S.",
+            "family": "Barnard",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "CSIRO Data61"
+                },
+                {
+                    "name": "Docklands"
+                },
+                {
+                    "name": "Australia"
+                }
+            ]
+        }
+    ],
+    "member": "292",
+    "published-online": {
+        "date-parts": [
+            [
+                2019
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "C9NH00060G-(cit1)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "3305",
+            "DOI": "10.1021/nl071521o",
+            "volume": "7",
+            "author": "Huang",
+            "year": "2007",
+            "journal-title": "Nano Lett."
+        },
+        {
+            "key": "C9NH00060G-(cit2)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.1021/nn7000867",
+            "volume": "2",
+            "author": "Huang",
+            "year": "2008",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "C9NH00060G-(cit3)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1021/nn7000917",
+            "volume": "2",
+            "author": "Chow",
+            "year": "2008",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "C9NH00060G-(cit4)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "883",
+            "DOI": "10.1517/17425240903156382",
+            "volume": "6",
+            "author": "Lam",
+            "year": "2009",
+            "journal-title": "Expert Opin. Drug Delivery"
+        },
+        {
+            "key": "C9NH00060G-(cit5)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "2844",
+            "DOI": "10.1039/c1nr10278h",
+            "volume": "3",
+            "author": "Smith",
+            "year": "2011",
+            "journal-title": "Nanoscale"
+        },
+        {
+            "key": "C9NH00060G-(cit6)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "4770",
+            "DOI": "10.1002/adma.201102263",
+            "volume": "23",
+            "author": "Zhang",
+            "year": "2011",
+            "journal-title": "Adv. Mater."
+        },
+        {
+            "key": "C9NH00060G-(cit7)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "5720",
+            "DOI": "10.1016/j.biomaterials.2009.07.004",
+            "volume": "30",
+            "author": "Shimkunas",
+            "year": "2009",
+            "journal-title": "Biomaterials"
+        },
+        {
+            "key": "C9NH00060G-(cit8)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "2003",
+            "DOI": "10.1007/s10439-009-9662-9",
+            "volume": "37",
+            "author": "Chen",
+            "year": "2009",
+            "journal-title": "Ann. Biomed. Eng."
+        },
+        {
+            "key": "C9NH00060G-(cit9)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "2095",
+            "DOI": "10.1021/nn800465x",
+            "volume": "2",
+            "author": "Lam",
+            "year": "2008",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "C9NH00060G-(cit10)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "445702",
+            "DOI": "10.1088/0957-4484/25/44/445702",
+            "volume": "25",
+            "author": "Barnard",
+            "year": "2014",
+            "journal-title": "Nanotechnology"
+        },
+        {
+            "key": "C9NH00060G-(cit11)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "30209",
+            "DOI": "10.1021/jp509355g",
+            "volume": "118",
+            "author": "Lai",
+            "year": "2014",
+            "journal-title": "J. Phys. Chem. C"
+        },
+        {
+            "key": "C9NH00060G-(cit12)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "989",
+            "DOI": "10.1166/jnn.2015.9735",
+            "volume": "15",
+            "author": "Lai",
+            "year": "2015",
+            "journal-title": "J. Nanosci. Nanotechnol."
+        },
+        {
+            "key": "C9NH00060G-(cit13)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "14264",
+            "DOI": "10.1039/C6NR03068H",
+            "volume": "8",
+            "author": "Sun",
+            "year": "2016",
+            "journal-title": "Nanoscale"
+        },
+        {
+            "key": "C9NH00060G-(cit14)/*[position()=1]",
+            "first-page": "023002",
+            "volume": "28",
+            "author": "Barnard",
+            "year": "2016",
+            "journal-title": "J. Phys.: Condens. Matter"
+        },
+        {
+            "key": "C9NH00060G-(cit15)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "8893",
+            "DOI": "10.1039/C8NR01688G",
+            "volume": "10",
+            "author": "Barnard",
+            "year": "2018",
+            "journal-title": "Nanoscale"
+        },
+        {
+            "key": "C9NH00060G-(cit16)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "657",
+            "DOI": "10.1134/1.1711444",
+            "volume": "46",
+            "author": "Zhirnov",
+            "year": "2004",
+            "journal-title": "Phys. Solid State"
+        },
+        {
+            "key": "C9NH00060G-(cit17)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "11517",
+            "DOI": "10.1039/c1cp20424f",
+            "volume": "bf13",
+            "author": "Girard",
+            "year": "2011",
+            "journal-title": "Phys. Chem. Chem. Phys."
+        },
+        {
+            "key": "C9NH00060G-(cit18)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "1803",
+            "DOI": "10.1103/PhysRevLett.78.1803",
+            "volume": "78",
+            "author": "Ristein",
+            "year": "1997",
+            "journal-title": "Phys. Rev. Lett."
+        },
+        {
+            "key": "C9NH00060G-(cit19)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "041304R",
+            "DOI": "10.1103/PhysRevB.68.041304",
+            "volume": "68",
+            "author": "Takeuchi",
+            "year": "2003",
+            "journal-title": "Phys. Rev. B: Condens. Matter Mater. Phys."
+        },
+        {
+            "key": "C9NH00060G-(cit20)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "152103",
+            "DOI": "10.1063/1.1900925",
+            "volume": "86",
+            "author": "Takeuchi",
+            "year": "2005",
+            "journal-title": "Appl. Phys. Lett."
+        },
+        {
+            "key": "C9NH00060G-(cit21)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "2072",
+            "DOI": "10.1063/1.366940",
+            "volume": "83",
+            "author": "Baumann",
+            "year": "1998",
+            "journal-title": "J. Appl. Phys."
+        },
+        {
+            "key": "C9NH00060G-(cit22)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "320",
+            "DOI": "10.1016/S0039-6028(98)00259-3",
+            "volume": "409",
+            "author": "Baumann",
+            "year": "1998",
+            "journal-title": "Surf. Sci."
+        },
+        {
+            "key": "C9NH00060G-(cit23)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "2062",
+            "DOI": "10.1002/pssa.201100010",
+            "volume": "208",
+            "author": "Edmonds",
+            "year": "2011",
+            "journal-title": "Phys. Status Solidi A"
+        },
+        {
+            "key": "C9NH00060G-(cit24)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "439",
+            "DOI": "10.1038/nature02751",
+            "volume": "430",
+            "author": "Strobel",
+            "year": "2004",
+            "journal-title": "Nature"
+        },
+        {
+            "key": "C9NH00060G-(cit25)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "5608",
+            "DOI": "10.1002/adfm.201301424",
+            "volume": "23",
+            "author": "O'Donnell",
+            "year": "2013",
+            "journal-title": "Adv. Funct. Mater."
+        },
+        {
+            "key": "C9NH00060G-(cit26)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.1039/C7NH00125H",
+            "volume": "3",
+            "author": "Chang",
+            "year": "2018",
+            "journal-title": "Nanoscale Horiz."
+        },
+        {
+            "key": "C9NH00060G-(cit27)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "4824",
+            "DOI": "10.1021/nn100748k",
+            "volume": "4",
+            "author": "Williams",
+            "year": "2010",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "C9NH00060G-(cit28)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "12549",
+            "DOI": "10.1039/C7NR03200E",
+            "volume": "9",
+            "author": "Ginés",
+            "year": "2017",
+            "journal-title": "Nanoscale"
+        },
+        {
+            "key": "C9NH00060G-(cit29)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "053208",
+            "DOI": "10.1063/1.4946894",
+            "volume": "4",
+            "author": "Agrawal",
+            "year": "2016",
+            "journal-title": "APL Mater."
+        },
+        {
+            "key": "C9NH00060G-(cit30)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "89",
+            "DOI": "10.1039/C5NH00126A",
+            "volume": "1",
+            "author": "Sun",
+            "year": "2016",
+            "journal-title": "Nanoscale Horiz."
+        },
+        {
+            "key": "C9NH00060G-(cit31)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "977",
+            "DOI": "10.1557/jmr.2016.80",
+            "volume": "31",
+            "author": "Jain",
+            "year": "2016",
+            "journal-title": "J. Mater. Res."
+        },
+        {
+            "key": "C9NH00060G-(cit32)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "54",
+            "DOI": "10.1038/s41524-017-0056-5",
+            "volume": "3",
+            "author": "Ramprasad",
+            "year": "2017",
+            "journal-title": "npj Comput. Mater."
+        },
+        {
+            "key": "C9NH00060G-(cit33)/*[position()=1]",
+            "first-page": "225",
+            "volume": "30",
+            "author": "Ramakrishnan",
+            "year": "2017",
+            "journal-title": "Rev. Comput. Chem."
+        },
+        {
+            "key": "C9NH00060G-(cit34)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "2413",
+            "DOI": "10.1021/acs.jcim.7b00272",
+            "volume": "57",
+            "author": "Sun",
+            "year": "2017",
+            "journal-title": "J. Chem. Inf. Model."
+        },
+        {
+            "key": "C9NH00060G-(cit35)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "167",
+            "DOI": "10.1016/j.cossms.2016.07.002",
+            "volume": "21",
+            "author": "Ward",
+            "year": "2017",
+            "journal-title": "Curr. Opin. Solid State Mater. Sci."
+        },
+        {
+            "key": "C9NH00060G-(cit36)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "939",
+            "DOI": "10.1039/C8MH00653A",
+            "volume": "5",
+            "author": "Gu",
+            "year": "2018",
+            "journal-title": "Mater. Horiz."
+        },
+        {
+            "key": "C9NH00060G-(cit37)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "343",
+            "DOI": "10.1039/C8MH01135D",
+            "volume": "6",
+            "author": "Padula",
+            "year": "2019",
+            "journal-title": "Mater. Horiz."
+        },
+        {
+            "key": "C9NH00060G-(cit38)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "365",
+            "DOI": "10.1039/C8NH00233A",
+            "volume": "4",
+            "author": "Ho",
+            "year": "2019",
+            "journal-title": "Nanoscale Horiz."
+        },
+        {
+            "key": "C9NH00060G-(cit39)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "volume-title": "Nanodiamond Data Set, v1. CSIRO Data Collection",
+            "author": "Barnard",
+            "year": "2016",
+            "unstructured": "A. Barnard  ,  Nanodiamond Data Set, v1. CSIRO Data Collection ,  2016 10.4225/08/571F076D050B1",
+            "DOI": "10.4225/08/571F076D050B1"
+        },
+        {
+            "key": "C9NH00060G-(cit40)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "volume-title": "Twinned Nanodiamond Data Set, v2. CSIRO Data Collection",
+            "author": "Barnard",
+            "year": "2018",
+            "unstructured": "A. Barnard  ,  Twinned Nanodiamond Data Set, v2. CSIRO Data Collection ,  2018 10.25919/5be375f444e69",
+            "DOI": "10.25919/5be375f444e69"
+        },
+        {
+            "key": "C9NH00060G-(cit41)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "142",
+            "DOI": "10.1016/j.carbon.2016.03.005",
+            "volume": "103",
+            "author": "Fernandez",
+            "year": "2016",
+            "journal-title": "Carbon"
+        },
+        {
+            "key": "C9NH00060G-(cit42)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "2413",
+            "DOI": "10.1021/acs.jcim.7b00272",
+            "volume": "57",
+            "author": "Sun",
+            "year": "2017",
+            "journal-title": "J. Chem. Inf. Model."
+        },
+        {
+            "key": "C9NH00060G-(cit43)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "28085",
+            "DOI": "10.1021/acs.jpcc.8b08386",
+            "volume": "122",
+            "author": "Sun",
+            "year": "2018",
+            "journal-title": "J. Phys. Chem. C"
+        }
+    ],
+    "container-title": "Nanoscale Horizons",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://pubs.rsc.org/en/content/articlepdf/2019/NH/C9NH00060G",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                6,
+                25
+            ]
+        ],
+        "date-time": "2019-06-25T12:41:50Z",
+        "timestamp": 1561466510000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "http://xlink.rsc.org/?DOI=C9NH00060G"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019
+            ]
+        ]
+    },
+    "references-count": 43,
+    "journal-issue": {
+        "issue": "4",
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    6,
+                    24
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1039/C9NH00060G",
+    "relation": {},
+    "ISSN": [
+        "2055-6756",
+        "2055-6764"
+    ],
+    "subject": [
+        "General Materials Science"
+    ],
+    "container-title-short": "Nanoscale Horiz.",
+    "published": {
+        "date-parts": [
+            [
+                2019
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "This document is Similarity Check deposited",
+            "name": "similarity_check",
+            "explanation": {
+                "URL": "https://www.crossref.org/services/similarity-check/"
+            },
+            "group": {
+                "name": "similarity_check",
+                "label": "SIMILARITY CHECK"
+            }
+        },
+        {
+            "value": "Supplementary Information",
+            "URL": "https://doi.org/10.1039/C9NH00060G",
+            "name": "related_data",
+            "group": {
+                "name": "related_data",
+                "label": "RELATED DATA"
+            }
+        },
+        {
+            "value": "B. Sun (ORCID)",
+            "URL": "http://orcid.org/0000-0002-6635-2549",
+            "name": "identifier",
+            "group": {
+                "name": "author_identifiers",
+                "label": "IDENTIFIERS"
+            }
+        },
+        {
+            "value": "A. S. Barnard (ORCID)",
+            "URL": "http://orcid.org/0000-0002-4784-2382",
+            "name": "identifier",
+            "group": {
+                "name": "author_identifiers",
+                "label": "IDENTIFIERS"
+            }
+        },
+        {
+            "value": "A. S. Barnard (ResearcherID)",
+            "URL": "http://www.researcherid.com/rid/A-7340-2011",
+            "name": "identifier",
+            "group": {
+                "name": "author_identifiers",
+                "label": "IDENTIFIERS"
+            }
+        },
+        {
+            "value": "Single-blind",
+            "order": 2,
+            "name": "peer_review_method",
+            "group": {
+                "name": "peer_review_method",
+                "label": "PEER REVIEW METHOD"
+            }
+        },
+        {
+            "value": "Received 31 January 2019; Accepted 15 March 2019;  Accepted Manuscript published 20 March 2019;  Advance Article published 26 March 2019;  Version of Record published 24 June 2019",
+            "order": 1,
+            "name": "history",
+            "group": {
+                "name": "publication_history",
+                "label": "PUBLICATION HISTORY"
+            }
+        }
+    ]
+}

@@ -1,0 +1,942 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                14
+            ]
+        ],
+        "date-time": "2022-04-14T12:54:31Z",
+        "timestamp": 1649940871703
+    },
+    "reference-count": 65,
+    "publisher": "Elsevier BV",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2014,
+                        12,
+                        1
+                    ]
+                ],
+                "date-time": "2014-12-01T00:00:00Z",
+                "timestamp": 1417392000000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        1,
+                        28
+                    ]
+                ],
+                "date-time": "2019-01-28T00:00:00Z",
+                "timestamp": 1548633600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 1519,
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100000902",
+            "name": "European Union (FEDER funds through COMPETE) and National Funds (FCT, Fundação",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "Pest-C/EQB/LA0006/2013"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100000902",
+            "name": "European Union",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "NORTE-07-0124-FEDER-000067-NANOCHEMISTRY"
+            ]
+        },
+        {
+            "name": "MICINN-Spain",
+            "award": [
+                "MAT2011-25501"
+            ]
+        },
+        {
+            "DOI": "10.13039/100006129",
+            "name": "FCT",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "SFRH/BD/77690/2011"
+            ]
+        },
+        {
+            "name": "European Social Fund",
+            "award": [
+                "SFRH/BPD/63666/2009"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2014,
+                12
+            ]
+        ]
+    },
+    "DOI": "10.1016/j.envint.2014.08.009",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2014,
+                8,
+                29
+            ]
+        ],
+        "date-time": "2014-08-29T15:30:46Z",
+        "timestamp": 1409326246000
+    },
+    "page": "288-294",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 81,
+    "title": "Computational ecotoxicology: Simultaneous prediction of ecotoxic effects of nanoparticles under different experimental conditions",
+    "prefix": "10.1016",
+    "volume": "73",
+    "author": [
+        {
+            "given": "Valeria V.",
+            "family": "Kleandrova",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Feng",
+            "family": "Luan",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Humberto",
+            "family": "González-Díaz",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Juan M.",
+            "family": "Ruso",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "André",
+            "family": "Melo",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Alejandro",
+            "family": "Speck-Planche",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "M. Natália D.S.",
+            "family": "Cordeiro",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "78",
+    "reference": [
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "1897",
+            "DOI": "10.1002/smll.200801716",
+            "article-title": "Toxicity assessments of multisized gold and silver nanoparticles in zebrafish embryos",
+            "volume": "5",
+            "author": "Bar-Ilan",
+            "year": "2009",
+            "journal-title": "Small"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/S1381-1169(01)00313-2",
+            "article-title": "Catalysis by metal nanoparticles supported on functional organic polymers",
+            "volume": "177",
+            "author": "Biffis",
+            "year": "2001",
+            "journal-title": "J Mol Catal A"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "298",
+            "DOI": "10.1002/wnan.137",
+            "article-title": "QSAR modeling of nanomaterials",
+            "volume": "3",
+            "author": "Burello",
+            "year": "2011",
+            "journal-title": "Wiley Interdiscip Rev Nanomed Nanobiotechnol"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "415",
+            "DOI": "10.1016/j.chemosphere.2008.05.024",
+            "article-title": "A novel approach to predict aquatic toxicity from molecular structure",
+            "volume": "73",
+            "author": "Castillo-Garit",
+            "year": "2008",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "730",
+            "DOI": "10.1002/jat.1609",
+            "article-title": "Nanotechnology and human health: risks and benefits",
+            "volume": "30",
+            "author": "Cattaneo",
+            "year": "2010",
+            "journal-title": "J Appl Toxicol"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "8673",
+            "DOI": "10.1021/nn4029184",
+            "article-title": "Palladium nanoparticle enhanced giant photoresponse at LaAlO/SrTiO two-dimensional electron gas heterostructures",
+            "volume": "7",
+            "author": "Chan",
+            "year": "2013",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "9366",
+            "DOI": "10.1021/nn205097e",
+            "article-title": "Probing surface band bending of surface-engineered metal oxide nanowires",
+            "volume": "6",
+            "author": "Chen",
+            "year": "2012",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0055",
+            "series-title": "Biomedical Engineering—From Theory to Applications",
+            "first-page": "299",
+            "article-title": "Nanoparticles in biomedical applications and their safety concerns",
+            "author": "Choi",
+            "year": "2011"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "1784",
+            "DOI": "10.1016/j.bbapap.2009.08.020",
+            "article-title": "3D entropy and moments prediction of enzyme classes and experimental–theoretic study of peptide fingerprints in Leishmania parasites",
+            "volume": "1794",
+            "author": "Concu",
+            "year": "2009",
+            "journal-title": "Biochim Biophys Acta"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "1510",
+            "DOI": "10.1002/jcc.21170",
+            "article-title": "Computational chemistry study of 3D-structure–function relationships for enzymes based on Markov models for protein electrostatic, HINT, and van der Waals potentials",
+            "volume": "30",
+            "author": "Concu",
+            "year": "2009",
+            "journal-title": "J Comput Chem"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "468",
+            "DOI": "10.1016/j.tibtech.2009.04.003",
+            "article-title": "Biomedical applications of distally controlled magnetic nanoparticles",
+            "volume": "27",
+            "author": "Corchero",
+            "year": "2009",
+            "journal-title": "Trends Biotechnol"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "5808",
+            "DOI": "10.1021/nl303144k",
+            "article-title": "Modeling biological activities of nanoparticles",
+            "volume": "12",
+            "author": "Epa",
+            "year": "2012",
+            "journal-title": "Nano Lett"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0065",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1016/S1383-5718(98)00141-7",
+            "article-title": "Structure–mutagenicity relationships in 2-furylethylene derivatives. A molecular orbital study of the role of nitro groups",
+            "volume": "420",
+            "author": "Estrada",
+            "year": "1998",
+            "journal-title": "Mutat Res"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0080",
+            "doi-asserted-by": "crossref",
+            "first-page": "309",
+            "DOI": "10.1080/10629360108032919",
+            "article-title": "Quantitative structure–toxicity relationships using TOPS-MODE. 1. Nitrobenzene toxicity to Tetrahymena pyriformis",
+            "volume": "12",
+            "author": "Estrada",
+            "year": "2001",
+            "journal-title": "SAR QSAR Environ Res"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0070",
+            "doi-asserted-by": "crossref",
+            "first-page": "445",
+            "DOI": "10.1080/10629360108035384",
+            "article-title": "Quantitative structure–toxicity relationships using TOPS-MODE. 2. Neurotoxicity of a non-congeneric series of solvents.",
+            "volume": "12",
+            "author": "Estrada",
+            "year": "2001",
+            "journal-title": "SAR QSAR Environ Res"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0075",
+            "doi-asserted-by": "crossref",
+            "first-page": "1226",
+            "DOI": "10.1021/tx034093k",
+            "article-title": "Computer-aided knowledge generation for understanding skin sensitization mechanisms: the TOPS-MODE approach",
+            "volume": "16",
+            "author": "Estrada",
+            "year": "2003",
+            "journal-title": "Chem Res Toxicol"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0085",
+            "doi-asserted-by": "crossref",
+            "first-page": "51",
+            "DOI": "10.1016/j.envint.2012.03.004",
+            "article-title": "Quantitative consensus of bioaccumulation models for integrated testing strategies",
+            "volume": "45",
+            "author": "Fernandez",
+            "year": "2012",
+            "journal-title": "Environ Int"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0090",
+            "doi-asserted-by": "crossref",
+            "first-page": "5703",
+            "DOI": "10.1021/nn1013484",
+            "article-title": "Quantitative nanostructure–activity relationship modeling",
+            "volume": "4",
+            "author": "Fourches",
+            "year": "2010",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0095",
+            "doi-asserted-by": "crossref",
+            "first-page": "136",
+            "DOI": "10.1016/j.desal.2010.10.052",
+            "article-title": "Acute toxicity of cerium oxide, titanium oxide and iron oxide nanoparticles using standardized tests",
+            "volume": "269",
+            "author": "García",
+            "year": "2011",
+            "journal-title": "Desalination"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0100",
+            "doi-asserted-by": "crossref",
+            "first-page": "561",
+            "DOI": "10.1007/s11030-010-9280-3",
+            "article-title": "First computational chemistry multi-target model for anti-Alzheimer, anti-parasitic, anti-fungi, and anti-bacterial activity of GSK-3 inhibitors in vitro, in vivo, and in different cellular lines",
+            "volume": "15",
+            "author": "Garcia",
+            "year": "2011",
+            "journal-title": "Mol Divers"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0105",
+            "doi-asserted-by": "crossref",
+            "first-page": "510",
+            "DOI": "10.1016/j.chemosphere.2010.12.059",
+            "article-title": "Biotoxicity of nickel oxide nanoparticles and bio-remediation by microalgae Chlorella vulgaris",
+            "volume": "83",
+            "author": "Gong",
+            "year": "2011",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0110",
+            "doi-asserted-by": "crossref",
+            "first-page": "1713",
+            "DOI": "10.2174/1568026611313140011",
+            "article-title": "General theory for multiple input-output perturbations in complex molecular systems. 1. Linear QSPR electronegativity models in physical, organic, and medicinal chemistry",
+            "volume": "13",
+            "author": "Gonzalez-Diaz",
+            "year": "2013",
+            "journal-title": "Curr Top Med Chem"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0115",
+            "doi-asserted-by": "crossref",
+            "first-page": "1972",
+            "DOI": "10.1897/08-002.1",
+            "article-title": "Effects of particle composition and species on toxicity of metallic nanomaterials in aquatic organisms",
+            "volume": "27",
+            "author": "Griffitt",
+            "year": "2008",
+            "journal-title": "Environ Toxicol Chem"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0120",
+            "doi-asserted-by": "crossref",
+            "first-page": "822",
+            "DOI": "10.1093/bioinformatics/btq037",
+            "article-title": "Small-sample precision of ROC-related estimates",
+            "volume": "26",
+            "author": "Hanczar",
+            "year": "2010",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0130",
+            "doi-asserted-by": "crossref",
+            "first-page": "233",
+            "DOI": "10.3109/17435390.2011.569097",
+            "article-title": "Changing exposure media can reverse the cytotoxicity of ceria nanoparticles for Escherichia coli",
+            "volume": "6",
+            "author": "He",
+            "year": "2012",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0125",
+            "doi-asserted-by": "crossref",
+            "first-page": "10381",
+            "DOI": "10.1021/am403554x",
+            "article-title": "Multilayer dual-polymer-coated upconversion nanoparticles for multimodal imaging and serum-enhanced gene delivery",
+            "volume": "5",
+            "author": "He",
+            "year": "2013",
+            "journal-title": "ACS Appl Mater Interfaces"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0135",
+            "doi-asserted-by": "crossref",
+            "first-page": "1308",
+            "DOI": "10.1016/j.chemosphere.2007.11.047",
+            "article-title": "Toxicity of nanosized and bulk ZnO, CuO and TiO2 to bacteria Vibrio fischeri and crustaceans Daphnia magna and Thamnocephalus platyurus",
+            "volume": "71",
+            "author": "Heinlaan",
+            "year": "2008",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0140",
+            "series-title": "A Comprehensive Reference for Science",
+            "article-title": "Statistics Methods and Applications",
+            "author": "Hill",
+            "year": "2006"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0145",
+            "doi-asserted-by": "crossref",
+            "first-page": "813",
+            "DOI": "10.1021/ar300069t",
+            "article-title": "Ecological nanotoxicology: integrating nanomaterial hazard considerations across the subcellular, population, community, and ecosystems levels",
+            "volume": "46",
+            "author": "Holden",
+            "year": "2013",
+            "journal-title": "Acc Chem Res"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0150",
+            "series-title": "Chemicool Periodic Table",
+            "author": "Hsu",
+            "year": "2013"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0155",
+            "series-title": "Applied MANOVA and Discriminant Analysis",
+            "author": "Huberty",
+            "year": "2006"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0160",
+            "doi-asserted-by": "crossref",
+            "first-page": "225",
+            "DOI": "10.1065/espr2006.06.311",
+            "article-title": "Ecotoxic effect of photocatalytic active nanoparticles (TiO2) on algae and daphnids",
+            "volume": "13",
+            "author": "Hund-Rinke",
+            "year": "2006",
+            "journal-title": "Environ Sci Pollut Res Int"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0165",
+            "doi-asserted-by": "crossref",
+            "first-page": "6349",
+            "DOI": "10.1021/es9010543",
+            "article-title": "Toxicity and developmental defects of different sizes and shape nickel nanoparticles in zebrafish",
+            "volume": "43",
+            "author": "Ispas",
+            "year": "2009",
+            "journal-title": "Environ Sci Technol"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0170",
+            "doi-asserted-by": "crossref",
+            "first-page": "344",
+            "DOI": "10.1016/j.jhazmat.2009.12.038",
+            "article-title": "QSAR modeling of toxicity of diverse organic chemicals to Daphnia magna using 2D and 3D descriptors",
+            "volume": "177",
+            "author": "Kar",
+            "year": "2010",
+            "journal-title": "J Hazard Mater"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0175",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.1016/j.chemosphere.2011.12.019",
+            "article-title": "First report on development of quantitative interspecies structure–carcinogenicity relationship models and exploring discriminatory features for rodent carcinogenicity of diverse organic chemicals using OECD guidelines",
+            "volume": "87",
+            "author": "Kar",
+            "year": "2012",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0180",
+            "doi-asserted-by": "crossref",
+            "first-page": "1116",
+            "DOI": "10.1016/j.tiv.2009.05.015",
+            "article-title": "Toxicity of nanoparticles of ZnO, CuO and TiO2 to yeast Saccharomyces cerevisiae",
+            "volume": "23",
+            "author": "Kasemets",
+            "year": "2009",
+            "journal-title": "Toxicol In Vitro"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0185",
+            "doi-asserted-by": "crossref",
+            "first-page": "3784",
+            "DOI": "10.1002/smll.201300522",
+            "article-title": "Organic field-effect transistor memory devices using discrete ferritin nanoparticle-based gate dielectrics",
+            "volume": "9",
+            "author": "Kim",
+            "year": "2013",
+            "journal-title": "Small"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0190",
+            "doi-asserted-by": "crossref",
+            "first-page": "14",
+            "DOI": "10.1186/1743-8977-6-14",
+            "article-title": "Comparative toxicity of 24 manufactured nanoparticles in human alveolar epithelial and macrophage cell lines",
+            "volume": "6",
+            "author": "Lanone",
+            "year": "2009",
+            "journal-title": "Part Fibre Toxicol"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0195",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1016/j.ab.2006.04.029",
+            "article-title": "Immunofluorescent labeling of cancer cells with quantum dots synthesized in aqueous solution",
+            "volume": "354",
+            "author": "Li",
+            "year": "2006",
+            "journal-title": "Anal Biochem"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0200",
+            "doi-asserted-by": "crossref",
+            "first-page": "243",
+            "DOI": "10.1016/j.envpol.2007.01.016",
+            "article-title": "Phytotoxicity of nanoparticles: inhibition of seed germination and root growth",
+            "volume": "150",
+            "author": "Lin",
+            "year": "2007",
+            "journal-title": "Environ Pollut"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0205",
+            "series-title": "Nanoscale Materials",
+            "year": "2004"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0210",
+            "doi-asserted-by": "crossref",
+            "first-page": "8320",
+            "DOI": "10.1021/nn404613v",
+            "article-title": "DNA nanotechnology: from sensing and DNA machines to drug-delivery systems",
+            "volume": "7",
+            "author": "Lu",
+            "year": "2013",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0215",
+            "doi-asserted-by": "crossref",
+            "first-page": "4957",
+            "DOI": "10.1021/nl4029973",
+            "article-title": "A sinter-resistant catalytic system fabricated by maneuvering the selectivity of SiO2 deposition onto TiO2 surface versus Pt nanoparticle surface",
+            "volume": "13",
+            "author": "Lu",
+            "year": "2013",
+            "journal-title": "Nano Lett"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0220",
+            "series-title": "Sustainable Preparation of Metal Nanoparticles",
+            "year": "2013"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0230",
+            "doi-asserted-by": "crossref",
+            "first-page": "273",
+            "DOI": "10.1016/j.chemosphere.2009.10.050",
+            "article-title": "Effects of rare earth oxide nanoparticles on root elongation of plants",
+            "volume": "78",
+            "author": "Ma",
+            "year": "2010",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0225",
+            "doi-asserted-by": "crossref",
+            "first-page": "743",
+            "DOI": "10.3109/17435390.2010.545487",
+            "article-title": "Phytotoxicity and biotransformation of La2O3 nanoparticles in a terrestrial plant cucumber (Cucumis sativus)",
+            "volume": "5",
+            "author": "Ma",
+            "year": "2011",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0235",
+            "doi-asserted-by": "crossref",
+            "first-page": "2316",
+            "DOI": "10.1021/es2031483",
+            "article-title": "Multimodal action and selective toxicity of zerovalent iron nanoparticles against cyanobacteria",
+            "volume": "46",
+            "author": "Marsalek",
+            "year": "2012",
+            "journal-title": "Environ Sci Technol"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0240",
+            "series-title": "Nanotoxicology: Characterization, Dosing and Health Effects",
+            "year": "2007"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0245",
+            "doi-asserted-by": "crossref",
+            "first-page": "2494",
+            "DOI": "10.1002/smll.200900179",
+            "article-title": "Toward the development of “nano-QSARs”: advances and challenges",
+            "volume": "5",
+            "author": "Puzyn",
+            "year": "2009",
+            "journal-title": "Small"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0250",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1038/nnano.2011.10",
+            "article-title": "Using nano-QSAR to predict the cytotoxicity of metal oxide nanoparticles",
+            "volume": "6",
+            "author": "Puzyn",
+            "year": "2011",
+            "journal-title": "Nat Nanotechnol"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0255",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.chemosphere.2007.07.037",
+            "article-title": "QSTR with extended topochemical atom (ETA) indices. 9. Comparative QSAR for the toxicity of diverse functional organic compounds to Chlorella vulgaris using chemometric tools",
+            "volume": "70",
+            "author": "Roy",
+            "year": "2007",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0260",
+            "doi-asserted-by": "crossref",
+            "first-page": "999",
+            "DOI": "10.1016/j.chemosphere.2009.07.072",
+            "article-title": "QSTR with extended topochemical atom (ETA) indices. 12. QSAR for the toxicity of diverse aromatic compounds to Tetrahymena pyriformis using chemometric tools",
+            "volume": "77",
+            "author": "Roy",
+            "year": "2009",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0265",
+            "doi-asserted-by": "crossref",
+            "first-page": "3287",
+            "DOI": "10.1007/s11051-011-0243-0",
+            "article-title": "Studies on toxicity of aluminum oxide (Al2O3) nanoparticles to microalgae species: Scenedesmus sp. and Chlorella sp",
+            "volume": "13",
+            "author": "Sadiq",
+            "year": "2011",
+            "journal-title": "J Nanopart Res"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0270",
+            "doi-asserted-by": "crossref",
+            "first-page": "188",
+            "DOI": "10.1021/nl303850v",
+            "article-title": "The planar parabolic optical antenna",
+            "volume": "13",
+            "author": "Schoen",
+            "year": "2013",
+            "journal-title": "Nano Lett"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0275",
+            "doi-asserted-by": "crossref",
+            "first-page": "142",
+            "DOI": "10.1021/ci3005308",
+            "article-title": "Dependence of QSAR models on the selection of trial descriptor sets: a demonstration using nanotoxicity endpoints of decorated nanotubes",
+            "volume": "53",
+            "author": "Shao",
+            "year": "2013",
+            "journal-title": "J Chem Inf Model"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0280",
+            "doi-asserted-by": "crossref",
+            "first-page": "308",
+            "DOI": "10.1016/j.ecoenv.2012.03.018",
+            "article-title": "Predicting multiple ecotoxicological profiles in agrochemical fungicides: a multi-species chemoinformatic approach",
+            "volume": "80",
+            "author": "Speck-Planche",
+            "year": "2012",
+            "journal-title": "Ecotoxicol Environ Saf"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0285",
+            "series-title": "Data analysis software system, 6.0, Tulsa",
+            "article-title": "Statistica",
+            "author": "Statsoft-Team",
+            "year": "2001"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0290",
+            "doi-asserted-by": "crossref",
+            "first-page": "1636",
+            "DOI": "10.2174/15680266113139990114",
+            "article-title": "Entropy model for multiplex drug-target interaction endpoints of drug immunotoxicity",
+            "volume": "13",
+            "author": "Tenorio-Borroto",
+            "year": "2013",
+            "journal-title": "Curr Top Med Chem"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0295",
+            "doi-asserted-by": "crossref",
+            "first-page": "1003",
+            "DOI": "10.1002/smll.201202023",
+            "article-title": "Loading metal nanostructures on cotton fabrics as recyclable catalysts",
+            "volume": "9",
+            "author": "Yang",
+            "year": "2013",
+            "journal-title": "Small"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0300",
+            "doi-asserted-by": "crossref",
+            "first-page": "284",
+            "DOI": "10.3109/17435390903305260",
+            "article-title": "Direct and indirect CeO2 nanoparticles toxicity for Escherichia coli and Synechocystis",
+            "volume": "3",
+            "author": "Zeyons",
+            "year": "2009",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0305",
+            "doi-asserted-by": "crossref",
+            "first-page": "3869",
+            "DOI": "10.1002/adma.201301890",
+            "article-title": "Near-infrared light-mediated nanoplatforms for cancer thermo-chemotherapy and optical imaging",
+            "volume": "25",
+            "author": "Zhang",
+            "year": "2013",
+            "journal-title": "Adv Mater"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0325",
+            "doi-asserted-by": "crossref",
+            "first-page": "278",
+            "DOI": "10.1080/10934520701792779",
+            "article-title": "Comparative toxicity of several metal oxide nanoparticle aqueous suspensions to Zebrafish (Danio rerio) early developmental stage",
+            "volume": "43",
+            "author": "Zhu",
+            "year": "2008",
+            "journal-title": "J Environ Sci Health A Tox Hazard Subst Environ Eng"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0320",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1007/s11051-008-9426-8",
+            "article-title": "Acute toxicities of six manufactured nanomaterial suspensions to Daphnia magna",
+            "volume": "11",
+            "author": "Zhu",
+            "year": "2009",
+            "journal-title": "J Nanopart Res"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0310",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1016/j.chemosphere.2009.11.013",
+            "article-title": "Toxicity and bioaccumulation of TiO2 nanoparticle aggregates in Daphnia magna",
+            "volume": "78",
+            "author": "Zhu",
+            "year": "2010",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.envint.2014.08.009_bb0315",
+            "doi-asserted-by": "crossref",
+            "first-page": "e46286",
+            "DOI": "10.1371/journal.pone.0046286",
+            "article-title": "Toxicity assessment of iron oxide nanoparticles in zebrafish (Danio rerio) early life stages",
+            "volume": "7",
+            "author": "Zhu",
+            "year": "2012",
+            "journal-title": "PLoS One"
+        }
+    ],
+    "container-title": "Environment International",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S0160412014002578?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S0160412014002578?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                8,
+                10
+            ]
+        ],
+        "date-time": "2019-08-10T10:37:34Z",
+        "timestamp": 1565433454000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0160412014002578"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2014,
+                12
+            ]
+        ]
+    },
+    "references-count": 65,
+    "alternative-id": [
+        "S0160412014002578"
+    ],
+    "URL": "http://dx.doi.org/10.1016/j.envint.2014.08.009",
+    "relation": {},
+    "ISSN": [
+        "0160-4120"
+    ],
+    "subject": [
+        "General Environmental Science"
+    ],
+    "container-title-short": "Environment International",
+    "published": {
+        "date-parts": [
+            [
+                2014,
+                12
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+        },
+        {
+            "value": "Computational ecotoxicology: Simultaneous prediction of ecotoxic effects of nanoparticles under different experimental conditions",
+            "name": "articletitle",
+            "label": "Article Title"
+        },
+        {
+            "value": "Environment International",
+            "name": "journaltitle",
+            "label": "Journal Title"
+        },
+        {
+            "value": "https://doi.org/10.1016/j.envint.2014.08.009",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+        },
+        {
+            "value": "Copyright © 2014 Elsevier Ltd. All rights reserved.",
+            "name": "copyright",
+            "label": "Copyright"
+        }
+    ]
+}

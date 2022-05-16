@@ -1,0 +1,502 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                13
+            ]
+        ],
+        "date-time": "2022-04-13T09:22:04Z",
+        "timestamp": 1649841724184
+    },
+    "reference-count": 60,
+    "publisher": "American Chemical Society (ACS)",
+    "issue": "17",
+    "funder": [
+        {
+            "DOI": "10.13039/501100001809",
+            "name": "National Natural Science Foundation of China",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "21577070",
+                "21307061"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2018,
+                9,
+                4
+            ]
+        ]
+    },
+    "DOI": "10.1021/acs.est.8b02757",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2018,
+                7,
+                30
+            ]
+        ],
+        "date-time": "2018-07-30T17:47:04Z",
+        "timestamp": 1532972824000
+    },
+    "page": "9666-9676",
+    "source": "Crossref",
+    "is-referenced-by-count": 32,
+    "title": "Screening Priority Factors Determining and Predicting the Reproductive Toxicity of Various Nanoparticles",
+    "prefix": "10.1021",
+    "volume": "52",
+    "author": [
+        {
+            "given": "Zhan",
+            "family": "Ban",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Key Laboratory of Pollution Processes and Environmental Criteria (Ministry of Education)/Tianjin Key Laboratory of Environmental Remediation and Pollution Control, College of Environmental Science and Engineering, Nankai University, Tianjin 300350, P. R. China"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0003-2804-2360",
+            "authenticated-orcid": true,
+            "given": "Qixing",
+            "family": "Zhou",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Key Laboratory of Pollution Processes and Environmental Criteria (Ministry of Education)/Tianjin Key Laboratory of Environmental Remediation and Pollution Control, College of Environmental Science and Engineering, Nankai University, Tianjin 300350, P. R. China"
+                }
+            ]
+        },
+        {
+            "given": "Anqi",
+            "family": "Sun",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Key Laboratory of Pollution Processes and Environmental Criteria (Ministry of Education)/Tianjin Key Laboratory of Environmental Remediation and Pollution Control, College of Environmental Science and Engineering, Nankai University, Tianjin 300350, P. R. China"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-1762-8377",
+            "authenticated-orcid": true,
+            "given": "Li",
+            "family": "Mu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Tianjin Key Laboratory of Agro-Environment and Agro-Product Safety, Key Laboratory for Environmental Factors Control of Agro-Product Quality and Safety (Ministry of Agriculture), Institute of Agro-Environmental Protection, Ministry of Agriculture, Tianjin 300191, P. R. China"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-9403-816X",
+            "authenticated-orcid": true,
+            "given": "Xiangang",
+            "family": "Hu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Key Laboratory of Pollution Processes and Environmental Criteria (Ministry of Education)/Tianjin Key Laboratory of Environmental Remediation and Pollution Control, College of Environmental Science and Engineering, Nankai University, Tianjin 300350, P. R. China"
+                }
+            ]
+        }
+    ],
+    "member": "316",
+    "published-online": {
+        "date-parts": [
+            [
+                2018,
+                7,
+                30
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ref1/cit1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3762/bjnano.6.181"
+        },
+        {
+            "key": "ref2/cit2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/cr300045n"
+        },
+        {
+            "key": "ref3/cit3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1289/ehp.1409271"
+        },
+        {
+            "key": "ref4/cit4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acsnano.7b00497"
+        },
+        {
+            "key": "ref5/cit5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/c4ra01047g"
+        },
+        {
+            "key": "ref6/cit6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/jp200686k"
+        },
+        {
+            "key": "ref7/cit7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn200021j"
+        },
+        {
+            "key": "ref8/cit8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn1007176"
+        },
+        {
+            "key": "ref9/cit9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn101390x"
+        },
+        {
+            "key": "ref10/cit10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.carbon.2011.12.035"
+        },
+        {
+            "key": "ref11/cit11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12989-014-0033-9"
+        },
+        {
+            "key": "ref12/cit12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es202417t"
+        },
+        {
+            "key": "ref13/cit13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jat.3373"
+        },
+        {
+            "key": "ref14/cit14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C7EN00774D"
+        },
+        {
+            "key": "ref15/cit15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jhazmat.2017.07.059"
+        },
+        {
+            "key": "ref16/cit16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/minf.201000061"
+        },
+        {
+            "key": "ref17/cit17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nature14541"
+        },
+        {
+            "key": "ref18/cit18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.aaa8415"
+        },
+        {
+            "key": "ref19/cit19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nnano.2015.338"
+        },
+        {
+            "key": "ref20/cit20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/risa.12109"
+        },
+        {
+            "key": "ref21/cit21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envpol.2018.03.090"
+        },
+        {
+            "key": "ref22/cit22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0140-6736(16)32380-7"
+        },
+        {
+            "key": "ref23/cit23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0140-6736(15)01225-8"
+        },
+        {
+            "key": "ref24/cit24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.aar5169"
+        },
+        {
+            "key": "ref25/cit25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/TVCG.2016.2598838"
+        },
+        {
+            "key": "ref26/cit26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1023/A:1010933404324"
+        },
+        {
+            "key": "ref27/cit27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1289/ehp.1307823"
+        },
+        {
+            "key": "ref28/cit28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2015.1073811"
+        },
+        {
+            "key": "ref29/cit29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201300817"
+        },
+        {
+            "key": "ref30/cit30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jhazmat.2015.08.010"
+        },
+        {
+            "key": "ref31/cit31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2015.06.006"
+        },
+        {
+            "key": "ref32/cit32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2015.02.037"
+        },
+        {
+            "key": "ref33/cit33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.biomaterials.2009.11.079"
+        },
+        {
+            "key": "ref34/cit34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11356-016-8325-2"
+        },
+        {
+            "key": "ref35/cit35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jat.3259"
+        },
+        {
+            "key": "ref36/cit36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0045-6535(00)00504-X"
+        },
+        {
+            "key": "ref37/cit37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1023/A:1013964023376"
+        },
+        {
+            "key": "ref38/cit38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0020-0190(89)90102-6"
+        },
+        {
+            "key": "ref39/cit39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/ncomms12084"
+        },
+        {
+            "key": "ref40/cit40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1137/S003614450342480"
+        },
+        {
+            "key": "ref41/cit41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.socnet.2009.02.002"
+        },
+        {
+            "key": "ref42/cit42",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1890/07-0539.1"
+        },
+        {
+            "key": "ref43/cit43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41467-017-00923-8"
+        },
+        {
+            "key": "ref44/cit44",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/10618600.2014.907095"
+        },
+        {
+            "key": "ref45/cit45",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.reprotox.2010.06.002"
+        },
+        {
+            "key": "ref46/cit46",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envint.2016.05.001"
+        },
+        {
+            "key": "ref47/cit47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.biomaterials.2016.04.014"
+        },
+        {
+            "key": "ref48/cit48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2011.620717"
+        },
+        {
+            "key": "ref49/cit49",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/tox.22262"
+        },
+        {
+            "key": "ref50/cit50",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/15287394.2014.949949"
+        },
+        {
+            "key": "ref51/cit51",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11434-014-0296-4"
+        },
+        {
+            "key": "ref52/cit52",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.carbon.2012.11.058"
+        },
+        {
+            "key": "ref53/cit53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.biomaterials.2012.07.040"
+        },
+        {
+            "key": "ref54/cit54",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/cr400295a"
+        },
+        {
+            "key": "ref55/cit55",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.biomaterials.2015.02.046"
+        },
+        {
+            "key": "ref56/cit56",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.est.5b03413"
+        },
+        {
+            "key": "ref57/cit57",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.1418680112"
+        },
+        {
+            "key": "ref58/ref58_1",
+            "unstructured": "Zhou, Q. X. Ecology of Combined Pollution; China Environmental Science Press: Beijing, China, 1995."
+        },
+        {
+            "key": "ref59/ref59_1",
+            "unstructured": "Zhou, Q. X.; Kong, F. X.; Zhu, L. Ecotoxicology; Science Press: Beijing, China, 2004."
+        },
+        {
+            "key": "ref60/cit60",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1360/03yc0042"
+        }
+    ],
+    "container-title": "Environmental Science &amp; Technology",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.acs.org/doi/pdf/10.1021/acs.est.8b02757",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                8,
+                23
+            ]
+        ],
+        "date-time": "2021-08-23T18:05:35Z",
+        "timestamp": 1629741935000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.acs.org/doi/10.1021/acs.est.8b02757"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2018,
+                7,
+                30
+            ]
+        ]
+    },
+    "references-count": 60,
+    "journal-issue": {
+        "issue": "17",
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    9,
+                    4
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1021/acs.est.8b02757"
+    ],
+    "URL": "http://dx.doi.org/10.1021/acs.est.8b02757",
+    "relation": {},
+    "ISSN": [
+        "0013-936X",
+        "1520-5851"
+    ],
+    "subject": [
+        "Environmental Chemistry",
+        "General Chemistry"
+    ],
+    "container-title-short": "Environ. Sci. Technol.",
+    "published": {
+        "date-parts": [
+            [
+                2018,
+                7,
+                30
+            ]
+        ]
+    }
+}

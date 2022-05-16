@@ -1,0 +1,174 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                5
+            ]
+        ],
+        "date-time": "2022-04-05T11:00:17Z",
+        "timestamp": 1649156417688
+    },
+    "reference-count": 0,
+    "publisher": "IGI Global",
+    "issue": "4",
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                10
+            ]
+        ]
+    },
+    "abstract": "<jats:p>In recent years, nanomaterials have gained tremendous attention due to their wide variety of industrial applications including food packaging, consumer products, nanomedicines, etc. The fascinating properties of nanoparticles which are responsible for creating several exciting opportunities, however, are also accountable for growing concerns of their toxic effects on humans as well as the environment. Thus, in the present study, the authors have developed generalized models for predicting the cytotoxicity and genotoxicity of seven metal oxide nanoparticles. The models not only take into account the structural features, but also the diverse experimental conditions under which the toxicity of nanoparticles was determined. The diverse experimental conditions were captured in the generalized models using the Box-Jenkins moving average approach. Here, two machine learning techniques, namely, linear discriminant analysis and random forest were utilized to build the final models. Importantly, the validation metrics showed that the developed models have significant discriminatory power.</jats:p>",
+    "DOI": "10.4018/ijqspr.20201001.oa2",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                16
+            ]
+        ],
+        "date-time": "2020-06-16T13:32:16Z",
+        "timestamp": 1592314336000
+    },
+    "page": "83-100",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": "Development of Generalized QSAR Models for Predicting Cytotoxicity and Genotoxicity of Metal Oxides Nanoparticles",
+    "prefix": "10.4018",
+    "volume": "5",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0001-7244-7117",
+            "authenticated-orcid": true,
+            "given": "Pravin",
+            "family": "Ambure",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "ProtoQSAR SL, Spain"
+                }
+            ]
+        },
+        {
+            "given": "Arantxa",
+            "family": "Ballesteros",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ITENE, Spain"
+                }
+            ]
+        },
+        {
+            "given": "Francisco",
+            "family": "Huertas",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ITENE, Spain"
+                }
+            ]
+        },
+        {
+            "given": "Pau",
+            "family": "Camilleri",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ITENE, Spain"
+                }
+            ]
+        },
+        {
+            "given": "Stephen J.",
+            "family": "Barigye",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ProtoQSAR SL, Spain"
+                }
+            ]
+        },
+        {
+            "given": "Rafael",
+            "family": "Gozalbes",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "ProtoQSAR SL, Spain"
+                }
+            ]
+        }
+    ],
+    "member": "2432",
+    "container-title": "International Journal of Quantitative Structure-Property Relationships",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://www.igi-global.com/viewtitle.aspx?TitleId=256928",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                1,
+                19
+            ]
+        ],
+        "date-time": "2022-01-19T18:24:31Z",
+        "timestamp": 1642616671000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "http://services.igi-global.com/resolvedoi/resolve.aspx?doi=10.4018/IJQSPR.20201001.oa2"
+        }
+    },
+    "subtitle": [
+        ""
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                10
+            ]
+        ]
+    },
+    "references-count": 0,
+    "journal-issue": {
+        "issue": "4"
+    },
+    "URL": "http://dx.doi.org/10.4018/IJQSPR.20201001.oa2",
+    "relation": {},
+    "ISSN": [
+        "2379-7487",
+        "2379-7479"
+    ],
+    "subject": [
+        "Geriatrics and Gerontology"
+    ],
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                10
+            ]
+        ]
+    }
+}

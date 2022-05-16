@@ -1,0 +1,519 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                19
+            ]
+        ],
+        "date-time": "2022-04-19T22:50:38Z",
+        "timestamp": 1650408638040
+    },
+    "reference-count": 60,
+    "publisher": "American Chemical Society (ACS)",
+    "issue": "3",
+    "funder": [
+        {
+            "DOI": "10.13039/501100003052",
+            "name": "Ministry of Trade, Industry and Energy",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "10043929"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2018,
+                3,
+                19
+            ]
+        ]
+    },
+    "DOI": "10.1021/acs.chemrestox.7b00303",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2018,
+                2,
+                14
+            ]
+        ],
+        "date-time": "2018-02-14T08:08:37Z",
+        "timestamp": 1518595717000
+    },
+    "page": "183-190",
+    "source": "Crossref",
+    "is-referenced-by-count": 61,
+    "title": "Quasi-SMILES-Based Nano-Quantitative Structure–Activity Relationship Model to Predict the Cytotoxicity of Multiwalled Carbon Nanotubes to Human Lung Cells",
+    "prefix": "10.1021",
+    "volume": "31",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0002-8961-2876",
+            "authenticated-orcid": true,
+            "given": "Tung Xuan",
+            "family": "Trinh",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Chemistry, College of Natural Sciences, Hanyang University, Seoul 04763, Republic of Korea"
+                }
+            ]
+        },
+        {
+            "given": "Jang-Sik",
+            "family": "Choi",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Division of Electronics, Information and Communication Engineering, Kangwon National University, Samcheok, Kangwon-do 24341, Republic of Korea"
+                }
+            ]
+        },
+        {
+            "given": "Hyunpyo",
+            "family": "Jeon",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Environmental Safety Group, Korea Institute of Science and Technology (KIST) Europe, Campus E 7.1, D-66123 Saarbruecken, Germany"
+                }
+            ]
+        },
+        {
+            "given": "Hyung-Gi",
+            "family": "Byun",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Division of Electronics, Information and Communication Engineering, Kangwon National University, Samcheok, Kangwon-do 24341, Republic of Korea"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-2743-6360",
+            "authenticated-orcid": true,
+            "given": "Tae-Hyun",
+            "family": "Yoon",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Chemistry, College of Natural Sciences, Hanyang University, Seoul 04763, Republic of Korea"
+                }
+            ]
+        },
+        {
+            "given": "Jongwoon",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Environmental Safety Group, Korea Institute of Science and Technology (KIST) Europe, Campus E 7.1, D-66123 Saarbruecken, Germany"
+                }
+            ]
+        }
+    ],
+    "member": "316",
+    "published-online": {
+        "date-parts": [
+            [
+                2018,
+                2,
+                14
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ref1/cit1",
+            "unstructured": "European Commission. Regulations (EC) No 1907/2006 of the\nEuropean Parliament and of the Council of 18 December 2006 Concerning\nthe Registration, Evaluation, Authorisation and Restriction of Chemicals\n(REACH), Establishing a European Chemical Agency, Amending Directive\n1999/4.  Off. J. Eur. Communities, 2006."
+        },
+        {
+            "key": "ref2/cit2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nnano.2015.338"
+        },
+        {
+            "key": "ref3/cit3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/c3nr01533e"
+        },
+        {
+            "key": "ref4/cit4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2016.1202352"
+        },
+        {
+            "key": "ref5/cit5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ie3006947"
+        },
+        {
+            "key": "ref6/cit6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/1062936X.2013.874367"
+        },
+        {
+            "key": "ref7/cit7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nnano.2011.10"
+        },
+        {
+            "key": "ref8/cit8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201002366"
+        },
+        {
+            "key": "ref9/cit9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C6RA01298A"
+        },
+        {
+            "key": "ref10/cit10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C6RA06159A"
+        },
+        {
+            "key": "ref11/cit11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/risa.12109"
+        },
+        {
+            "key": "ref12/cit12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201201903"
+        },
+        {
+            "key": "ref13/cit13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn1013484"
+        },
+        {
+            "key": "ref14/cit14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/c2ra21489j"
+        },
+        {
+            "key": "ref15/cit15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es3001689"
+        },
+        {
+            "key": "ref16/cit16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.proeng.2015.01.284"
+        },
+        {
+            "key": "ref17/cit17",
+            "volume-title": "Nano-QSAR Modeling for Predicting Biological Activity of Diverse Nanomaterials Academy of Scientific and Innovative Research",
+            "author": "Singh K. P.",
+            "year": "2014"
+        },
+        {
+            "key": "ref18/cit18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envint.2014.08.009"
+        },
+        {
+            "key": "ref19/cit19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/etc.3466"
+        },
+        {
+            "key": "ref20/cit20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2015.09.086"
+        },
+        {
+            "key": "ref21/cit21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2014.10.067"
+        },
+        {
+            "key": "ref22/cit22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ejmech.2016.03.075"
+        },
+        {
+            "key": "ref23/cit23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cplett.2016.08.018"
+        },
+        {
+            "key": "ref24/cit24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.17756/nwj.2016-034"
+        },
+        {
+            "key": "ref25/cit25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11356-014-3977-2"
+        },
+        {
+            "key": "ref26/cit26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.md.2016.12.003"
+        },
+        {
+            "key": "ref27/cit27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.matpr.2016.02.018"
+        },
+        {
+            "key": "ref28/cit28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ecoenv.2017.01.054"
+        },
+        {
+            "key": "ref29/cit29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/1062936X.2016.1172666"
+        },
+        {
+            "key": "ref30/cit30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ecoenv.2015.09.038"
+        },
+        {
+            "key": "ref31/cit31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jtbi.2017.01.012"
+        },
+        {
+            "key": "ref32/cit32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ecoenv.2014.10.003"
+        },
+        {
+            "key": "ref33/cit33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.impact.2016.04.003"
+        },
+        {
+            "key": "ref34/cit34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11356-014-3566-4"
+        },
+        {
+            "key": "ref35/cit35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ecoenv.2014.10.003"
+        },
+        {
+            "key": "ref36/cit36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ecoenv.2014.07.005"
+        },
+        {
+            "key": "ref37/cit37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2013.09.089"
+        },
+        {
+            "key": "ref38/cit38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ci00057a005"
+        },
+        {
+            "key": "ref39/cit39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2013.03.012"
+        },
+        {
+            "key": "ref40/cit40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1743-8977-11-4"
+        },
+        {
+            "key": "ref41/cit41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bbrc.2008.12.137"
+        },
+        {
+            "key": "ref42/cit42",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/15287394.2010.511577"
+        },
+        {
+            "key": "ref43/cit43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tiv.2013.04.012"
+        },
+        {
+            "key": "ref44/cit44",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/tx400397g"
+        },
+        {
+            "key": "ref45/cit45",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1743-8977-11-28"
+        },
+        {
+            "key": "ref46/cit46",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2014/359506"
+        },
+        {
+            "key": "ref47/cit47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/15287394.2014.951756"
+        },
+        {
+            "key": "ref48/cit48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2015/793186"
+        },
+        {
+            "key": "ref49/cit49",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jat.3228"
+        },
+        {
+            "key": "ref50/cit50",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1747-0285.2009.00778.x"
+        },
+        {
+            "key": "ref51/cit51",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/BF02289588"
+        },
+        {
+            "key": "ref52/cit52",
+            "doi-asserted-by": "crossref",
+            "first-page": "155",
+            "DOI": "10.1177/026119290503300209",
+            "volume": "33",
+            "author": "Netzeva T. I.",
+            "year": "2005",
+            "journal-title": "ATLA Alternatives to Laboratory Animals"
+        },
+        {
+            "key": "ref53/cit53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ejps.2012.12.021"
+        },
+        {
+            "key": "ref54/cit54",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/ardp.201200373"
+        },
+        {
+            "key": "ref55/cit55",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/ardp.201400259"
+        },
+        {
+            "key": "ref56/cit56",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11030-009-9113-4"
+        },
+        {
+            "key": "ref57/cit57",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/02772248.2016.1242006"
+        },
+        {
+            "key": "ref58/cit58",
+            "first-page": "1211",
+            "volume": "9",
+            "author": "Toropova A. P.",
+            "year": "2015",
+            "journal-title": "Int. J. Environ. Res."
+        },
+        {
+            "key": "ref59/cit59",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bmc.2015.01.055"
+        },
+        {
+            "key": "ref60/cit60",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ejmech.2010.05.002"
+        }
+    ],
+    "container-title": "Chemical Research in Toxicology",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.acs.org/doi/pdf/10.1021/acs.chemrestox.7b00303",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                8,
+                15
+            ]
+        ],
+        "date-time": "2021-08-15T09:53:39Z",
+        "timestamp": 1629021219000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.acs.org/doi/10.1021/acs.chemrestox.7b00303"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2018,
+                2,
+                14
+            ]
+        ]
+    },
+    "references-count": 60,
+    "journal-issue": {
+        "issue": "3",
+        "published-print": {
+            "date-parts": [
+                [
+                    2018,
+                    3,
+                    19
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1021/acs.chemrestox.7b00303"
+    ],
+    "URL": "http://dx.doi.org/10.1021/acs.chemrestox.7b00303",
+    "relation": {},
+    "ISSN": [
+        "0893-228X",
+        "1520-5010"
+    ],
+    "subject": [
+        "Toxicology",
+        "General Medicine"
+    ],
+    "container-title-short": "Chem. Res. Toxicol.",
+    "published": {
+        "date-parts": [
+            [
+                2018,
+                2,
+                14
+            ]
+        ]
+    }
+}

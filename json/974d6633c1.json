@@ -1,0 +1,1140 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                8
+            ]
+        ],
+        "date-time": "2022-04-08T21:51:27Z",
+        "timestamp": 1649454687954
+    },
+    "reference-count": 89,
+    "publisher": "Elsevier BV",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        12,
+                        1
+                    ]
+                ],
+                "date-time": "2021-12-01T00:00:00Z",
+                "timestamp": 1638316800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        7,
+                        6
+                    ]
+                ],
+                "date-time": "2021-07-06T00:00:00Z",
+                "timestamp": 1625529600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100000270",
+            "name": "Natural Environment Research Council",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "NE/N006569/1",
+                "814572",
+                "691095",
+                "731032"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100000780",
+            "name": "European Commission",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "NE/N006569/1",
+                "814572",
+                "691095",
+                "731032"
+            ]
+        },
+        {
+            "DOI": "10.13039/100010661",
+            "name": "Horizon 2020 Framework Programme",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "NE/N006569/1",
+                "814572",
+                "691095",
+                "731032"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                12
+            ]
+        ]
+    },
+    "DOI": "10.1016/j.chemosphere.2021.131452",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                6
+            ]
+        ],
+        "date-time": "2021-07-06T15:57:56Z",
+        "timestamp": 1625587076000
+    },
+    "page": "131452",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": "Ecotoxicological read-across models for predicting acute toxicity of freshly dispersed versus medium-aged NMs to Daphnia magna",
+    "prefix": "10.1016",
+    "volume": "285",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0002-7474-7014",
+            "authenticated-orcid": false,
+            "given": "Dimitra-Danai",
+            "family": "Varsou",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Laura-Jayne A.",
+            "family": "Ellis",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Antreas",
+            "family": "Afantitis",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Georgia",
+            "family": "Melagraki",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0003-4250-4584",
+            "authenticated-orcid": false,
+            "given": "Iseult",
+            "family": "Lynch",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "78",
+    "reference": [
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1016/j.csbj.2020.02.023",
+            "article-title": "NanoSolveIT Project: driving nanoinformatics research to develop innovative and integrated tools for in silico nanosafety assessment",
+            "volume": "18",
+            "author": "Afantitis",
+            "year": "2020",
+            "journal-title": "Comput. Struct. Biotechnol. J."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib2",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.2174/0929867327666200727114410",
+            "article-title": "Enalos suite of tools: Enhancing cheminformatics and nanoinformatics through KNIME",
+            "volume": "27",
+            "author": "Afantitis",
+            "year": "2020",
+            "journal-title": "Curr. Med. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "22",
+            "DOI": "10.1016/j.comtox.2018.10.001",
+            "article-title": "Grouping of multi-walled carbon nanotubes to read-across genotoxicity: a case study to evaluate the applicability of regulatory guidance",
+            "volume": "9",
+            "author": "Aschberger",
+            "year": "2019",
+            "journal-title": "Comput. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "2154",
+            "DOI": "10.1002/etc.278",
+            "article-title": "Bacterial cytotoxicity of the silver nanoparticle related to physicochemical metrics and agglomeration properties",
+            "volume": "29",
+            "author": "Bae",
+            "year": "2010",
+            "journal-title": "Environ. Toxicol. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "5524",
+            "DOI": "10.1021/es303591x",
+            "article-title": "From cradle-to-grave at the nanoscale: gaps in U.S. regulatory oversight along the nanomaterial life cycle",
+            "volume": "47",
+            "author": "Beaudrie",
+            "year": "2013",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib6",
+            "series-title": "Uptake and Impacts of Polyvinylpyrrolidone (PVP) Capped Metal Oxide Nanoparticles on Daphnia Magna: Role of Core Composition and Acquired Corona",
+            "author": "Briffa",
+            "year": "2018"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "728",
+            "DOI": "10.1039/C6EN00095A",
+            "article-title": "Effect of natural organic matter on dissolution and toxicity of sulfidized silver nanoparticles to: Caenorhabditis elegans",
+            "volume": "3",
+            "author": "Collin",
+            "year": "2016",
+            "journal-title": "Environ. Sci. Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.1002/etc.2855",
+            "article-title": "The influence of natural organic matter and aging on suspension stability in guideline toxicity testing of silver, zinc oxide, and titanium dioxide nanoparticles with Daphnia magna",
+            "volume": "34",
+            "author": "Cupi",
+            "year": "2015",
+            "journal-title": "Environ. Toxicol. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "76",
+            "DOI": "10.1007/s00128-013-1015-6",
+            "article-title": "Toxicity of silver and titanium dioxide nanoparticle suspensions to the aquatic invertebrate, Daphnia magna",
+            "volume": "91",
+            "author": "Das",
+            "year": "2013",
+            "journal-title": "Bull. Environ. Contam. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib10",
+            "series-title": "Ecology, Epidemiology and Evolution of Parasitism in Daphnia",
+            "author": "Ebert",
+            "year": "2005"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib11",
+            "series-title": "Appendix R . 6-1 : Recommendations for Nanomaterials Applicable to the Guidance on QSARs and Grouping",
+            "first-page": "1",
+            "year": "2017"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib12",
+            "series-title": "Read-Across Assessment Framework (RAAF) - Human Health Effects & Environmental Fate and Effects",
+            "year": "2015"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1260",
+            "DOI": "10.1021/es902240k",
+            "article-title": "Impact of environmental conditions (pH, ionic strength, and electrolyte type) on the surface charge and aggregation of silver nanoparticles suspensions",
+            "volume": "44",
+            "author": "El Badawy",
+            "year": "2010",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "325",
+            "DOI": "10.1016/j.scitotenv.2012.03.041",
+            "article-title": "The impact of stabilization mechanism on the aggregation kinetics of silver nanoparticles",
+            "volume": "429",
+            "author": "El Badawy",
+            "year": "2012",
+            "journal-title": "Sci. Total Environ."
+        },
+        {
+            "issue": "1",
+            "key": "10.1016/j.chemosphere.2021.131452_bib87",
+            "doi-asserted-by": "crossref",
+            "first-page": "15",
+            "DOI": "10.3390/ijms22010015",
+            "article-title": "Maternal responses and adaptive changes to environmental stress via chronic nanomaterial exposure: differences in inter and transgenerational interclonal broods of Daphnia magna",
+            "volume": "22",
+            "author": "Ellis",
+            "year": "2021",
+            "journal-title": "Int. J. Mol. Sci."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "3343",
+            "DOI": "10.1039/D0EN00625D",
+            "article-title": "Mechanistic insights into toxicity pathways induced by nanomaterials in: Daphnia magna from analysis of the composition of the acquired protein corona",
+            "volume": "7",
+            "author": "Ellis",
+            "year": "2020",
+            "journal-title": "Environ. Sci. Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib88",
+            "first-page": "1136",
+            "article-title": "Exposure medium and particle ageing moderate the toxicological effects of nanomaterials to Daphnia magna over multiple generations: a case for standard test review?",
+            "volume": "7",
+            "author": "Ellis",
+            "year": "2020",
+            "journal-title": "Environ. Sci.: Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib16",
+            "series-title": "How to Use Alternatives to Animal Testing to Fulfil the Information Requirements for REACH Registration",
+            "year": "2016"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "6",
+            "DOI": "10.1016/j.nantod.2014.09.008",
+            "article-title": "The challenges of nanotechnology risk management",
+            "volume": "10",
+            "author": "Fadel",
+            "year": "2015",
+            "journal-title": "Nano Today"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "2770",
+            "DOI": "10.1021/acs.langmuir.6b04116",
+            "article-title": "Influence of aqueous inorganic anions on the reactivity of nanoparticles in TiO2 photocatalysis",
+            "volume": "33",
+            "author": "Farner Budarz",
+            "year": "2017",
+            "journal-title": "Langmuir"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "5703",
+            "DOI": "10.1021/nn1013484",
+            "article-title": "Quantitative nanostructure - activity relationship modeling",
+            "volume": "4",
+            "author": "Fourches",
+            "year": "2010",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "449",
+            "DOI": "10.1007/s00128-016-1888-2",
+            "article-title": "Monitoring the fate and transformation of silver nanoparticles in natural waters",
+            "volume": "97",
+            "author": "Furtado",
+            "year": "2016",
+            "journal-title": "Bull. Environ. Contam. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.4018/IJQSPR.2016010102",
+            "article-title": "Applicability domain for QSAR models: where theory meets reality",
+            "volume": "1",
+            "author": "Gadaleta",
+            "year": "2016",
+            "journal-title": "Int. J. Quant. Struct. Relationships"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "15701",
+            "DOI": "10.1088/0957-4484/26/1/015701",
+            "article-title": "Novel approach for efficient predictions properties of large pool of nanomaterials based on limited set of species: nano-read-across",
+            "volume": "26",
+            "author": "Gajewicz",
+            "year": "2015",
+            "journal-title": "Nanotechnology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "346",
+            "DOI": "10.1039/C6EN00399K",
+            "article-title": "Addressing a bottle neck for regulation of nanomaterials: quantitative read-across (Nano-QRA) algorithm for cases when only limited data is available",
+            "volume": "4",
+            "author": "Gajewicz",
+            "year": "2017",
+            "journal-title": "Environ. Sci. Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "313",
+            "DOI": "10.3109/17435390.2014.930195",
+            "article-title": "Towards understanding mechanisms governing cytotoxicity of metal oxides nanoparticles: hints from nano-QSAR studies",
+            "volume": "9",
+            "author": "Gajewicz",
+            "year": "2015",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "100182",
+            "DOI": "10.1016/j.impact.2019.100182",
+            "article-title": "Nanomaterial grouping: Existing approaches and future recommendations",
+            "volume": "16",
+            "author": "Giusti",
+            "year": "2019",
+            "journal-title": "NanoImpact"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "727",
+            "DOI": "10.1038/nnano.2017.135",
+            "article-title": "Setting the stage for debating the roles of risk assessment and life-cycle assessment of engineered nanomaterials",
+            "volume": "12",
+            "author": "Guineé",
+            "year": "2017",
+            "journal-title": "Nat. Nanotechnol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "5350",
+            "DOI": "10.1016/j.watres.2013.06.015",
+            "article-title": "Geographically distributed classification of surface water chemical parameters influencing fate and behavior of nanoparticles and colloid facilitated contaminant transport",
+            "volume": "47",
+            "author": "Hammes",
+            "year": "2013",
+            "journal-title": "Water Res."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "5350",
+            "DOI": "10.1016/j.watres.2013.06.015",
+            "article-title": "Geographically distributed classification of surface water chemical parameters influencing fate and behavior of nanoparticles and colloid facilitated contaminant transport",
+            "volume": "47",
+            "author": "Hammes",
+            "year": "2013",
+            "journal-title": "Water Res."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib29",
+            "first-page": "1",
+            "volume": "8",
+            "author": "Helma",
+            "year": "2017"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "28",
+            "DOI": "10.1016/j.impact.2017.07.003",
+            "article-title": "Regulatory adequacy of aquatic ecotoxicity testing of nanomaterials",
+            "volume": "8",
+            "author": "Hjorth",
+            "year": "2017",
+            "journal-title": "NanoImpact"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "838",
+            "DOI": "10.1016/j.scitotenv.2017.08.222",
+            "article-title": "Distinct toxicity of silver nanoparticles and silver nitrate to Daphnia magna in M4 medium and surface water",
+            "volume": "618",
+            "author": "Hu",
+            "year": "2018",
+            "journal-title": "Sci. Total Environ."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1442",
+            "DOI": "10.1080/17435390.2016.1229517",
+            "article-title": "Regulatory ecotoxicity testing of nanomaterials–proposed modifications of OECD test guidelines based on laboratory experience with silver and titanium dioxide nanoparticles",
+            "volume": "10",
+            "author": "Hund-Rinke",
+            "year": "2016",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "84172",
+            "DOI": "10.1039/C5RA10187E",
+            "article-title": "Impact of storage conditions and storage time on silver nanoparticles' physicochemical properties and implications for their biological effects",
+            "volume": "5",
+            "author": "Izak-Nau",
+            "year": "2015",
+            "journal-title": "RSC Adv."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib34",
+            "series-title": "How to Bring Your Registration Dossier in Compliance with REACH – Tips and Hints Part 2 0–14",
+            "author": "Karjalainen",
+            "year": "2014"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1023/A:1003231628456",
+            "article-title": "COMBO: a defined freshwater culture medium for algae and zooplankton",
+            "volume": "377",
+            "author": "Kilham",
+            "year": "1998",
+            "journal-title": "Hydrobiologia"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "1033",
+            "DOI": "10.1002/jbm.a.34053",
+            "article-title": "Size-dependent cellular toxicity of silver nanoparticles",
+            "author": "Kim",
+            "year": "2012",
+            "journal-title": "J. Biomed. Mater. Res. Part A 100 A"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1186/s12989-018-0273-1",
+            "article-title": "Grouping of nanomaterials to read-across hazard endpoints: from data collection to assessment of the grouping hypothesis by application of chemoinformatic techniques. Part",
+            "volume": "15",
+            "author": "Lamon",
+            "year": "2018",
+            "journal-title": "Fibre Toxicol"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib38",
+            "series-title": "An Introduction to Chemoinformatics, an Introduction to Chemoinformatics",
+            "author": "Leach",
+            "year": "2007"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "52",
+            "DOI": "10.1016/j.chemosphere.2018.06.161",
+            "article-title": "CORAL: predictive models for cytotoxicity of functionalized nanozeolites based on quasi-SMILES",
+            "volume": "210",
+            "author": "Leone",
+            "year": "2018",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "5845",
+            "DOI": "10.1021/nn300223w",
+            "article-title": "Effects of the presence or absence of a protein corona on silica nanoparticle uptake and impact on cells",
+            "volume": "6",
+            "author": "Lesniak",
+            "year": "2012",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "5260",
+            "DOI": "10.1021/es2007758",
+            "article-title": "Sulfidation processes of PVP-coated silver nanoparticles in aqueous solution: impact on dissolution rate",
+            "volume": "45",
+            "author": "Levard",
+            "year": "2011",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib42",
+            "first-page": "10293",
+            "article-title": "Surface-coating-dependent dissolution, aggregation, and reactive oxygen species (ROS) generation of silver nanoparticles under different irradiation conditions",
+            "volume": "47",
+            "author": "Li",
+            "year": "2013",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1896",
+            "DOI": "10.2134/jeq2009.0423",
+            "article-title": "Fate and transport of engineered nanomaterials in the environment",
+            "volume": "39",
+            "author": "Lin",
+            "year": "2010",
+            "journal-title": "J. Environ. Qual."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "6893",
+            "DOI": "10.1021/es300839e",
+            "article-title": "Transformations of nanomaterials in the environment",
+            "volume": "46",
+            "author": "Lowry",
+            "year": "2013",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "953",
+            "DOI": "10.1039/C6EN00136J",
+            "article-title": "Guidance to improve the scientific value of zeta-potential measurements in nanoEHS",
+            "volume": "3",
+            "author": "Lowry",
+            "year": "2016",
+            "journal-title": "Environ. Sci. Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "995",
+            "DOI": "10.1016/j.chemosphere.2015.09.086",
+            "article-title": "QSAR model for predicting cell viability of human embryonic kidney cells exposed to SiO2 nanoparticles",
+            "volume": "144",
+            "author": "Manganelli",
+            "year": "2016",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib47",
+            "doi-asserted-by": "crossref",
+            "first-page": "1827",
+            "DOI": "10.2174/1568026615666150506144536",
+            "article-title": "A risk assessment tool for the virtual screening of metal oxide nanoparticles through enalos insiliconano platform",
+            "volume": "15",
+            "author": "Melagraki",
+            "year": "2015",
+            "journal-title": "Curr. Top. Med. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib48",
+            "doi-asserted-by": "crossref",
+            "first-page": "50713",
+            "DOI": "10.1039/C4RA07756C",
+            "article-title": "Enalos InSilicoNano platform: an online decision support tool for the design and virtual screening of nanoparticles",
+            "volume": "4",
+            "author": "Melagraki",
+            "year": "2014",
+            "journal-title": "RSC Adv."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib89",
+            "doi-asserted-by": "crossref",
+            "first-page": "4133",
+            "DOI": "10.1039/C8GC01171K",
+            "article-title": "Changing environments and biomolecule coronas: consequences and challenges for the design of environmentally acceptable engineered nanoparticles",
+            "volume": "20",
+            "author": "Markiewicz",
+            "year": "2018",
+            "journal-title": "Green Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib49",
+            "doi-asserted-by": "crossref",
+            "first-page": "9",
+            "DOI": "10.1016/j.chemolab.2013.02.003",
+            "article-title": "Enalos KNIME nodes: Exploring corrosion inhibition of steel in acidic medium",
+            "volume": "123",
+            "author": "Melagraki",
+            "year": "2013",
+            "journal-title": "Chemometr. Intell. Lab. Syst."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "2400",
+            "DOI": "10.1021/cm504406a",
+            "article-title": "Zeta potential for metal oxide nanoparticles: a predictive model developed by a nano-quantitative structure-property relationship approach",
+            "volume": "27",
+            "author": "Mikolajczyk",
+            "year": "2015",
+            "journal-title": "Chem. Mater."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "184",
+            "DOI": "10.1016/j.ecoenv.2017.10.024",
+            "article-title": "TiO2 nanoparticles in seawater: aggregation and interactions with the green alga Dunaliella tertiolecta",
+            "volume": "148",
+            "author": "Morelli",
+            "year": "2018",
+            "journal-title": "Ecotoxicol. Environ. Saf."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib52",
+            "doi-asserted-by": "crossref",
+            "first-page": "4447",
+            "DOI": "10.1021/es7029637",
+            "article-title": "Exposure modeling of engineered nanoparticles in the environment",
+            "volume": "42",
+            "author": "Mueller",
+            "year": "2008",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib53",
+            "series-title": "Nanocommons [WWW Document]",
+            "author": "Nanocommons",
+            "year": "2021"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib54",
+            "series-title": "NanoPharos Database [WWW Document]",
+            "author": "NanoPharos",
+            "year": "2021"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib55",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1002/pmic.201800412",
+            "article-title": "Nanomaterials in the environment acquire an “Eco-corona” impacting their toxicity to Daphnia magna—a call for updating toxicity testing policies",
+            "volume": "20",
+            "author": "Nasser",
+            "year": "2020",
+            "journal-title": "Proteomics"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib56",
+            "doi-asserted-by": "crossref",
+            "first-page": "497",
+            "DOI": "10.1016/j.ssci.2019.05.045",
+            "article-title": "Updating traditional regulatory tests for use with novel materials: nanomaterial toxicity testing with Daphnia magna",
+            "volume": "118",
+            "author": "Nasser",
+            "year": "2019",
+            "journal-title": "Saf. Sci."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib57",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.1016/j.jprot.2015.09.005",
+            "article-title": "Secreted protein eco-corona mediates uptake and impacts of polystyrene nanoparticles on Daphnia magna",
+            "volume": "137",
+            "author": "Nasser",
+            "year": "2016",
+            "journal-title": "J. Proteomics"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib58",
+            "series-title": "Enalos+ KNIME Nodes [WWW Document]",
+            "year": "2019"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib59",
+            "first-page": "63",
+            "article-title": "Exposure modeling of engineered nanoparticles in the environment",
+            "volume": "41",
+            "author": "Nowack",
+            "year": "2008",
+            "journal-title": "EMPA Act"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib60",
+            "first-page": "1",
+            "article-title": "Test No. 318: dispersion stability of nanomaterials in simulated environmental media",
+            "year": "2017",
+            "journal-title": "OECD Guidel. Test. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib61",
+            "series-title": "Guidance Document on the Validation of (Quantitative) Structure-Activity Relationship [(Q)SAR] Models",
+            "year": "2007"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib62",
+            "series-title": "Test No. 202: Daphnia Sp. Acute Immobilisation Test, OECD Guidelines for the Testing of Chemicals, Section 2",
+            "year": "2004"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib63",
+            "first-page": "1338",
+            "article-title": "Influence of stability on the acute toxicity of CdSe/ZnS nanocrystals to daphnia magna",
+            "volume": "29",
+            "author": "Pace",
+            "year": "2010",
+            "journal-title": "Environ. Toxicol. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib64",
+            "doi-asserted-by": "crossref",
+            "first-page": "100308",
+            "DOI": "10.1016/j.impact.2021.100308",
+            "article-title": "Computational enrichment of physicochemical data for the development of a ζ-potential read-across predictive model with Isalos Analytics Platform",
+            "volume": "22",
+            "author": "Papadiamantis",
+            "year": "2021",
+            "journal-title": "NanoImpact"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib65",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.3390/nano10102017",
+            "article-title": "Predicting cytotoxicity of metal oxide nanoparticles using isalos analytics platform",
+            "volume": "10",
+            "author": "Papadiamantis",
+            "year": "2020",
+            "journal-title": "Nanomaterials"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib66",
+            "doi-asserted-by": "crossref",
+            "first-page": "9532",
+            "DOI": "10.1021/acs.est.5b00997",
+            "article-title": "Adapting OECD aquatic toxicity tests for use with manufactured nanomaterials: key issues and consensus recommendations",
+            "volume": "49",
+            "author": "Petersen",
+            "year": "2015",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib67",
+            "series-title": "Nanotechnology Environmental Health and Safety",
+            "first-page": "119",
+            "article-title": "Chapter 6 - nanoinformatics: data-driven materials design for health and environmental needs",
+            "author": "Rajan",
+            "year": "2018"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib68",
+            "doi-asserted-by": "crossref",
+            "first-page": "45",
+            "DOI": "10.2147/IJN.S40521",
+            "article-title": "A framework for grouping nanoparticles based on their measurable characteristics",
+            "volume": "8",
+            "author": "Sayes",
+            "year": "2013",
+            "journal-title": "Int. J. Nanomed."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib69",
+            "doi-asserted-by": "crossref",
+            "first-page": "4",
+            "DOI": "10.1038/srep09674",
+            "article-title": "Exposure medium: key in identifying free Ag+ as the Exclusive species of silver nanoparticles with acute toxicity to Daphnia magna",
+            "volume": "5",
+            "author": "Shen",
+            "year": "2015",
+            "journal-title": "Sci. Rep."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib70",
+            "doi-asserted-by": "crossref",
+            "first-page": "13215",
+            "DOI": "10.1039/C4RA01274G",
+            "article-title": "Nano-QSAR modeling for predicting biological activity of diverse nanomaterials",
+            "volume": "4",
+            "author": "Singh",
+            "year": "2014",
+            "journal-title": "RSC Adv."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib71",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1186/s11671-018-2457-x",
+            "article-title": "Dependence of nanoparticle toxicity on their physical and chemical properties",
+            "volume": "13",
+            "author": "Sukhanova",
+            "year": "2018",
+            "journal-title": "Nanoscale Res. Lett."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib72",
+            "doi-asserted-by": "crossref",
+            "first-page": "731",
+            "DOI": "10.1038/s41565-020-0742-1",
+            "article-title": "Key principles and operational practices for improved nanotechnology environmental exposure assessment",
+            "volume": "15",
+            "author": "Svendsen",
+            "year": "2020",
+            "journal-title": "Nat. Nanotechnol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib73",
+            "doi-asserted-by": "crossref",
+            "first-page": "102",
+            "DOI": "10.1016/j.scitotenv.2019.05.114",
+            "article-title": "The Correlation Contradictions Index (CCI): building up reliable models of mutagenic potential of silver nanoparticles under different conditions using quasi-SMILES",
+            "volume": "681",
+            "author": "Toropov",
+            "year": "2019",
+            "journal-title": "Sci. Total Environ."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib74",
+            "doi-asserted-by": "crossref",
+            "first-page": "40",
+            "DOI": "10.1016/j.chemosphere.2014.10.067",
+            "article-title": "Quasi-QSAR for mutagenic potential of multi-walled carbon-nanotubes",
+            "volume": "124",
+            "author": "Toropov",
+            "year": "2015",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib75",
+            "doi-asserted-by": "crossref",
+            "first-page": "404",
+            "DOI": "10.1016/j.ecoenv.2017.01.054",
+            "article-title": "CORAL and Nano-QFAR: quantitative feature – activity relationships (QFAR) for bioavailability of nanoparticles (ZnO, CuO, Co3O4, and TiO2)",
+            "volume": "139",
+            "author": "Toropova",
+            "year": "2017",
+            "journal-title": "Ecotoxicol. Environ. Saf."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib76",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1002/widm.1289",
+            "article-title": "Transforming big data into smart data: an insight on the use of the k-nearest neighbors algorithm to obtain quality data",
+            "volume": "9",
+            "author": "Triguero",
+            "year": "2019",
+            "journal-title": "Wiley Interdiscip. Rev. Data Min. Knowl. Discov."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib77",
+            "doi-asserted-by": "crossref",
+            "first-page": "476",
+            "DOI": "10.1002/minf.201000061",
+            "article-title": "Best practices for QSAR model development, validation, and exploitation",
+            "volume": "29",
+            "author": "Tropsha",
+            "year": "2010",
+            "journal-title": "Mol. Inform."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib78",
+            "doi-asserted-by": "crossref",
+            "first-page": "706",
+            "DOI": "10.1039/C8NA00142A",
+            "article-title": "A safe-by-design tool for functionalised nanomaterials through the Enalos Nanoinformatics Cloud platform",
+            "volume": "1",
+            "author": "Varsou",
+            "year": "2019",
+            "journal-title": "Nanoscale Adv."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib79",
+            "series-title": "Rational Drug Design: Methods and Protocols, Methods in Molecular Biology",
+            "first-page": "113",
+            "article-title": "Enalos+ KNIME nodes: new cheminformatics tools for drug discovery",
+            "author": "Varsou",
+            "year": "2018"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib80",
+            "doi-asserted-by": "crossref",
+            "first-page": "543",
+            "DOI": "10.1021/acs.jcim.7b00160",
+            "article-title": "ToxFlow: a web-based application for read-across toxicity prediction using omics and physicochemical data",
+            "volume": "58",
+            "author": "Varsou",
+            "year": "2018",
+            "journal-title": "J. Chem. Inf. Model."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib81",
+            "first-page": "1",
+            "article-title": "Read-across predictions of nanoparticle hazard endpoints: a mathematical optimization approach",
+            "author": "Varsou",
+            "year": "2019",
+            "journal-title": "Nanoscale Adv."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib82",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1002/smll.201906588",
+            "article-title": "Zeta-potential read-across model utilizing nanodescriptors Extracted via the NanoXtract image analysis tool available on the enalos nanoinformatics Cloud platform",
+            "volume": "16",
+            "author": "Varsou",
+            "year": "2020",
+            "journal-title": "Small"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib83",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1007/s11051-012-0787-7",
+            "article-title": "Statistical evaluation of potential damage to the Al(OH)3 layer on nTiO2 particles in the presence of swimming pool and seawater",
+            "volume": "14",
+            "author": "Virkutyte",
+            "year": "2012",
+            "journal-title": "J. Nanoparticle Res."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib84",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1038/s41598-017-14981-x",
+            "article-title": "High-resolution single particle zeta potential characterisation of biological nanoparticles using tunable resistive pulse sensing",
+            "volume": "7",
+            "author": "Vogel",
+            "year": "2017",
+            "journal-title": "Sci. Rep."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib85",
+            "doi-asserted-by": "crossref",
+            "article-title": "Applying quantitative structure – activity relationship approaches to nanotoxicology : current status and future potential",
+            "author": "Winkler",
+            "year": "2013",
+            "journal-title": "Toxicology",
+            "DOI": "10.1016/j.tox.2012.11.005"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2021.131452_bib86",
+            "series-title": "Data Mining Practical Machine Learning Tools and Techniques",
+            "author": "Witten",
+            "year": "2011"
+        }
+    ],
+    "container-title": "Chemosphere",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S004565352101924X?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S004565352101924X?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                10,
+                29
+            ]
+        ],
+        "date-time": "2021-10-29T13:40:15Z",
+        "timestamp": 1635514815000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S004565352101924X"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                12
+            ]
+        ]
+    },
+    "references-count": 89,
+    "alternative-id": [
+        "S004565352101924X"
+    ],
+    "URL": "http://dx.doi.org/10.1016/j.chemosphere.2021.131452",
+    "relation": {},
+    "ISSN": [
+        "0045-6535"
+    ],
+    "subject": [
+        "General Medicine",
+        "General Chemistry",
+        "Environmental Chemistry",
+        "Environmental Engineering",
+        "Pollution",
+        "Health, Toxicology and Mutagenesis",
+        "Public Health, Environmental and Occupational Health"
+    ],
+    "container-title-short": "Chemosphere",
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                12
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+        },
+        {
+            "value": "Ecotoxicological read-across models for predicting acute toxicity of freshly dispersed versus medium-aged NMs to Daphnia magna",
+            "name": "articletitle",
+            "label": "Article Title"
+        },
+        {
+            "value": "Chemosphere",
+            "name": "journaltitle",
+            "label": "Journal Title"
+        },
+        {
+            "value": "https://doi.org/10.1016/j.chemosphere.2021.131452",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+        },
+        {
+            "value": "© 2021 The Author(s). Published by Elsevier Ltd.",
+            "name": "copyright",
+            "label": "Copyright"
+        }
+    ],
+    "article-number": "131452"
+}

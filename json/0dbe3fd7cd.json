@@ -1,0 +1,1257 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                29
+            ]
+        ],
+        "date-time": "2022-03-29T15:35:31Z",
+        "timestamp": 1648568131440
+    },
+    "reference-count": 99,
+    "publisher": "Elsevier BV",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        4,
+                        1
+                    ]
+                ],
+                "date-time": "2020-04-01T00:00:00Z",
+                "timestamp": 1585699200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100001871",
+            "name": "Fundação para a Ciência e a Tecnologia",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "UID/QUI/50006/2019",
+                "NORTE-01-0145-FEDER-000011"
+            ]
+        },
+        {
+            "name": "Interreg SUDOE NanoDesk",
+            "award": [
+                "SOE1/P1/E0215"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                4
+            ]
+        ]
+    },
+    "DOI": "10.1016/j.chemosphere.2019.125489",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                11,
+                27
+            ]
+        ],
+        "date-time": "2019-11-27T11:14:34Z",
+        "timestamp": 1574853274000
+    },
+    "page": "125489",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 12,
+    "title": "A unified in silico model based on perturbation theory for assessing the genotoxicity of metal oxide nanoparticles",
+    "prefix": "10.1016",
+    "volume": "244",
+    "author": [
+        {
+            "given": "Amit Kumar",
+            "family": "Halder",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "André",
+            "family": "Melo",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "M. Natália D.S.",
+            "family": "Cordeiro",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "78",
+    "reference": [
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "6681",
+            "DOI": "10.2174/1381612811319370011",
+            "article-title": "Iron oxide nanoparticle-induced oxidative stress and genotoxicity in human skin epithelial and lung epithelial cell lines",
+            "volume": "19",
+            "author": "Ahamed",
+            "year": "2013",
+            "journal-title": "Curr. Pharmaceut. Des."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib2",
+            "first-page": "983",
+            "article-title": "Induction of oxidative stress, DNA damage, and apoptosis in a malignant human skin melanoma cell line after exposure to zinc oxide nanoparticles",
+            "volume": "8",
+            "author": "Alarifi",
+            "year": "2013",
+            "journal-title": "Int. J. Nanomed."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "296",
+            "DOI": "10.1177/1091581813487563",
+            "article-title": "Cytotoxicity and genotoxicity of copper oxide nanoparticles in human skin keratinocytes cells",
+            "volume": "32",
+            "author": "Alarifi",
+            "year": "2013",
+            "journal-title": "Int. J. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib4",
+            "first-page": "189",
+            "article-title": "Oxidative stress contributes to cobalt oxide nanoparticles-induced cytotoxicity and DNA damage in human hepatocarcinoma cells",
+            "volume": "8",
+            "author": "Alarifi",
+            "year": "2013",
+            "journal-title": "Int. J. Nanomed."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib5",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1088/1361-6528/aaf3f5",
+            "article-title": "Physics and design for 20% and 25% efficiency nanowire array solar cells",
+            "volume": "30",
+            "author": "Anttu",
+            "year": "2019",
+            "journal-title": "Nanotechnology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "4367",
+            "DOI": "10.1021/es060691k",
+            "article-title": "In vitro interactions between DMSA-coated maghemite nanoparticles and human fibroblasts: a physicochemical and cyto-genotoxical study",
+            "volume": "40",
+            "author": "Auffan",
+            "year": "2006",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib7",
+            "series-title": "Emerging Trends of Nanotechnology in Environment and Sustainability: A Review-Based Approach",
+            "first-page": "77",
+            "article-title": "Toxicological impacts of nanoparticles",
+            "author": "Baby",
+            "year": "2018"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib8",
+            "first-page": "1",
+            "article-title": "Toxicity of nanoparticles and an overview of current experimental models",
+            "volume": "20",
+            "author": "Bahadar",
+            "year": "2016",
+            "journal-title": "Iran. Biomed. J."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "61",
+            "DOI": "10.1007/s11051-009-9694-y",
+            "article-title": "Toxicological consequences of TiO2, SiC nanoparticles and multi-walled carbon nanotubes exposure in several mammalian cell types: an in vitro study",
+            "volume": "12",
+            "author": "Barillet",
+            "year": "2010",
+            "journal-title": "J. Nanoparticle Res."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "3069",
+            "DOI": "10.1021/nl801661w",
+            "article-title": "Reproducible Comet assay of amorphous silica nanoparticles detects no genotoxicity",
+            "volume": "8",
+            "author": "Barnes",
+            "year": "2008",
+            "journal-title": "Nano Lett."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "363",
+            "DOI": "10.3109/17435390.2013.788748",
+            "article-title": "The effects of engineered nanoparticles on the cellular structure and growth of Saccharomyces cerevisiae",
+            "volume": "8",
+            "author": "Bayat",
+            "year": "2014",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "619",
+            "DOI": "10.1007/s00216-009-3261-3",
+            "article-title": "Genotoxic potential of TiO2 on bottlenose dolphin leukocytes",
+            "volume": "396",
+            "author": "Bernardeschi",
+            "year": "2010",
+            "journal-title": "Anal. Bioanal. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1186/1743-8977-6-17",
+            "article-title": "Titanium dioxide nanoparticles induce oxidative stress and DNA-adduct formation but not DNA-breakage in human lung cells. Part",
+            "volume": "6",
+            "author": "Bhattacharya",
+            "year": "2009",
+            "journal-title": "Fibre Toxicol"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "59",
+            "DOI": "10.1016/j.biopha.2013.08.006",
+            "article-title": "Effects of titanium dioxide nanoparticles in human gastric epithelial cells in vitro",
+            "volume": "68",
+            "author": "Botelho",
+            "year": "2014",
+            "journal-title": "Biomed. Pharmacother."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib15",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0177678",
+            "article-title": "Optimal classifier for imbalanced data using Matthews Correlation Coefficient metric",
+            "volume": "12",
+            "author": "Boughorbel",
+            "year": "2017",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.1111/j.1365-2036.2012.05179.x",
+            "article-title": "Systematic review: the applications of nanotechnology in gastroenterology",
+            "volume": "36",
+            "author": "Brakmane",
+            "year": "2012",
+            "journal-title": "Aliment. Pharmacol. Ther."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "8673",
+            "DOI": "10.1021/nn4029184",
+            "article-title": "Palladium nanoparticle enhanced giant photoresponse at LaAlO3/SrTiO3 two-dimensional electron gas heterostructures",
+            "volume": "7",
+            "author": "Chan",
+            "year": "2013",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "9366",
+            "DOI": "10.1021/nn205097e",
+            "article-title": "Probing surface band bending of surface-engineered metal oxide nanowires",
+            "volume": "6",
+            "author": "Chen",
+            "year": "2012",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "314",
+            "DOI": "10.1016/j.toxlet.2014.02.020",
+            "article-title": "Genotoxic evaluation of titanium dioxide nanoparticles in vivo and in vitro",
+            "volume": "226",
+            "author": "Chen",
+            "year": "2014",
+            "journal-title": "Toxicol. Lett."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1013",
+            "DOI": "10.3390/ma10091013",
+            "article-title": "A review of recent advances towards the development of (quantitative) structure-activity relationships for metallic nanomaterials",
+            "volume": "10",
+            "author": "Chen",
+            "year": "2017",
+            "journal-title": "Materials"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "891",
+            "DOI": "10.1080/17435390.2017.1379567",
+            "article-title": "Probing the toxicity of nanoparticles: a unified in silico machine learning model based on perturbation theory",
+            "volume": "11",
+            "author": "Concu",
+            "year": "2017",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "990",
+            "DOI": "10.1080/15287394.2013.830584",
+            "article-title": "Determination of TiO2, ZrO2, and Al2O3 nanoparticles on genotoxic responses in human peripheral blood lymphocytes and cultured embyronic kidney cells",
+            "volume": "76",
+            "author": "Demir",
+            "year": "2013",
+            "journal-title": "J. Toxicol. Environ. Health"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "420",
+            "DOI": "10.1016/j.jhazmat.2013.11.043",
+            "article-title": "Zinc oxide nanoparticles: genotoxicity, interactions with UV-light and cell-transforming potential",
+            "volume": "264",
+            "author": "Demir",
+            "year": "2014",
+            "journal-title": "J. Hazard Mater."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.3906/biy-1306-11",
+            "article-title": "Genotoxic effects of zinc oxide and titanium dioxide nanoparticles on root meristem cells of Allium cepa by comet assay",
+            "volume": "38",
+            "author": "Demir",
+            "year": "2014",
+            "journal-title": "Turk. J. Biol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "117",
+            "DOI": "10.1093/mutage/gew060",
+            "article-title": "In vitro genotoxicity testing of four reference metal nanomaterials, titanium dioxide, zinc oxide, cerium oxide and silver: towards reliable hazard assessment",
+            "volume": "32",
+            "author": "El Yamani",
+            "year": "2017",
+            "journal-title": "Mutagenesis"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "37",
+            "DOI": "10.1016/0165-1110(94)00013-3",
+            "article-title": "The comet assay: a comprehensive review",
+            "volume": "339",
+            "author": "Fairbairn",
+            "year": "1995",
+            "journal-title": "Mutat. Res."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "850",
+            "DOI": "10.1021/tx2004294",
+            "article-title": "Hematite nanoparticles larger than 90 nm show no sign of toxicity in terms of lactate dehydrogenase release, nitric oxide generation, apoptosis, and comet assay in murine alveolar macrophages and human lung epithelial cells",
+            "volume": "25",
+            "author": "Freyria",
+            "year": "2012",
+            "journal-title": "Chem. Res. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "313",
+            "DOI": "10.3109/17435390.2014.930195",
+            "article-title": "Towards understanding mechanisms governing cytotoxicity of metal oxides nanoparticles: hints from nano-QSAR studies",
+            "volume": "9",
+            "author": "Gajewicz",
+            "year": "2015",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "274",
+            "DOI": "10.3109/17435390.2011.652207",
+            "article-title": "In vitro toxicity of amorphous silica nanoparticles in human colon carcinoma cells",
+            "volume": "7",
+            "author": "Gehrke",
+            "year": "2013",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib30",
+            "series-title": "Nanotechnology in Endodontics: Current and Potential Clinical Applications",
+            "first-page": "45",
+            "article-title": "Nanomaterial properties: implications for safe medical applications of nanotechnology",
+            "author": "George",
+            "year": "2015"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "355",
+            "DOI": "10.3109/17435390903276933",
+            "article-title": "Cytotoxicity and oxidative DNA damage by nanoparticles in human intestinal Caco-2 cells",
+            "volume": "3",
+            "author": "Gerloff",
+            "year": "2009",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "1253",
+            "DOI": "10.1016/j.chemosphere.2010.09.022",
+            "article-title": "Genotoxicity of titanium dioxide (TiO2) nanoparticles at two trophic levels: plant and human lymphocytes",
+            "volume": "81",
+            "author": "Ghosh",
+            "year": "2010",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "1097",
+            "DOI": "10.1002/jat.2863",
+            "article-title": "Cytotoxic, genotoxic and the hemolytic effect of titanium dioxide (TiO2) nanoparticles on human erythrocyte and lymphocyte cells in vitro",
+            "volume": "33",
+            "author": "Ghosh",
+            "year": "2013",
+            "journal-title": "J. Appl. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "2154",
+            "DOI": "10.1039/C4NR06670G",
+            "article-title": "Genotoxicity of metal oxide nanomaterials: review of recent data and discussion of possible mechanisms",
+            "volume": "7",
+            "author": "Golbamaki",
+            "year": "2015",
+            "journal-title": "Nanoscale"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "1113",
+            "DOI": "10.1080/17435390.2018.1478999",
+            "article-title": "Genotoxicity induced by metal oxide nanoparticles: a weight of evidence study and effect of particle surface and electronic properties",
+            "volume": "12",
+            "author": "Golbamaki",
+            "year": "2018",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib36",
+            "first-page": "116",
+            "article-title": "Evaluation of in vitro mutagenicity and genotoxicity of magnetite nanoparticles",
+            "volume": "7",
+            "author": "Gomaa",
+            "year": "2013",
+            "journal-title": "Drug Discov. Ther."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "4915",
+            "DOI": "10.1007/s11033-011-1287-z",
+            "article-title": "The role of reactive oxygen species in silicon dioxide nanoparticle-induced cytotoxicity and DNA damage in HaCaT cells",
+            "volume": "39",
+            "author": "Gong",
+            "year": "2012",
+            "journal-title": "Mol. Biol. Rep."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "382",
+            "DOI": "10.3109/17435390.2010.501913",
+            "article-title": "Exploring the aneugenic and clastogenic potential in the nanosize range: a549 human lung carcinoma cells and amorphous monodisperse silica nanoparticles as models",
+            "volume": "4",
+            "author": "Gonzalez",
+            "year": "2010",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "1713",
+            "DOI": "10.2174/1568026611313140011",
+            "article-title": "General theory for multiple input-output perturbations in complex molecular systems. 1. Linear QSPR electronegativity models in physical, organic, and medicinal chemistry",
+            "volume": "13",
+            "author": "Gonzalez-Diaz",
+            "year": "2013",
+            "journal-title": "Curr. Top. Med. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "33",
+            "DOI": "10.1080/17435390802596456",
+            "article-title": "The effect of zinc oxide and titanium dioxide nanoparticles in the Comet assay with UVA photoactivation of human sperm and lymphocytes",
+            "volume": "3",
+            "author": "Gopalan",
+            "year": "2009",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib41",
+            "first-page": "631",
+            "article-title": "Cytotoxicity and genotoxicity of nanosized and microsized titanium dioxide and iron oxide particles in Syrian hamster embryo cells",
+            "volume": "56",
+            "author": "Guichard",
+            "year": "2012",
+            "journal-title": "Ann. Occup. Hyg."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib42",
+            "first-page": "GE01",
+            "article-title": "A comprehensive review on clinical applications of comet assay",
+            "volume": "9",
+            "author": "Gunasekarana",
+            "year": "2015",
+            "journal-title": "J. Clin. Diagn. Res."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "66",
+            "DOI": "10.1016/j.tox.2005.05.007",
+            "article-title": "Ultrafine titanium dioxide particles in the absence of photoactivation can induce oxidative damage to human bronchial epithelial cells",
+            "volume": "213",
+            "author": "Gurr",
+            "year": "2005",
+            "journal-title": "Toxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "657",
+            "DOI": "10.1016/j.tiv.2011.01.003",
+            "article-title": "Cytotoxic, genotoxic and pro-inflammatory effects of zinc oxide nanoparticles in human nasal mucosa cells in vitro",
+            "volume": "25",
+            "author": "Hackenberg",
+            "year": "2011",
+            "journal-title": "Toxicol. In Vitro"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib45",
+            "first-page": "864",
+            "article-title": "In vitro cytotoxicity and genotoxicity studies of titanium dioxide (TiO2) nanoparticles in Chinese hamster lung fibroblast cells",
+            "volume": "27",
+            "author": "Hamzeh",
+            "year": "2013",
+            "journal-title": "Toxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "822",
+            "DOI": "10.1093/bioinformatics/btq037",
+            "article-title": "Small-sample precision of ROC-related estimates",
+            "volume": "26",
+            "author": "Hanczar",
+            "year": "2010",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib47",
+            "series-title": "Statistics: Methods and Applications: A Comprehensive Reference for Science",
+            "author": "Hill",
+            "year": "2006"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib48",
+            "doi-asserted-by": "crossref",
+            "first-page": "813",
+            "DOI": "10.1021/ar300069t",
+            "article-title": "Ecological nanotoxicology: integrating nanomaterial hazard considerations across the subcellular, population, community, and ecosystems levels",
+            "volume": "46",
+            "author": "Holden",
+            "year": "2013",
+            "journal-title": "Acc. Chem. Res."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib49",
+            "doi-asserted-by": "crossref",
+            "first-page": "40",
+            "DOI": "10.1016/j.ecoenv.2013.07.001",
+            "article-title": "Comparative toxicity of CuO nanoparticles and CuSO4 in rainbow trout",
+            "volume": "97",
+            "author": "Isani",
+            "year": "2013",
+            "journal-title": "Ecotoxicol. Environ. Saf."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib50",
+            "doi-asserted-by": "crossref",
+            "first-page": "1126",
+            "DOI": "10.1021/tx7001959",
+            "article-title": "Toxicity of luminescent silica nanoparticles to living cells",
+            "volume": "20",
+            "author": "Jin",
+            "year": "2007",
+            "journal-title": "Chem. Res. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib51",
+            "doi-asserted-by": "crossref",
+            "first-page": "501",
+            "DOI": "10.3109/17435390.2011.587903",
+            "article-title": "Titanium dioxide nanoparticles exhibit genotoxicity and impair DNA repair activity in A549 cells",
+            "volume": "6",
+            "author": "Jugan",
+            "year": "2012",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib52",
+            "doi-asserted-by": "crossref",
+            "first-page": "491",
+            "DOI": "10.1093/mutage/ges010",
+            "article-title": "DNA damage induced by micro- and nanoparticles–interaction with FPG influences the detection of DNA oxidation in the comet assay",
+            "volume": "27",
+            "author": "Kain",
+            "year": "2012",
+            "journal-title": "Mutagenesis"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib53",
+            "doi-asserted-by": "crossref",
+            "first-page": "399",
+            "DOI": "10.1002/em.20399",
+            "article-title": "Titanium dioxide nanoparticles trigger p53-mediated damage response in peripheral blood lymphocytes",
+            "volume": "49",
+            "author": "Kang",
+            "year": "2008",
+            "journal-title": "Environ. Mol. Mutagen."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib54",
+            "doi-asserted-by": "crossref",
+            "first-page": "1726",
+            "DOI": "10.1021/tx800064j",
+            "article-title": "Copper oxide nanoparticles are highly toxic: a comparison between metal oxide nanoparticles and carbon nanotubes",
+            "volume": "21",
+            "author": "Karlsson",
+            "year": "2008",
+            "journal-title": "Chem. Res. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib55",
+            "doi-asserted-by": "crossref",
+            "first-page": "112",
+            "DOI": "10.1016/j.toxlet.2009.03.014",
+            "article-title": "Size-dependent toxicity of metal oxide particles–a comparison between nano- and micrometer size",
+            "volume": "188",
+            "author": "Karlsson",
+            "year": "2009",
+            "journal-title": "Toxicol. Lett."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib56",
+            "doi-asserted-by": "crossref",
+            "first-page": "28",
+            "DOI": "10.1186/1743-8977-9-28",
+            "article-title": "An in vitro liver model–assessing oxidative stress and genotoxicity following exposure of hepatocytes to a panel of engineered nanomaterials",
+            "volume": "9",
+            "author": "Kermanizadeh",
+            "year": "2012",
+            "journal-title": "Part. Fibre Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib57",
+            "doi-asserted-by": "crossref",
+            "first-page": "96",
+            "DOI": "10.1186/1471-2369-14-96",
+            "article-title": "An in vitro assessment of panel of engineered nanomaterials using a human renal cell line: cytotoxicity, pro-inflammatory response, oxidative stress and genotoxicity",
+            "volume": "14",
+            "author": "Kermanizadeh",
+            "year": "2013",
+            "journal-title": "BMC Nephrol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib58",
+            "doi-asserted-by": "crossref",
+            "first-page": "558",
+            "DOI": "10.1080/10826068.2013.835732",
+            "article-title": "Influence of pH and temperature on the activity of SnO2-bound alpha-amylase: a genotoxicity assessment of SnO2 nanoparticles",
+            "volume": "44",
+            "author": "Khan",
+            "year": "2014",
+            "journal-title": "Prep. Biochem. Biotechnol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib59",
+            "doi-asserted-by": "crossref",
+            "first-page": "3784",
+            "DOI": "10.1002/smll.201300522",
+            "article-title": "Organic field-effect transistor memory devices using discrete ferritin nanoparticle-based gate dielectrics",
+            "volume": "9",
+            "author": "Kim",
+            "year": "2013",
+            "journal-title": "Small"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib60",
+            "doi-asserted-by": "crossref",
+            "first-page": "288",
+            "DOI": "10.1016/j.envint.2014.08.009",
+            "article-title": "Computational ecotoxicology: simultaneous prediction of ecotoxic effects of nanoparticles under different experimental conditions",
+            "volume": "73",
+            "author": "Kleandrova",
+            "year": "2014",
+            "journal-title": "Environ. Int."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib61",
+            "doi-asserted-by": "crossref",
+            "first-page": "14686",
+            "DOI": "10.1021/es503861x",
+            "article-title": "Computational tool for risk assessment of nanomaterials: novel QSTR-perturbation model for simultaneous prediction of ecotoxicity and cytotoxicity of uncoated and coated nanoparticles under multiple experimental conditions",
+            "volume": "48",
+            "author": "Kleandrova",
+            "year": "2014",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib62",
+            "doi-asserted-by": "crossref",
+            "first-page": "1460",
+            "DOI": "10.1021/tx200051s",
+            "article-title": "Cytotoxicity and genotoxicity of size-fractionated iron oxide (magnetite) in A549 human lung epithelial cells: role of ROS, JNK, and NF-kappaB",
+            "volume": "24",
+            "author": "Konczol",
+            "year": "2011",
+            "journal-title": "Chem. Res. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib63",
+            "doi-asserted-by": "crossref",
+            "first-page": "241",
+            "DOI": "10.1016/j.mrrev.2008.10.002",
+            "article-title": "Genotoxicity investigations on nanomaterials: methods, preparation and characterization of test material, potential artifacts and limitations–many questions, some answers",
+            "volume": "681",
+            "author": "Landsiedel",
+            "year": "2009",
+            "journal-title": "Mutat. Res."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib64",
+            "doi-asserted-by": "crossref",
+            "first-page": "235",
+            "DOI": "10.3109/17435390.2011.649796",
+            "article-title": "Effect of surface modification of silica nanoparticles on toxicity and cellular uptake by human peripheral blood lymphocytes in vitro",
+            "volume": "7",
+            "author": "Lankoff",
+            "year": "2013",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib65",
+            "doi-asserted-by": "crossref",
+            "first-page": "269",
+            "DOI": "10.1016/j.chemosphere.2013.04.076",
+            "article-title": "Genotoxic effects of Bismuth (III) oxide nanoparticles by Allium and Comet assay",
+            "volume": "93",
+            "author": "Liman",
+            "year": "2013",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib66",
+            "doi-asserted-by": "crossref",
+            "first-page": "10623",
+            "DOI": "10.1039/C4NR01285B",
+            "article-title": "Computer-aided nanotoxicology: assessing cytotoxicity of nanoparticles under diverse experimental conditions by using a novel QSTR-perturbation approach",
+            "volume": "6",
+            "author": "Luan",
+            "year": "2014",
+            "journal-title": "Nanoscale"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib67",
+            "doi-asserted-by": "crossref",
+            "first-page": "275",
+            "DOI": "10.1007/978-1-4939-6960-9_22",
+            "article-title": "Nano-QSAR model for predicting cell viability of human embryonic kidney cells",
+            "volume": "1601",
+            "author": "Manganelli",
+            "year": "2017",
+            "journal-title": "Methods Mol. Biol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib68",
+            "first-page": "237",
+            "article-title": "Dragon software: an easy approach to molecular descriptor calculations",
+            "volume": "56",
+            "author": "Mauri",
+            "year": "2006",
+            "journal-title": "Match Commun. Math. Comput. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib69",
+            "doi-asserted-by": "crossref",
+            "first-page": "389",
+            "DOI": "10.1002/smll.200801220",
+            "article-title": "Surface characteristics, copper release, and toxicity of nano- and micrometer-sized copper and copper(II) oxide particles: a cross-disciplinary study",
+            "volume": "5",
+            "author": "Midander",
+            "year": "2009",
+            "journal-title": "Small"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib70",
+            "doi-asserted-by": "crossref",
+            "first-page": "1150",
+            "DOI": "10.1039/C8EN00085A",
+            "article-title": "Nano-QSAR modeling for ecosafe design of heterogeneous TiO2-based nano-photocatalysts",
+            "volume": "5",
+            "author": "Mikolajczyk",
+            "year": "2018",
+            "journal-title": "Environ. Sci. Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib71",
+            "doi-asserted-by": "crossref",
+            "first-page": "7690",
+            "DOI": "10.1021/ja211121m",
+            "article-title": "Oxidation state and symmetry of magnesia-supported Pd13O(x) nanocatalysts influence activation barriers of CO oxidation",
+            "volume": "134",
+            "author": "Moseler",
+            "year": "2012",
+            "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib72",
+            "doi-asserted-by": "crossref",
+            "first-page": "558",
+            "DOI": "10.1021/tx4004243",
+            "article-title": "Systematic investigation of the physicochemical factors that contribute to the toxicity of ZnO nanoparticles",
+            "volume": "27",
+            "author": "Mu",
+            "year": "2014",
+            "journal-title": "Chem. Res. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib73",
+            "doi-asserted-by": "crossref",
+            "first-page": "341",
+            "DOI": "10.3109/17435390.2010.507316",
+            "article-title": "DNA damage and alterations in expression of DNA damage responsive genes induced by TiO2 nanoparticles in human hepatoma HepG2 cells",
+            "volume": "5",
+            "author": "Petkovic",
+            "year": "2011",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib74",
+            "doi-asserted-by": "crossref",
+            "first-page": "1929",
+            "DOI": "10.1021/nn302280n",
+            "article-title": "Effect of treatment media on the agglomeration of titanium dioxide nanoparticles: impact on genotoxicity, cellular interaction, and cell cycle",
+            "volume": "7",
+            "author": "Prasad",
+            "year": "2013",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib75",
+            "doi-asserted-by": "crossref",
+            "first-page": "336",
+            "DOI": "10.1002/em.21848",
+            "article-title": "Cellular interactions and biological responses to titanium dioxide nanoparticles in HepG2 and BEAS-2B cells: role of cell culture media",
+            "volume": "55",
+            "author": "Prasad",
+            "year": "2014",
+            "journal-title": "Environ. Mol. Mutagen."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib76",
+            "doi-asserted-by": "crossref",
+            "first-page": "1014",
+            "DOI": "10.3389/fmicb.2017.01014",
+            "article-title": "Nanotechnology in sustainable agriculture: recent developments, challenges, and perspectives",
+            "volume": "8",
+            "author": "Prasad",
+            "year": "2017",
+            "journal-title": "Front. Microbiol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib77",
+            "doi-asserted-by": "crossref",
+            "first-page": "1043",
+            "DOI": "10.3109/17435390.2012.696735",
+            "article-title": "Experimental evidence of false-positive Comet test results due to TiO2 particle - assay interactions",
+            "volume": "7",
+            "author": "Rajapakse",
+            "year": "2013",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib78",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/j.mrfmmm.2007.12.010",
+            "article-title": "Hydroxyl radicals (*OH) are associated with titanium dioxide (TiO(2)) nanoparticle-induced cytotoxicity and oxidative DNA damage in fish cells",
+            "volume": "640",
+            "author": "Reeves",
+            "year": "2008",
+            "journal-title": "Mutat. Res."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib79",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1016/j.jhazmat.2013.04.022",
+            "article-title": "A strategy for in vitro safety testing of nanotitania-modified textile products",
+            "volume": "256–257",
+            "author": "Roszak",
+            "year": "2013",
+            "journal-title": "J. Hazard Mater."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib80",
+            "doi-asserted-by": "crossref",
+            "first-page": "2345",
+            "DOI": "10.1021/ci700157b",
+            "article-title": "Y-Randomization and its variants in QSPR/QSAR",
+            "volume": "47",
+            "author": "Rucker",
+            "year": "2007",
+            "journal-title": "J. Chem. Inf. Model."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib81",
+            "first-page": "1",
+            "article-title": "Toxicity of nanomaterials found in human environment: a literature review",
+            "volume": "1",
+            "author": "Sahu",
+            "year": "2017",
+            "journal-title": "Toxicol. Res. Appl."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib82",
+            "doi-asserted-by": "crossref",
+            "article-title": "Designing nanoparticle release systems for drug–vitamin cancer co-therapy with multiplicative perturbation-theory machine learning (PTML) models",
+            "author": "Santana",
+            "year": "2019",
+            "journal-title": "Nanoscale",
+            "DOI": "10.1039/C9NR05070A"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib83",
+            "doi-asserted-by": "crossref",
+            "first-page": "117",
+            "DOI": "10.1002/tox.20778",
+            "article-title": "DNA damage and repair following in vitro exposure to two different forms of titanium dioxide nanoparticles on trout erythrocyte",
+            "volume": "29",
+            "author": "Sekar",
+            "year": "2014",
+            "journal-title": "Environ. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib84",
+            "doi-asserted-by": "crossref",
+            "first-page": "211",
+            "DOI": "10.1016/j.toxlet.2009.01.008",
+            "article-title": "DNA damaging potential of zinc oxide nanoparticles in human epidermal cells",
+            "volume": "185",
+            "author": "Sharma",
+            "year": "2009",
+            "journal-title": "Toxicol. Lett."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib85",
+            "doi-asserted-by": "crossref",
+            "first-page": "231",
+            "DOI": "10.1016/j.tiv.2010.11.008",
+            "article-title": "ROS-mediated genotoxicity induced by titanium dioxide nanoparticles in human epidermal cells",
+            "volume": "25",
+            "author": "Shukla",
+            "year": "2011",
+            "journal-title": "Toxicol. In Vitro"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib86",
+            "doi-asserted-by": "crossref",
+            "first-page": "48",
+            "DOI": "10.3109/17435390.2011.629747",
+            "article-title": "TiO2 nanoparticles induce oxidative DNA damage and apoptosis in human liver cells",
+            "volume": "7",
+            "author": "Shukla",
+            "year": "2013",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib87",
+            "doi-asserted-by": "crossref",
+            "first-page": "184",
+            "DOI": "10.1016/0014-4827(88)90265-0",
+            "article-title": "A simple technique for quantitation of low levels of DNA damage in individual cells",
+            "volume": "175",
+            "author": "Singh",
+            "year": "1988",
+            "journal-title": "Exp. Cell Res."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib88",
+            "doi-asserted-by": "crossref",
+            "first-page": "511",
+            "DOI": "10.1007/s11030-017-9731-1",
+            "article-title": "Fragment-based in silico modeling of multi-target inhibitors against breast cancer-related proteins",
+            "volume": "21",
+            "author": "Speck-Planche",
+            "year": "2017",
+            "journal-title": "Mol. Divers."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib89",
+            "doi-asserted-by": "crossref",
+            "first-page": "193",
+            "DOI": "10.2217/nnm.14.96",
+            "article-title": "Computational modeling in nanomedicine: prediction of multiple antibacterial profiles of nanoparticles using a quantitative structure-activity relationship perturbation model",
+            "volume": "10",
+            "author": "Speck-Planche",
+            "year": "2015",
+            "journal-title": "Nanomedicine"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib90",
+            "series-title": "STATISTICA. Data Analysis Software System",
+            "year": "2001"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib91",
+            "series-title": "MOPAC 2012",
+            "author": "Stewart",
+            "year": "2014"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib92",
+            "doi-asserted-by": "crossref",
+            "first-page": "92",
+            "DOI": "10.1016/j.envint.2013.02.013",
+            "article-title": "Neuronal cytotoxicity and genotoxicity induced by zinc oxide nanoparticles",
+            "volume": "55",
+            "author": "Valdiglesias",
+            "year": "2013",
+            "journal-title": "Environ. Int."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib93",
+            "doi-asserted-by": "crossref",
+            "first-page": "1530",
+            "DOI": "10.1016/j.scitotenv.2018.04.033",
+            "article-title": "Considerations of nano-QSAR/QSPR models for nanopesticide risk assessment within the European legislative framework",
+            "volume": "634",
+            "author": "Villaverde",
+            "year": "2018",
+            "journal-title": "Sci. Total Environ."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib94",
+            "doi-asserted-by": "crossref",
+            "first-page": "99",
+            "DOI": "10.1016/j.mrgentox.2006.12.003",
+            "article-title": "Cyto- and genotoxicity of ultrafine TiO2 particles in cultured human lymphoblastoid cells",
+            "volume": "628",
+            "author": "Wang",
+            "year": "2007",
+            "journal-title": "Mutat. Res."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib95",
+            "doi-asserted-by": "crossref",
+            "first-page": "151",
+            "DOI": "10.1002/em.20287",
+            "article-title": "Cytotoxicity and genotoxicity of ultrafine crystalline SiO2 particulate in cultured human lymphoblastoid cells",
+            "volume": "48",
+            "author": "Wang",
+            "year": "2007",
+            "journal-title": "Environ. Mol. Mutagen."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib96",
+            "doi-asserted-by": "crossref",
+            "first-page": "223",
+            "DOI": "10.1080/15376510600943775",
+            "article-title": "Ultrafine quartz-induced damage in human lymphoblastoid cells in vitro using three genetic damage end-points",
+            "volume": "17",
+            "author": "Wang",
+            "year": "2007",
+            "journal-title": "Toxicol. Mech. Methods"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib97",
+            "doi-asserted-by": "crossref",
+            "first-page": "1512",
+            "DOI": "10.1021/tx3002093",
+            "article-title": "CuO nanoparticle interaction with human epithelial cells: cellular uptake, location, export, and genotoxicity",
+            "volume": "25",
+            "author": "Wang",
+            "year": "2012",
+            "journal-title": "Chem. Res. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib98",
+            "doi-asserted-by": "crossref",
+            "first-page": "3397",
+            "DOI": "10.1021/acsnano.5b02224",
+            "article-title": "Where are the products of nanotechnology?",
+            "volume": "9",
+            "author": "Weiss",
+            "year": "2015",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2019.125489_bib99",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1002/jat.1385",
+            "article-title": "Comparative study of cytotoxicity, oxidative stress and genotoxicity induced by four typical nanomaterials: the role of particle size, shape and composition",
+            "volume": "29",
+            "author": "Yang",
+            "year": "2009",
+            "journal-title": "J. Appl. Toxicol."
+        }
+    ],
+    "container-title": "Chemosphere",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S0045653519327298?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S0045653519327298?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                2,
+                4
+            ]
+        ],
+        "date-time": "2020-02-04T22:39:27Z",
+        "timestamp": 1580855967000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0045653519327298"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                4
+            ]
+        ]
+    },
+    "references-count": 99,
+    "alternative-id": [
+        "S0045653519327298"
+    ],
+    "URL": "http://dx.doi.org/10.1016/j.chemosphere.2019.125489",
+    "relation": {},
+    "ISSN": [
+        "0045-6535"
+    ],
+    "subject": [
+        "General Medicine",
+        "General Chemistry",
+        "Environmental Chemistry",
+        "Environmental Engineering",
+        "Pollution",
+        "Health, Toxicology and Mutagenesis",
+        "Public Health, Environmental and Occupational Health"
+    ],
+    "container-title-short": "Chemosphere",
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                4
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+        },
+        {
+            "value": "A unified in silico model based on perturbation theory for assessing the genotoxicity of metal oxide nanoparticles",
+            "name": "articletitle",
+            "label": "Article Title"
+        },
+        {
+            "value": "Chemosphere",
+            "name": "journaltitle",
+            "label": "Journal Title"
+        },
+        {
+            "value": "https://doi.org/10.1016/j.chemosphere.2019.125489",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+        },
+        {
+            "value": "© 2019 Elsevier Ltd. All rights reserved.",
+            "name": "copyright",
+            "label": "Copyright"
+        }
+    ],
+    "article-number": "125489"
+}

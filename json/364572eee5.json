@@ -1,0 +1,642 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                25
+            ]
+        ],
+        "date-time": "2022-04-25T06:48:25Z",
+        "timestamp": 1650869305280
+    },
+    "reference-count": 64,
+    "publisher": "Informa UK Limited",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2017,
+                        1,
+                        2
+                    ]
+                ],
+                "date-time": "2017-01-02T00:00:00Z",
+                "timestamp": 1483315200000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "name": "The Netherlands Ministry of Economic Affairs"
+        },
+        {
+            "name": "NanoNextNL"
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "www.tandfonline.com"
+        ],
+        "crossmark-restriction": true
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2017,
+                1,
+                2
+            ]
+        ]
+    },
+    "DOI": "10.1080/17435390.2016.1278481",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2017,
+                1,
+                3
+            ]
+        ],
+        "date-time": "2017-01-03T10:07:57Z",
+        "timestamp": 1483438077000
+    },
+    "page": "123-133",
+    "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 48,
+    "title": "Application of Bayesian networks for hazard ranking of nanomaterials to support human health risk assessment",
+    "prefix": "10.1080",
+    "volume": "11",
+    "author": [
+        {
+            "given": "Hans J. P.",
+            "family": "Marvin",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Wageningen University and Research, RIKILT, Wageningen, the Netherlands;"
+                }
+            ]
+        },
+        {
+            "given": "Yamine",
+            "family": "Bouzembrak",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Wageningen University and Research, RIKILT, Wageningen, the Netherlands;"
+                }
+            ]
+        },
+        {
+            "given": "Esmée M.",
+            "family": "Janssen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Wageningen University and Research, RIKILT, Wageningen, the Netherlands;"
+                }
+            ]
+        },
+        {
+            "given": "Meike",
+            "family": "van der Zande",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Wageningen University and Research, RIKILT, Wageningen, the Netherlands;"
+                }
+            ]
+        },
+        {
+            "given": "Finbarr",
+            "family": "Murphy",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Kemmy Business School, University of Limerick, Ireland;"
+                }
+            ]
+        },
+        {
+            "given": "Barry",
+            "family": "Sheehan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Kemmy Business School, University of Limerick, Ireland;"
+                }
+            ]
+        },
+        {
+            "given": "Martin",
+            "family": "Mullins",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Kemmy Business School, University of Limerick, Ireland;"
+                }
+            ]
+        },
+        {
+            "given": "Hans",
+            "family": "Bouwmeester",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Wageningen University and Research, RIKILT, Wageningen, the Netherlands;"
+                },
+                {
+                    "name": "Division of Toxicology, Wageningen University, Wageningen, the Netherlands"
+                }
+            ]
+        }
+    ],
+    "member": "301",
+    "published-online": {
+        "date-parts": [
+            [
+                2017,
+                1,
+                25
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "CIT0001",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envsoft.2010.08.007"
+        },
+        {
+            "key": "CIT0002",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cviu.2016.04.002"
+        },
+        {
+            "key": "CIT0003",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.yrtph.2015.03.007"
+        },
+        {
+            "key": "CIT0004",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.yrtph.2014.07.025"
+        },
+        {
+            "key": "CIT0005",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.yrtph.2015.11.020"
+        },
+        {
+            "key": "CIT0056",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1136/jcp.41.4.467"
+        },
+        {
+            "key": "CIT0006",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Banko M, Brill E. 2001. Scaling to very very large corpora for natural language disambiguation. Proceedings of the 39th Annual Meeting on Association for Computational Linguistics. Toulouse, France: Association for Computational Linguistics.",
+            "DOI": "10.3115/1073012.1073017"
+        },
+        {
+            "key": "CIT0007",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envint.2015.03.013"
+        },
+        {
+            "key": "CIT0008",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435391003775266"
+        },
+        {
+            "key": "CIT0009",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.foodcont.2015.09.026"
+        },
+        {
+            "key": "CIT0010",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.aquatox.2016.09.006"
+        },
+        {
+            "key": "CIT0011",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0004-3702(02)00191-1"
+        },
+        {
+            "key": "CIT0058",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2013.809809"
+        },
+        {
+            "key": "CIT0012",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1017/S0269888900003027"
+        },
+        {
+            "key": "CIT0059",
+            "volume-title": "Elements of information theory (Wiley series in telecommunications and signal processing)",
+            "author": "Cover TM",
+            "year": "2006"
+        },
+        {
+            "key": "CIT0013",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2012.662250"
+        },
+        {
+            "key": "CIT0014",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2010.519836"
+        },
+        {
+            "key": "CIT0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "181",
+            "DOI": "10.1007/978-3-642-14746-3_23",
+            "volume": "77",
+            "author": "Denœux T.",
+            "year": "2010",
+            "journal-title": "Adv Intell Soft Comp"
+        },
+        {
+            "key": "CIT0016",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.fss.2011.05.022"
+        },
+        {
+            "key": "CIT0017",
+            "unstructured": "EPA. 2011. Conditional Registration of HeiQ AGS-20 as a Materials Preservative in Textiles. Environmental Protection Agency, Office of Pesticide Programs, EPA-HQ-OPP-2009-1012-0064."
+        },
+        {
+            "key": "CIT0018",
+            "unstructured": "Friedman N, Yakhini Z. 1996. On the sample complexity of learning Bayesian networks. Proceedings of the Twelfth international conference on Uncertainty in artificial intelligence. Portland, OR: Morgan Kaufmann Publishers Inc."
+        },
+        {
+            "key": "CIT0060",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0378-4274(98)00084-8"
+        },
+        {
+            "key": "CIT0019",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-3-540-85066-3_3"
+        },
+        {
+            "key": "CIT0020",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2016.1238113"
+        },
+        {
+            "key": "CIT0062",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1365-2559.2006.02537.x"
+        },
+        {
+            "key": "CIT0021",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2011.626534"
+        },
+        {
+            "key": "CIT0022",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2012.750695"
+        },
+        {
+            "key": "CIT0023",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C5RA10187E"
+        },
+        {
+            "key": "CIT0024",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10669-014-9515-4"
+        },
+        {
+            "key": "CIT0025",
+            "first-page": "41",
+            "volume": "9",
+            "author": "Kim KM",
+            "year": "2014",
+            "journal-title": "Int J Nanomed"
+        },
+        {
+            "key": "CIT0057",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-1-4614-5104-4_10"
+        },
+        {
+            "key": "CIT0026",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ress.2005.11.037"
+        },
+        {
+            "key": "CIT0027",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/0167-9473(93)E0056-A"
+        },
+        {
+            "key": "CIT0028",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ress.2005.03.011"
+        },
+        {
+            "key": "CIT0029",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10669-014-9488-3"
+        },
+        {
+            "key": "CIT0030",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.14573/altex.1412231"
+        },
+        {
+            "key": "CIT0031",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1539-6924.2011.01585.x"
+        },
+        {
+            "key": "CIT0032",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Low-Kam C, Telesca D, Ji Z, Zhang H, Xia T, Zink JI, Nel AE. 2015. A Bayesian regression tree approach to identify the effect of nanoparticles' properties on toxicity profiles. Ann Appl Stat 9:383–401.",
+            "DOI": "10.1214/14-AOAS797"
+        },
+        {
+            "key": "CIT0033",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1139/X06-135"
+        },
+        {
+            "key": "CIT0034",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.foodres.2016.08.028"
+        },
+        {
+            "key": "CIT0035",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2013.12.100"
+        },
+        {
+            "key": "CIT0036",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2012.03.064"
+        },
+        {
+            "key": "CIT0037",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1539-6924.2005.00681.x"
+        },
+        {
+            "key": "CIT0038",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s11671-016-1724-y"
+        },
+        {
+            "key": "CIT0039",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ar300022h"
+        },
+        {
+            "key": "CIT0061",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.4061/2010/947859"
+        },
+        {
+            "key": "CIT0040",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1139/x06-108"
+        },
+        {
+            "key": "CIT0063",
+            "unstructured": "OECD. 2007. OECD guidline for the testing of chemicals: Developmental Neurotoxicity Study. Test no. 426, pp. 1–26."
+        },
+        {
+            "key": "CIT0041",
+            "unstructured": "OECD. 2014. Report of the OECD expert meeting on the physical chemical properties of manufactured nanomaterials and test guidelines. OECD Environment, Health, and Safety Publications. Series on the safety of manufactured nanomaterials. 41:15."
+        },
+        {
+            "key": "CIT0042",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/ijerph121013415"
+        },
+        {
+            "key": "CIT0043",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1089/ees.2012.0331"
+        },
+        {
+            "key": "CIT0044",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envsoft.2006.03.006"
+        },
+        {
+            "key": "CIT0045",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1201/b16387-457"
+        },
+        {
+            "key": "CIT0046",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C4RA01274G"
+        },
+        {
+            "key": "CIT0047",
+            "first-page": "9",
+            "volume": "11",
+            "author": "Sohn S",
+            "year": "2016",
+            "journal-title": "J Surg Res"
+        },
+        {
+            "key": "CIT0048",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1743-8977-11-9"
+        },
+        {
+            "key": "CIT0049",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1743-8977-11-9"
+        },
+        {
+            "key": "CIT0050",
+            "first-page": "173",
+            "volume": "10",
+            "author": "Tantra R",
+            "year": "2016",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "CIT0051",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-1-4020-5802-8_15"
+        },
+        {
+            "key": "CIT0064",
+            "unstructured": "WHO. 2012. Guidance for immunotoxicity risk assessment for chemicals. Harmonization Project Document No. 10:1–312."
+        },
+        {
+            "key": "CIT0052",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.crhy.2011.06.008"
+        },
+        {
+            "key": "CIT0053",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390902725914"
+        },
+        {
+            "key": "CIT0054",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/1062936X.2013.874367"
+        },
+        {
+            "key": "CIT0055",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jhazmat.2016.09.074"
+        }
+    ],
+    "container-title": "Nanotoxicology",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://www.tandfonline.com/doi/pdf/10.1080/17435390.2016.1278481",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://www.tandfonline.com/doi/pdf/10.1080/17435390.2016.1278481",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                9,
+                5
+            ]
+        ],
+        "date-time": "2020-09-05T01:26:02Z",
+        "timestamp": 1599269162000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.tandfonline.com/doi/full/10.1080/17435390.2016.1278481"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2017,
+                1,
+                2
+            ]
+        ]
+    },
+    "references-count": 64,
+    "journal-issue": {
+        "issue": "1",
+        "published-print": {
+            "date-parts": [
+                [
+                    2017,
+                    1,
+                    2
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1080/17435390.2016.1278481"
+    ],
+    "URL": "http://dx.doi.org/10.1080/17435390.2016.1278481",
+    "relation": {},
+    "ISSN": [
+        "1743-5390",
+        "1743-5404"
+    ],
+    "subject": [
+        "Toxicology",
+        "Biomedical Engineering"
+    ],
+    "container-title-short": "Nanotoxicology",
+    "published": {
+        "date-parts": [
+            [
+                2017,
+                1,
+                2
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+            "order": 1,
+            "name": "peerreview_statement",
+            "label": "Peer Review Statement"
+        },
+        {
+            "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=inan20",
+            "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=inan20",
+            "order": 2,
+            "name": "aims_and_scope_url",
+            "label": "Aim & Scope"
+        },
+        {
+            "value": "2016-06-08",
+            "order": 0,
+            "name": "received",
+            "label": "Received",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        },
+        {
+            "value": "2016-12-22",
+            "order": 1,
+            "name": "revised",
+            "label": "Revised",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        },
+        {
+            "value": "2016-12-29",
+            "order": 2,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        },
+        {
+            "value": "2017-01-25",
+            "order": 3,
+            "name": "published",
+            "label": "Published",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        }
+    ]
+}

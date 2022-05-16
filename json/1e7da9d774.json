@@ -1,0 +1,769 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                30
+            ]
+        ],
+        "date-time": "2022-03-30T00:25:30Z",
+        "timestamp": 1648599930631
+    },
+    "reference-count": 52,
+    "publisher": "Wiley",
+    "issue": "3",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2015,
+                        9,
+                        1
+                    ]
+                ],
+                "date-time": "2015-09-01T00:00:00Z",
+                "timestamp": 1441065600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 720,
+            "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2014,
+                3
+            ]
+        ]
+    },
+    "DOI": "10.1111/risa.12109",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2013,
+                9,
+                11
+            ]
+        ],
+        "date-time": "2013-09-11T20:25:35Z",
+        "timestamp": 1378931135000
+    },
+    "page": "583-597",
+    "source": "Crossref",
+    "is-referenced-by-count": 47,
+    "title": "A Meta-Analysis of Carbon Nanotube Pulmonary Toxicity Studies-How Physical Dimensions and Impurities Affect the Toxicity of Carbon Nanotubes",
+    "prefix": "10.1111",
+    "volume": "34",
+    "author": [
+        {
+            "given": "Jeremy M.",
+            "family": "Gernand",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Engineering and Public Policy; Carnegie Mellon University; Pittsburgh PA USA"
+                }
+            ]
+        },
+        {
+            "given": "Elizabeth A.",
+            "family": "Casman",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Engineering and Public Policy; Carnegie Mellon University; Pittsburgh PA USA"
+                }
+            ]
+        }
+    ],
+    "member": "311",
+    "published-online": {
+        "date-parts": [
+            [
+                2013,
+                9,
+                11
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "10.1111/risa.12109-BIB0001|risa12109-cit-0001",
+            "doi-asserted-by": "crossref",
+            "first-page": "378",
+            "DOI": "10.1038/nnano.2008.182",
+            "article-title": "The asbestos analogy revisited",
+            "volume": "3",
+            "author": "Kane",
+            "year": "2008",
+            "journal-title": "Nature Nanotechnology"
+        },
+        {
+            "issue": "2",
+            "key": "10.1111/risa.12109-BIB0002|risa12109-cit-0002",
+            "first-page": "153",
+            "article-title": "Carbon nanotubes induce granulomas but not mesotheliomas",
+            "volume": "24",
+            "author": "Varga",
+            "year": "2010",
+            "journal-title": "In Vivo"
+        },
+        {
+            "issue": "2",
+            "key": "10.1111/risa.12109-BIB0003|risa12109-cit-0003",
+            "doi-asserted-by": "crossref",
+            "first-page": "442",
+            "DOI": "10.1093/toxsci/kfp100",
+            "article-title": "Absence of carcinogenic response to multiwall carbon nanotubes in a 2-year bioassay in the peritoneal cavity of the rat",
+            "volume": "110",
+            "author": "Muller",
+            "year": "2009",
+            "journal-title": "Toxicological Sciences"
+        },
+        {
+            "issue": "1",
+            "key": "10.1111/risa.12109-BIB0004|risa12109-cit-0004",
+            "doi-asserted-by": "crossref",
+            "first-page": "105",
+            "DOI": "10.2131/jts.33.105",
+            "article-title": "Induction of mesothelioma in p53+/- mouse by intraperitoneal application of multi-wall carbon nanotube",
+            "volume": "33",
+            "author": "Takagi",
+            "year": "2008",
+            "journal-title": "Journal of Toxicological Sciences"
+        },
+        {
+            "key": "10.1111/risa.12109-BIB0005|risa12109-cit-0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "65",
+            "DOI": "10.2131/jts.34.65",
+            "article-title": "Induction of mesothelioma by a single intrascrotal administration of multi-wall carbon nanotube in intact Fischer 344 rats",
+            "volume": "34",
+            "author": "Sakamoto",
+            "year": "2009",
+            "journal-title": "Journal of Toxicological Sciences"
+        },
+        {
+            "issue": "2",
+            "key": "10.1111/risa.12109-BIB0006|risa12109-cit-0006",
+            "doi-asserted-by": "crossref",
+            "first-page": "301",
+            "DOI": "10.1177/0192623310390705",
+            "article-title": "Nanotoxicology-A pathologist's perspective",
+            "volume": "39",
+            "author": "Hubbs",
+            "year": "2011",
+            "journal-title": "Toxicologic Pathology"
+        },
+        {
+            "key": "10.1111/risa.12109-BIB0007|risa12109-cit-0007",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1038/nnano.2011.10",
+            "article-title": "Using nano-QSAR to predict the cytotoxicity of metal oxide nanoparticles",
+            "volume": "6",
+            "author": "Puzyn",
+            "year": "2011",
+            "journal-title": "Nature Nanotechnology"
+        },
+        {
+            "issue": "11",
+            "key": "10.1111/risa.12109-BIB0008|risa12109-cit-0008",
+            "doi-asserted-by": "crossref",
+            "first-page": "1723",
+            "DOI": "10.1111/j.1539-6924.2010.01438.x",
+            "article-title": "Comparative study of predictive computational models for nanoparticle-induced cytotoxicity",
+            "volume": "30",
+            "author": "Sayes",
+            "year": "2010",
+            "journal-title": "Risk Analysis"
+        },
+        {
+            "issue": "8",
+            "key": "10.1111/risa.12109-BIB0009|risa12109-cit-0009",
+            "doi-asserted-by": "crossref",
+            "first-page": "1118",
+            "DOI": "10.1002/smll.201002366",
+            "article-title": "Classification nano-SAR development for cytotoxicity of metal oxide nanoparticles",
+            "volume": "7",
+            "author": "Liu",
+            "year": "2011",
+            "journal-title": "Small"
+        },
+        {
+            "issue": "10",
+            "key": "10.1111/risa.12109-BIB0010|risa12109-cit-0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "5703",
+            "DOI": "10.1021/nn1013484",
+            "article-title": "Quantitative nanostructure-activity relationship modeling",
+            "volume": "4",
+            "author": "Fourches",
+            "year": "2010",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1111/risa.12109-BIB0011|risa12109-cit-0011",
+            "doi-asserted-by": "crossref",
+            "first-page": "217",
+            "DOI": "10.2174/138620711794728743",
+            "article-title": "Exploring quantitative nanostructure-activity relationships (QNAR) modeling as a tool for predicting biological effects of manufactured nanoparticles",
+            "volume": "14",
+            "author": "Fourches",
+            "year": "2011",
+            "journal-title": "Combinatorial Chemistry & High Throughput Screening"
+        },
+        {
+            "issue": "19",
+            "key": "10.1111/risa.12109-BIB0012|risa12109-cit-0012",
+            "doi-asserted-by": "crossref",
+            "first-page": "7528",
+            "DOI": "10.1021/es8010173",
+            "article-title": "Physicochemical determinants of multiwalled carbon nanotube bacterial cytotoxicity",
+            "volume": "42",
+            "author": "Kang",
+            "year": "2008",
+            "journal-title": "Environmental Science & Technology"
+        },
+        {
+            "issue": "19",
+            "key": "10.1111/risa.12109-BIB0013|risa12109-cit-0013",
+            "doi-asserted-by": "crossref",
+            "first-page": "7528",
+            "DOI": "10.1021/es8010173",
+            "article-title": "Physicochemical determinants of multiwalled carbon nanotube bacterial cytotoxicity",
+            "volume": "42",
+            "author": "Kang",
+            "year": "2008",
+            "journal-title": "Environmental Science & Technology"
+        },
+        {
+            "issue": "12",
+            "key": "10.1111/risa.12109-BIB0014|risa12109-cit-0014",
+            "doi-asserted-by": "crossref",
+            "first-page": "3686",
+            "DOI": "10.1016/j.scitotenv.2008.12.025",
+            "article-title": "Health effects of exposure to carbon nanofibers: Systematic review, critical appraisal, meta analysis and research to practice perspectives",
+            "volume": "407",
+            "author": "Genaidy",
+            "year": "2009",
+            "journal-title": "Science of the Total Environment"
+        },
+        {
+            "issue": "1",
+            "key": "10.1111/risa.12109-BIB0015|risa12109-cit-0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1093/toxsci/kfp057",
+            "article-title": "Single-walled and multi-walled carbon nanotubes promote allergic immune responses in mice",
+            "volume": "109",
+            "author": "Nygaard",
+            "year": "2009",
+            "journal-title": "Toxicological Sciences"
+        },
+        {
+            "issue": "1",
+            "key": "10.1111/risa.12109-BIB0016|risa12109-cit-0016",
+            "doi-asserted-by": "crossref",
+            "first-page": "226",
+            "DOI": "10.1093/toxsci/kfp247",
+            "article-title": "Subchronic 13-week inhalation exposure of rats to multiwalled carbon nanotubes: Toxic effects are determined by density of agglomerate structures, not fibrillar structures",
+            "volume": "113",
+            "author": "Pauluhn",
+            "year": "2010",
+            "journal-title": "Toxicological Sciences"
+        },
+        {
+            "issue": "3",
+            "key": "10.1111/risa.12109-BIB0017|risa12109-cit-0017",
+            "doi-asserted-by": "crossref",
+            "first-page": "221",
+            "DOI": "10.1016/j.taap.2005.01.008",
+            "article-title": "Respiratory toxicity of multi-wall carbon nanotubes",
+            "volume": "207",
+            "author": "Muller",
+            "year": "2005",
+            "journal-title": "Toxicology and Applied Pharmacology"
+        },
+        {
+            "issue": "1",
+            "key": "10.1111/risa.12109-BIB0018|risa12109-cit-0018",
+            "doi-asserted-by": "crossref",
+            "first-page": "270",
+            "DOI": "10.1093/toxsci/kfl128",
+            "article-title": "Pulmonary bioassay studies with nanoscale and fine-quartz particles in rats: Toxicity is not dependent upon particle size but on surface characteristics",
+            "volume": "95",
+            "author": "Warheit",
+            "year": "2007",
+            "journal-title": "Toxicological Sciences"
+        },
+        {
+            "issue": "1",
+            "key": "10.1111/risa.12109-BIB0019|risa12109-cit-0019",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.1093/toxsci/kfm196",
+            "article-title": "Pulmonary and systemic immune response to inhaled multiwalled carbon nanotubes",
+            "volume": "100",
+            "author": "Mitchell",
+            "year": "2007",
+            "journal-title": "Toxicological Sciences"
+        },
+        {
+            "issue": "2",
+            "key": "10.1111/risa.12109-BIB0020|risa12109-cit-0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "468",
+            "DOI": "10.1093/toxsci/kfp146",
+            "article-title": "Inhalation toxicity of multiwall carbon nanotubes in rats exposed for 3 months",
+            "volume": "112",
+            "author": "Ma-Hock",
+            "year": "2009",
+            "journal-title": "Toxicological Sciences"
+        },
+        {
+            "key": "10.1111/risa.12109-BIB0021|risa12109-cit-0021",
+            "volume-title": "Classification and Regression Trees",
+            "author": "Breiman",
+            "year": "1984"
+        },
+        {
+            "key": "10.1111/risa.12109-BIB0022|risa12109-cit-0022",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1023/A:1010933404324",
+            "article-title": "Random forests",
+            "volume": "45",
+            "author": "Breiman",
+            "year": "2001",
+            "journal-title": "Machine Learning"
+        },
+        {
+            "issue": "12",
+            "key": "10.1111/risa.12109-BIB0023|risa12109-cit-0023",
+            "doi-asserted-by": "crossref",
+            "first-page": "2763",
+            "DOI": "10.1021/tx300393v",
+            "article-title": "Predicting chemical ocular toxicity using a combinatorial QSAR approach",
+            "volume": "25",
+            "author": "Solimeo",
+            "year": "2012",
+            "journal-title": "Chemical Research in Toxicology"
+        },
+        {
+            "issue": "1",
+            "key": "10.1111/risa.12109-BIB0024|risa12109-cit-0024",
+            "doi-asserted-by": "crossref",
+            "first-page": "19",
+            "DOI": "10.1021/es201187u",
+            "article-title": "Building quantitative prediction models for tissue residue of two explosives compounds in earthworms from microarray gene expression data",
+            "volume": "46",
+            "author": "Gong",
+            "year": "2012",
+            "journal-title": "Environmental Science & Technology"
+        },
+        {
+            "issue": "7",
+            "key": "10.1111/risa.12109-BIB0025|risa12109-cit-0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "505",
+            "DOI": "10.1111/j.1863-2378.2012.01487.x",
+            "article-title": "Application of the random forest method to analyse epidemiological and phenotypic characteristics of Salmonella 4,[5],12:i:- and Salmonella typhimurium strains",
+            "volume": "59",
+            "author": "Barco",
+            "year": "2012",
+            "journal-title": "Zoonoses Public Health"
+        },
+        {
+            "key": "10.1111/risa.12109-BIB0026|risa12109-cit-0026",
+            "doi-asserted-by": "crossref",
+            "first-page": "32",
+            "DOI": "10.1186/1471-2156-5-32",
+            "article-title": "Screening large-scale association study data: Exploiting interactions using random forests",
+            "volume": "5",
+            "author": "Lunetta",
+            "year": "2004",
+            "journal-title": "BMC Genetics"
+        },
+        {
+            "key": "10.1111/risa.12109-BIB0027|risa12109-cit-0027",
+            "unstructured": "Gernand J. Carbon Nanotube (CNT) Pulmonary Toxicity Data Set 2012 http://nanohub.org/resources/13515"
+        },
+        {
+            "key": "10.1111/risa.12109-BIB0028|risa12109-cit-0028",
+            "doi-asserted-by": "crossref",
+            "first-page": "117",
+            "DOI": "10.1093/toxsci/kfg228",
+            "article-title": "Comparative pulmonary toxicity assessment of single-wall carbon nanotubes in rats",
+            "volume": "77",
+            "author": "Warheit",
+            "year": "2004",
+            "journal-title": "Toxicological Sciences"
+        },
+        {
+            "issue": "5",
+            "key": "10.1111/risa.12109-BIB0029|risa12109-cit-0029",
+            "first-page": "698",
+            "article-title": "Unusual inflammatory and fibrogenic pulmonary responses to single-walled carbon nanotubes in mice",
+            "volume": "289",
+            "author": "Shvedova",
+            "year": "2005",
+            "journal-title": "American Journal of Physiology: Lung Cellular and Molecular Physiology"
+        },
+        {
+            "issue": "3",
+            "key": "10.1111/risa.12109-BIB0030|risa12109-cit-0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "339",
+            "DOI": "10.1016/j.taap.2007.03.018",
+            "article-title": "Vitamin E deficiency enhances pulmonary inflammatory response and oxidative stress induced by single walled carbon nanotubes in C57BL/6 mice",
+            "volume": "221",
+            "author": "Shvedova",
+            "year": "2007",
+            "journal-title": "Toxicology and Applied Pharmacology"
+        },
+        {
+            "issue": "4",
+            "key": "10.1111/risa.12109-BIB0031|risa12109-cit-0031",
+            "doi-asserted-by": "crossref",
+            "first-page": "552",
+            "DOI": "10.1152/ajplung.90287.2008",
+            "article-title": "Inhalation vs. aspiration of single-walled carbon nanotubes in C57BL/6 mice: Inflammation, fibrosis, oxidative stress, and mutagenesis",
+            "volume": "295",
+            "author": "Shvedova",
+            "year": "2008",
+            "journal-title": "American Journal of Physiology-Lung Cellular and Molecular Physiology"
+        },
+        {
+            "key": "10.1111/risa.12109-BIB0032|risa12109-cit-0032",
+            "doi-asserted-by": "crossref",
+            "first-page": "1698",
+            "DOI": "10.1021/tx800101p",
+            "article-title": "Structural defects play a major role in the acute lung toxicity of multiwall carbon nanotubes: Toxicological aspects",
+            "volume": "21",
+            "author": "Muller",
+            "year": "2008",
+            "journal-title": "Chemical Research in Toxicology"
+        },
+        {
+            "key": "10.1111/risa.12109-BIB0033|risa12109-cit-0033",
+            "doi-asserted-by": "crossref",
+            "first-page": "131",
+            "DOI": "10.1016/j.tox.2008.09.004",
+            "article-title": "Induction of apoptosis and absence of inflammation in rat lung after intratracheal instillation of multiwalled carbon nanotubes",
+            "volume": "253",
+            "author": "Elgrabli",
+            "year": "2008",
+            "journal-title": "Toxicology"
+        },
+        {
+            "issue": "1",
+            "key": "10.1111/risa.12109-BIB0034|risa12109-cit-0034",
+            "doi-asserted-by": "crossref",
+            "first-page": "L87",
+            "DOI": "10.1152/ajplung.00186.2007",
+            "article-title": "Alteration of deposition pattern and pulmonary response as a result of improved dispersion of aspirated single-walled carbon nanotubes in a mouse model",
+            "volume": "294",
+            "author": "Mercer",
+            "year": "2008",
+            "journal-title": "American Journal of Physiology-Lung Cellular and Molecular Physiology"
+        },
+        {
+            "issue": "12",
+            "key": "10.1111/risa.12109-BIB0035|risa12109-cit-0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "1583",
+            "DOI": "10.3181/0805-RM-179",
+            "article-title": "Effects of pulmonary exposure to carbon nanotubes on lung and systemic inflammation with coagulatory disturbance induced by lipopolysaccharide in mice",
+            "volume": "233",
+            "author": "Inoue",
+            "year": "2008",
+            "journal-title": "Experimental Biology and Medicine"
+        },
+        {
+            "issue": "3",
+            "key": "10.1111/risa.12109-BIB0036|risa12109-cit-0036",
+            "doi-asserted-by": "crossref",
+            "first-page": "349",
+            "DOI": "10.1165/rcmb.2008-0276OC",
+            "article-title": "Inhaled multiwalled carbon nanotubes potentiate airway fibrosis in murine allergic asthma",
+            "volume": "40",
+            "author": "Ryman-Rasmussen",
+            "year": "2009",
+            "journal-title": "American Journal of Respiratory Cell and Molecular Biology"
+        },
+        {
+            "issue": "1-3",
+            "key": "10.1111/risa.12109-BIB0037|risa12109-cit-0037",
+            "doi-asserted-by": "crossref",
+            "first-page": "16",
+            "DOI": "10.1016/j.tox.2009.10.007",
+            "article-title": "Pulmonary toxicity of multi-walled carbon nanotubes (Baytubes) relative to alpha-quartz following a single 6h inhalation exposure of rats and a 3 months post-exposure period",
+            "volume": "266",
+            "author": "Ellinger-Ziegelbauer",
+            "year": "2009",
+            "journal-title": "Toxicology"
+        },
+        {
+            "key": "10.1111/risa.12109-BIB0038|risa12109-cit-0038",
+            "doi-asserted-by": "crossref",
+            "first-page": "136",
+            "DOI": "10.1016/j.tox.2009.10.017",
+            "article-title": "Mouse pulmonary dose- and time course-responses induced by exposure to multi-walled carbon nanotubes",
+            "volume": "269",
+            "author": "Porter",
+            "year": "2010",
+            "journal-title": "Toxicology"
+        },
+        {
+            "issue": "9",
+            "key": "10.1111/risa.12109-BIB0039|risa12109-cit-0039",
+            "doi-asserted-by": "crossref",
+            "first-page": "1121",
+            "DOI": "10.1007/s00204-011-0655-8",
+            "article-title": "A single intratracheal instillation of single-walled carbon nanotubes induced early lung fibrosis and subchronic tissue damage in mice",
+            "volume": "85",
+            "author": "Park",
+            "year": "2011",
+            "journal-title": "Archives of Toxicology"
+        },
+        {
+            "issue": "1",
+            "key": "10.1111/risa.12109-BIB0040|risa12109-cit-0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "123",
+            "DOI": "10.1093/toxsci/kfq363",
+            "article-title": "Comparative proteomics and pulmonary toxicity of instilled single-walled carbon nanotubes, crocidolite adbestos, and ultrafine carbon black in mice",
+            "volume": "120",
+            "author": "Teeguarden",
+            "year": "2011",
+            "journal-title": "Toxicological Sciences"
+        },
+        {
+            "issue": "11",
+            "key": "10.1111/risa.12109-BIB0041|risa12109-cit-0041",
+            "doi-asserted-by": "crossref",
+            "first-page": "4169",
+            "DOI": "10.1021/es802483p",
+            "article-title": "Release of metal impurities from carbon nanomaterials influences aquatic toxicity",
+            "volume": "43",
+            "author": "Hull",
+            "year": "2009",
+            "journal-title": "Environmental Science & Technology"
+        },
+        {
+            "issue": "1",
+            "key": "10.1111/risa.12109-BIB0042|risa12109-cit-0042",
+            "doi-asserted-by": "crossref",
+            "first-page": "78",
+            "DOI": "10.1016/j.yrtph.2009.12.012",
+            "article-title": "Multi-walled carbon nanotubes (Baytubes): Approach for derivation of occupational exposure limit",
+            "volume": "57",
+            "author": "Pauluhn",
+            "year": "2010",
+            "journal-title": "Regulatory Toxicology and Pharmacology"
+        },
+        {
+            "issue": "7",
+            "key": "10.1111/risa.12109-BIB0043|risa12109-cit-0043",
+            "first-page": "823",
+            "article-title": "Nanotoxicology: An emerging discipline evolving from studies of ultrafine particles",
+            "volume": "113",
+            "author": "Oberdörster",
+            "year": "2005",
+            "journal-title": "Environmental Health"
+        },
+        {
+            "issue": "8",
+            "key": "10.1111/risa.12109-BIB0044|risa12109-cit-0044",
+            "doi-asserted-by": "crossref",
+            "first-page": "1125",
+            "DOI": "10.1289/ehp.9652",
+            "article-title": "Reviewing the environmental and human health knowledge base of carbon nanotubes",
+            "volume": "115",
+            "author": "Helland",
+            "year": "2007",
+            "journal-title": "Environmental Health Perspectives"
+        },
+        {
+            "issue": "13",
+            "key": "10.1111/risa.12109-BIB0045|risa12109-cit-0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "6409",
+            "DOI": "10.1021/la800951v",
+            "article-title": "Antibacterial effects of carbon nanotubes: Size does matter!",
+            "volume": "24",
+            "author": "Kang",
+            "year": "2008",
+            "journal-title": "Langmuir"
+        },
+        {
+            "issue": "19",
+            "key": "10.1111/risa.12109-BIB0046|risa12109-cit-0046",
+            "doi-asserted-by": "crossref",
+            "first-page": "7528",
+            "DOI": "10.1021/es8010173",
+            "article-title": "Physicochemical determinants of multiwalled carbon nanotube bacterial cytotoxicity",
+            "volume": "42",
+            "author": "Kang",
+            "year": "2008",
+            "journal-title": "Environmental Science & Technology"
+        },
+        {
+            "issue": "2",
+            "key": "10.1111/risa.12109-BIB0047|risa12109-cit-0047",
+            "doi-asserted-by": "crossref",
+            "first-page": "121",
+            "DOI": "10.1016/j.toxlet.2006.08.019",
+            "article-title": "The degree and kind of agglomeration affect carbon nanotube cytotoxicity",
+            "volume": "168",
+            "author": "Wick",
+            "year": "2007",
+            "journal-title": "Toxicology Letters"
+        },
+        {
+            "issue": "7",
+            "key": "10.1111/risa.12109-BIB0048|risa12109-cit-0048",
+            "doi-asserted-by": "crossref",
+            "first-page": "774",
+            "DOI": "10.1038/nbt0708-774",
+            "article-title": "The long and short of carbon nanotube toxicity",
+            "volume": "26",
+            "author": "Kostarelos",
+            "year": "2008",
+            "journal-title": "Nature Biotechnology"
+        },
+        {
+            "issue": "1",
+            "key": "10.1111/risa.12109-BIB0049|risa12109-cit-0049",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1093/toxsci/kfj130",
+            "article-title": "Carbon nanotubes: A review of their properties in relation to pulmonary toxicology and workplace safety",
+            "volume": "92",
+            "author": "Donaldson",
+            "year": "2006",
+            "journal-title": "Toxicological Sciences"
+        },
+        {
+            "issue": "Suppl 3)",
+            "key": "10.1111/risa.12109-BIB0050|risa12109-cit-0050",
+            "first-page": "S371",
+            "article-title": "Material nanosizing effect on living organisms: Non-specific, biointeractive, physical size effects",
+            "volume": "6",
+            "author": "Watari",
+            "year": "2009",
+            "journal-title": "Journal of the Royal Society"
+        },
+        {
+            "issue": "6",
+            "key": "10.1111/risa.12109-BIB0051|risa12109-cit-0051",
+            "doi-asserted-by": "crossref",
+            "first-page": "585",
+            "DOI": "10.3109/10408449609037478",
+            "article-title": "Human toxicity of cobalt-containing dust and experimental studies on the mechanism of interstitial lung disease (hard metal disease)",
+            "volume": "26",
+            "author": "Lison",
+            "year": "1996",
+            "journal-title": "Critical Reviews in Toxicology"
+        },
+        {
+            "issue": "10",
+            "key": "10.1111/risa.12109-BIB0052|risa12109-cit-0052",
+            "doi-asserted-by": "crossref",
+            "first-page": "619",
+            "DOI": "10.1136/oem.58.10.619",
+            "article-title": "Update on the genotoxicity and carcinogenicity of cobalt compounds",
+            "volume": "58",
+            "author": "Lison",
+            "year": "2001",
+            "journal-title": "Journal of Occupational & Environmental Medicine"
+        }
+    ],
+    "container-title": "Risk Analysis",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1111%2Frisa.12109",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "http://onlinelibrary.wiley.com/wol1/doi/10.1111/risa.12109/fullpdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                7,
+                6
+            ]
+        ],
+        "date-time": "2021-07-06T12:46:54Z",
+        "timestamp": 1625575614000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1111/risa.12109"
+        }
+    },
+    "subtitle": [
+        "A Meta-Analysis of Carbon Nanotube Pulmonary Toxicity Studies"
+    ],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2013,
+                9,
+                11
+            ]
+        ]
+    },
+    "references-count": 52,
+    "journal-issue": {
+        "issue": "3",
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    3
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1111/risa.12109",
+    "relation": {},
+    "ISSN": [
+        "0272-4332"
+    ],
+    "subject": [
+        "Physiology (medical)",
+        "Safety, Risk, Reliability and Quality"
+    ],
+    "container-title-short": "Risk Analysis",
+    "published": {
+        "date-parts": [
+            [
+                2013,
+                9,
+                11
+            ]
+        ]
+    }
+}

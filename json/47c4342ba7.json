@@ -1,0 +1,770 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                5
+            ]
+        ],
+        "date-time": "2022-04-05T01:32:17Z",
+        "timestamp": 1649122337857
+    },
+    "reference-count": 102,
+    "publisher": "American Chemical Society (ACS)",
+    "issue": "24",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        20
+                    ]
+                ],
+                "date-time": "2020-05-20T00:00:00Z",
+                "timestamp": 1589932800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        20
+                    ]
+                ],
+                "date-time": "2020-05-20T00:00:00Z",
+                "timestamp": 1589932800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        20
+                    ]
+                ],
+                "date-time": "2020-05-20T00:00:00Z",
+                "timestamp": 1589932800000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-045"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "CHE-1503408"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                6,
+                18
+            ]
+        ]
+    },
+    "DOI": "10.1021/acs.jpcc.0c01195",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                21
+            ]
+        ],
+        "date-time": "2020-05-21T03:03:39Z",
+        "timestamp": 1590030219000
+    },
+    "page": "13409-13420",
+    "source": "Crossref",
+    "is-referenced-by-count": 8,
+    "title": "Learning from the Machine: Uncovering Sustainable Nanoparticle Design Rules",
+    "prefix": "10.1021",
+    "volume": "124",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0003-2051-0561",
+            "authenticated-orcid": true,
+            "suffix": "Jr",
+            "given": "Clyde A.",
+            "family": "Daly",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Chemistry, Johns Hopkins University, Baltimore, Maryland 21218, United States"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0001-8526-7414",
+            "authenticated-orcid": true,
+            "given": "Rigoberto",
+            "family": "Hernandez",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Chemistry, Johns Hopkins University, Baltimore, Maryland 21218, United States"
+                }
+            ]
+        }
+    ],
+    "member": "316",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                20
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ref1/cit1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.293.5537.2051"
+        },
+        {
+            "key": "ref2/cit2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.aaa8415"
+        },
+        {
+            "key": "ref3/cit3",
+            "volume-title": "Deep Learning with Python",
+            "author": "Chollet F.",
+            "year": "2017",
+            "edition": "1"
+        },
+        {
+            "key": "ref4/cit4",
+            "volume-title": "Hands-on Machine Learning with Scikit-Learn and Tensorflow: Concepts, Tools, and Techniques to Build Intelligent Systems",
+            "author": "Géron A.",
+            "year": "2017",
+            "edition": "1"
+        },
+        {
+            "key": "ref5/cit5",
+            "volume-title": "Machine Learning Algorithms",
+            "author": "Bonaccorso G.",
+            "year": "2017"
+        },
+        {
+            "key": "ref6/cit6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/RevModPhys.91.045002"
+        },
+        {
+            "key": "ref7/cit7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.1014748109"
+        },
+        {
+            "key": "ref8/cit8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.0705683104"
+        },
+        {
+            "key": "ref9/cit9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.0810600105"
+        },
+        {
+            "key": "ref10/cit10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.solener.2010.02.006"
+        },
+        {
+            "key": "ref11/cit11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nature23474"
+        },
+        {
+            "key": "ref12/cit12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/adma.201901989"
+        },
+        {
+            "key": "ref13/cit13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41586-018-0337-2"
+        },
+        {
+            "key": "ref14/cit14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/qua.24890"
+        },
+        {
+            "key": "ref15/cit15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/qua.24917"
+        },
+        {
+            "key": "ref16/cit16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.jctc.5b00099"
+        },
+        {
+            "key": "ref17/cit17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1088/1361-6528/aa82e5"
+        },
+        {
+            "key": "ref18/cit18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/sciadv.1701816"
+        },
+        {
+            "key": "ref19/cit19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/sciadv.1603015"
+        },
+        {
+            "key": "ref20/cit20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nphys4035"
+        },
+        {
+            "key": "ref21/cit21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevB.96.024104"
+        },
+        {
+            "key": "ref22/cit22",
+            "first-page": "1",
+            "volume-title": "Handbook of Materials Modeling: Methods: Theory and Modeling",
+            "author": "Gómez-Bombarelli R.",
+            "year": "2018"
+        },
+        {
+            "key": "ref23/cit23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C7SC02664A"
+        },
+        {
+            "key": "ref24/cit24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.jpclett.8b01939"
+        },
+        {
+            "key": "ref25/cit25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1063/1.5023802"
+        },
+        {
+            "key": "ref26/cit26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1063/1.5007873"
+        },
+        {
+            "key": "ref27/cit27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1063/1.5025487"
+        },
+        {
+            "key": "ref28/cit28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/minf.201700123"
+        },
+        {
+            "key": "ref29/cit29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.jctc.8b00869"
+        },
+        {
+            "key": "ref30/cit30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41467-019-10827-4"
+        },
+        {
+            "key": "ref31/cit31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41467-019-11405-4"
+        },
+        {
+            "key": "ref32/cit32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C8SC04516J"
+        },
+        {
+            "key": "ref33/cit33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.aay2568"
+        },
+        {
+            "key": "ref34/cit34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.jpcc.9b01147"
+        },
+        {
+            "key": "ref35/cit35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.aaw1147"
+        },
+        {
+            "key": "ref36/cit36",
+            "first-page": "1",
+            "volume-title": "Understanding the Basics of QSAR for Applications in Pharmaceutical Sciences and Risk Assessment",
+            "author": "Roy K.",
+            "year": "2015"
+        },
+        {
+            "key": "ref37/cit37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nature17439"
+        },
+        {
+            "key": "ref38/cit38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.jcim.5b00628"
+        },
+        {
+            "key": "ref39/cit39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.jpcc.8b09284"
+        },
+        {
+            "key": "ref40/cit40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.jcim.8b00286"
+        },
+        {
+            "key": "ref41/cit41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41467-018-06682-4"
+        },
+        {
+            "key": "ref42/cit42",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.accounts.8b00087"
+        },
+        {
+            "key": "ref43/cit43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.aat2663"
+        },
+        {
+            "key": "ref44/cit44",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.aar5169"
+        },
+        {
+            "key": "ref45/cit45",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/adts.201800069"
+        },
+        {
+            "key": "ref46/cit46",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/08927022.2018.1471692"
+        },
+        {
+            "key": "ref47/cit47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/sciadv.aap7885"
+        },
+        {
+            "key": "ref48/cit48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41467-019-10030-5"
+        },
+        {
+            "key": "ref49/cit49",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41586-019-1319-8"
+        },
+        {
+            "key": "ref50/cit50",
+            "doi-asserted-by": "crossref",
+            "first-page": "789",
+            "volume-title": "Ecotoxicological Qsars",
+            "author": "Varsou D.-D.",
+            "year": "2020",
+            "DOI": "10.1007/978-1-0716-0150-1_31"
+        },
+        {
+            "key": "ref51/cit51",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acscatal.9b04186"
+        },
+        {
+            "key": "ref52/cit52",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S1532-0464(03)00034-0"
+        },
+        {
+            "key": "ref53/cit53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ci034160g"
+        },
+        {
+            "key": "ref54/cit54",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1198/tast.2009.08199"
+        },
+        {
+            "key": "ref55/cit55",
+            "doi-asserted-by": "crossref",
+            "first-page": "639",
+            "DOI": "10.1007/978-3-642-35289-8_34",
+            "volume-title": "Neural Networks: Tricks of the Trade",
+            "author": "Weston J.",
+            "year": "2012",
+            "edition": "2"
+        },
+        {
+            "key": "ref56/cit56",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3762/bjnano.6.253"
+        },
+        {
+            "key": "ref57/cit57",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cmpb.2016.04.025"
+        },
+        {
+            "key": "ref58/cit58",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Kleandrova, V. V.; Feng, L.; Speck-Planche, A.; Cordeiro, M. N. D. S., QSAR-Based Studies of Nanomaterials in the Environment. In  Pharmaceutical Sciences: Breakthroughs in Research and Practice; IGI Global: Hershey, PA, USA, 2017; pp 1339–1366.",
+            "DOI": "10.4018/978-1-5225-1762-7.ch051"
+        },
+        {
+            "key": "ref59/cit59",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2017.1379567"
+        },
+        {
+            "key": "ref60/cit60",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C7EN00466D"
+        },
+        {
+            "key": "ref61/cit61",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41598-018-21431-9"
+        },
+        {
+            "key": "ref62/cit62",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.jcim.8b00631"
+        },
+        {
+            "key": "ref63/cit63",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2019.125489"
+        },
+        {
+            "key": "ref64/cit64",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.csbj.2020.02.023"
+        },
+        {
+            "key": "ref65/cit65",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C7EN00466D"
+        },
+        {
+            "key": "ref66/cit66",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acsnano.8b07562"
+        },
+        {
+            "key": "ref67/cit67",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C5SC00792E"
+        },
+        {
+            "key": "ref68/cit68",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.est.7b02823"
+        },
+        {
+            "key": "ref69/cit69",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2016.10.085"
+        },
+        {
+            "key": "ref70/cit70",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.analchem.6b04652"
+        },
+        {
+            "key": "ref71/cit71",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.analchem.6b04161"
+        },
+        {
+            "key": "ref72/cit72",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acsanm.8b00187"
+        },
+        {
+            "key": "ref73/cit73",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2018.1508785"
+        },
+        {
+            "key": "ref74/cit74",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acsanm.8b01000"
+        },
+        {
+            "key": "ref75/cit75",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.carbon.2017.12.004"
+        },
+        {
+            "key": "ref76/cit76",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C9EN01074B"
+        },
+        {
+            "key": "ref77/cit77",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.jcim.9b00295"
+        },
+        {
+            "key": "ref78/cit78",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/BF00058655"
+        },
+        {
+            "key": "ref79/cit79",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICNN.1997.613999"
+        },
+        {
+            "key": "ref80/cit80",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0933-3657(00)00065-8"
+        },
+        {
+            "key": "ref81/cit81",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.neucom.2014.08.100"
+        },
+        {
+            "key": "ref82/cit82",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.epsr.2015.03.027"
+        },
+        {
+            "key": "ref83/cit83",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/5.784232"
+        },
+        {
+            "key": "ref84/cit84",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/ICASSP.2017.7952561"
+        },
+        {
+            "key": "ref85/cit85",
+            "first-page": "3145",
+            "volume": "70",
+            "author": "Shrikumar A.",
+            "year": "2017",
+            "journal-title": "PMLR"
+        },
+        {
+            "key": "ref86/cit86",
+            "volume-title": "Keras",
+            "author": "Chollet F.",
+            "year": "2015"
+        },
+        {
+            "key": "ref87/cit87",
+            "unstructured": "Abadi, M.; Agarwal, A.; Barham, P.; Brevdo, E.; Chen, Z.; Citro, C.; Corrado, G. S.; Davis, A.; Dean, J.; Devin, M.  Tensorflow: Large-Scale Machine Learning on Heterogeneous Distributed Systems.  arxiv https://arxiv.org/abs/1603.04467, v2, March 16, 2016."
+        },
+        {
+            "key": "ref88/cit88",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/MCSE.2007.58"
+        },
+        {
+            "key": "ref89/cit89",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/MCSE.2007.55"
+        },
+        {
+            "key": "ref90/cit90",
+            "doi-asserted-by": "crossref",
+            "unstructured": "McKinney, W. Data Structures for Statistical Computing in Python.  Proceedings of the 9th Python in Science Conference; van der Walt, S., Millman, J., Eds. 2010; pp 51–56.",
+            "DOI": "10.25080/Majora-92bf1922-00a"
+        },
+        {
+            "key": "ref91/cit91",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/MCSE.2011.37"
+        },
+        {
+            "key": "ref92/cit92",
+            "first-page": "2825",
+            "volume": "12",
+            "author": "Pedregosa F.",
+            "year": "2011",
+            "journal-title": "J. Mach. Learn. Res."
+        },
+        {
+            "key": "ref93/cit93",
+            "first-page": "87",
+            "volume-title": "Positioning and Power in Academic Publishing: Players, Agents and Agendas",
+            "author": "Kluyver T.",
+            "year": "2016"
+        },
+        {
+            "key": "ref94/cit94",
+            "volume-title": "Marcharper/Python-Ternary",
+            "author": "Harper M.",
+            "year": "2019"
+        },
+        {
+            "key": "ref95/cit95",
+            "author": "Alaya M. Z.",
+            "year": "2017",
+            "journal-title": "arxiv"
+        },
+        {
+            "key": "ref96/cit96",
+            "unstructured": "Kingma, D. P.; Ba, J. Adam: A Method for Stochastic Optimization.  arxiv https://arxiv.org/abs/1412.6980 v1, Dec. 22, 2014."
+        },
+        {
+            "key": "ref97/cit97",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11222-009-9153-8"
+        },
+        {
+            "key": "ref98/cit98",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.neucom.2015.08.118"
+        },
+        {
+            "key": "ref99/cit99",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Barrow, D. K.; Crone, S. F., Crogging (Cross-Validation Aggregation) for Forecasting—A Novel Algorithm of Neural Network Ensembles on Time Series Subsamples. In The 2013 International Joint Conference on Neural Networks, Dallas, Texas, Aug 4–9,2013.",
+            "DOI": "10.1109/IJCNN.2013.6706740"
+        },
+        {
+            "key": "ref100/cit100",
+            "first-page": "1089",
+            "volume": "5",
+            "author": "Bengio Y.",
+            "year": "2004",
+            "journal-title": "J. Mach. Learn. Res."
+        },
+        {
+            "key": "ref101/cit101",
+            "doi-asserted-by": "crossref",
+            "volume-title": "The Dose Makes the Poison: A Plain-Language Guide to Toxicology",
+            "author": "Frank P.",
+            "year": "2011",
+            "DOI": "10.1002/9780470918449"
+        },
+        {
+            "key": "ref102/cit102",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C6EN00453A"
+        }
+    ],
+    "container-title": "The Journal of Physical Chemistry C",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.acs.org/doi/pdf/10.1021/acs.jpcc.0c01195",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                3,
+                23
+            ]
+        ],
+        "date-time": "2022-03-23T23:57:03Z",
+        "timestamp": 1648079823000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.acs.org/doi/10.1021/acs.jpcc.0c01195"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                20
+            ]
+        ]
+    },
+    "references-count": 102,
+    "journal-issue": {
+        "issue": "24",
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    6,
+                    18
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1021/acs.jpcc.0c01195"
+    ],
+    "URL": "http://dx.doi.org/10.1021/acs.jpcc.0c01195",
+    "relation": {},
+    "ISSN": [
+        "1932-7447",
+        "1932-7455"
+    ],
+    "subject": [
+        "Surfaces, Coatings and Films",
+        "Physical and Theoretical Chemistry",
+        "General Energy",
+        "Electronic, Optical and Magnetic Materials"
+    ],
+    "container-title-short": "J. Phys. Chem. C",
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                20
+            ]
+        ]
+    }
+}

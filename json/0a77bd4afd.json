@@ -1,0 +1,685 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                2
+            ]
+        ],
+        "date-time": "2022-04-02T03:15:13Z",
+        "timestamp": 1648869313816
+    },
+    "reference-count": 69,
+    "publisher": "Wiley",
+    "issue": "34",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        6,
+                        16
+                    ]
+                ],
+                "date-time": "2020-06-16T00:00:00Z",
+                "timestamp": 1592265600000
+            },
+            "content-version": "am",
+            "delay-in-days": 365,
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#am"
+        },
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        6,
+                        17
+                    ]
+                ],
+                "date-time": "2019-06-17T00:00:00Z",
+                "timestamp": 1560729600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+        },
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        6,
+                        17
+                    ]
+                ],
+                "date-time": "2019-06-17T00:00:00Z",
+                "timestamp": 1560729600000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "http://doi.wiley.com/10.1002/tdm_license_1.1"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/100000001",
+            "name": "National Science Foundation",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "DOI": "10.13039/100000139",
+            "name": "U.S. Environmental Protection Agency",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "DBI‐0830117"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "onlinelibrary.wiley.com"
+        ],
+        "crossmark-restriction": true
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2019,
+                8
+            ]
+        ]
+    },
+    "DOI": "10.1002/smll.201900510",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2019,
+                6,
+                17
+            ]
+        ],
+        "date-time": "2019-06-17T17:38:45Z",
+        "timestamp": 1560793125000
+    },
+    "page": "1900510",
+    "update-policy": "http://dx.doi.org/10.1002/crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 21,
+    "title": "Bayesian Network Resource for Meta‐Analysis: Cellular Toxicity of Quantum Dots",
+    "prefix": "10.1002",
+    "volume": "15",
+    "author": [
+        {
+            "given": "Muhammad",
+            "family": "Bilal",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Center for Environmental Implications of Nanotechnology University of California, Los Angeles  Los Angeles CA 90095‐7227 USA"
+                },
+                {
+                    "name": "Institute of the Environment and Sustainability University of California, Los Angeles  Los Angeles CA 90095‐1496 USA"
+                }
+            ]
+        },
+        {
+            "given": "Eunkeu",
+            "family": "Oh",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Optical Sciences Division Code 5611 U.S. Naval Research Laboratory  Washington DC 20375 USA"
+                },
+                {
+                    "name": "KeyW Corporation  Hanover MD 21076 USA"
+                }
+            ]
+        },
+        {
+            "given": "Rong",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Institute of the Environment and Sustainability University of California, Los Angeles  Los Angeles CA 90095‐1496 USA"
+                }
+            ]
+        },
+        {
+            "given": "Joyce C.",
+            "family": "Breger",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Center for Biomolecular Science and Engineering, Code 6900 U.S. Naval Research Laboratory  Washington DC 20375 USA"
+                }
+            ]
+        },
+        {
+            "given": "Igor L.",
+            "family": "Medintz",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Center for Biomolecular Science and Engineering, Code 6900 U.S. Naval Research Laboratory  Washington DC 20375 USA"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-0756-4699",
+            "authenticated-orcid": false,
+            "given": "Yoram",
+            "family": "Cohen",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Center for Environmental Implications of Nanotechnology University of California, Los Angeles  Los Angeles CA 90095‐7227 USA"
+                },
+                {
+                    "name": "Institute of the Environment and Sustainability University of California, Los Angeles  Los Angeles CA 90095‐1496 USA"
+                },
+                {
+                    "name": "Department of Chemical and Biomolecular Engineering University of California, Los Angeles  Los Angeles CA 90095 USA"
+                }
+            ]
+        }
+    ],
+    "member": "311",
+    "published-online": {
+        "date-parts": [
+            [
+                2019,
+                6,
+                17
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "e_1_2_7_1_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11051-010-0192-z"
+        },
+        {
+            "key": "e_1_2_7_2_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ar300049e"
+        },
+        {
+            "key": "e_1_2_7_3_1",
+            "unstructured": "CPI Consumer Products Inventory An Inventory of Nanotechnology‐Based Consumer Products Introduced on the Market http://www.nanotechproject.org/inventories/consumer/(accessed: January2016)."
+        },
+        {
+            "key": "e_1_2_7_4_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1146/annurev-bioeng-071812-152409"
+        },
+        {
+            "key": "e_1_2_7_5_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C4CS00392F"
+        },
+        {
+            "key": "e_1_2_7_6_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ecolmodel.2006.11.033"
+        },
+        {
+            "key": "e_1_2_7_7_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-0-387-21736-9"
+        },
+        {
+            "key": "e_1_2_7_8_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2012.666576"
+        },
+        {
+            "key": "e_1_2_7_9_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/10807039.2011.538639"
+        },
+        {
+            "key": "e_1_2_7_10_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/jp3031122"
+        },
+        {
+            "key": "e_1_2_7_11_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1517/17425250802660467"
+        },
+        {
+            "key": "e_1_2_7_12_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/bc4001917"
+        },
+        {
+            "key": "e_1_2_7_13_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/c3nr01533e"
+        },
+        {
+            "key": "e_1_2_7_14_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.est.6b05279"
+        },
+        {
+            "key": "e_1_2_7_15_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.chemrev.5b00116"
+        },
+        {
+            "key": "e_1_2_7_16_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es503861x"
+        },
+        {
+            "key": "e_1_2_7_17_1",
+            "unstructured": "E.V. G für CT und B. DECHEMA 2014 https://dechema.de/en/(accessed: January2016)."
+        },
+        {
+            "key": "e_1_2_7_18_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tifs.2011.10.006"
+        },
+        {
+            "key": "e_1_2_7_19_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.biomaterials.2014.05.007"
+        },
+        {
+            "key": "e_1_2_7_20_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.nantod.2014.05.001"
+        },
+        {
+            "key": "e_1_2_7_21_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.biotechadv.2013.12.009"
+        },
+        {
+            "key": "e_1_2_7_22_1",
+            "first-page": "491",
+            "volume": "56",
+            "author": "Kuempel E. D.",
+            "year": "2012",
+            "journal-title": "Ann. Occup. Hyg."
+        },
+        {
+            "key": "e_1_2_7_23_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es203409a"
+        },
+        {
+            "key": "e_1_2_7_24_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1476-069X-9-19"
+        },
+        {
+            "key": "e_1_2_7_25_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es405132z"
+        },
+        {
+            "key": "e_1_2_7_26_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2013.12.100"
+        },
+        {
+            "key": "e_1_2_7_27_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2012.03.064"
+        },
+        {
+            "key": "e_1_2_7_28_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nnano.2015.338"
+        },
+        {
+            "key": "e_1_2_7_29_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/ieam.1327"
+        },
+        {
+            "key": "e_1_2_7_30_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envsoft.2009.08.002"
+        },
+        {
+            "key": "e_1_2_7_31_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2016.1278481"
+        },
+        {
+            "key": "e_1_2_7_32_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s11671-016-1724-y"
+        },
+        {
+            "key": "e_1_2_7_33_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41598-018-21431-9"
+        },
+        {
+            "key": "e_1_2_7_34_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/natrevmats.2016.14"
+        },
+        {
+            "key": "e_1_2_7_35_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1289/ehp.8284"
+        },
+        {
+            "key": "e_1_2_7_36_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2010.534196"
+        },
+        {
+            "key": "e_1_2_7_37_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.mam.2008.08.006"
+        },
+        {
+            "key": "e_1_2_7_38_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn101277w"
+        },
+        {
+            "key": "e_1_2_7_39_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.chemmater.7b03504"
+        },
+        {
+            "key": "e_1_2_7_40_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.1114397"
+        },
+        {
+            "key": "e_1_2_7_41_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ar3000647"
+        },
+        {
+            "key": "e_1_2_7_42_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nmat2442"
+        },
+        {
+            "key": "e_1_2_7_43_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ar3000585"
+        },
+        {
+            "key": "e_1_2_7_44_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1143/JJAP.41.482"
+        },
+        {
+            "key": "e_1_2_7_45_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1103/PhysRevB.55.15819"
+        },
+        {
+            "key": "e_1_2_7_46_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/c3nr04037b"
+        },
+        {
+            "key": "e_1_2_7_47_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/adma.201304744"
+        },
+        {
+            "key": "e_1_2_7_48_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ja201919s"
+        },
+        {
+            "key": "e_1_2_7_49_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/ijms12128626"
+        },
+        {
+            "key": "e_1_2_7_50_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/j.1467-9639.2009.00343.x"
+        },
+        {
+            "key": "e_1_2_7_51_1",
+            "unstructured": "The python graph gallery Violin Plot https://python‐graph‐gallery.com/violin‐plot/(accessed: November2018)."
+        },
+        {
+            "key": "e_1_2_7_52_1",
+            "first-page": "616",
+            "volume-title": "Suter II TPT. Species Sensitivity Distributions in Ecotoxicology",
+            "author": "Leo P.",
+            "year": "2001"
+        },
+        {
+            "key": "e_1_2_7_53_1",
+            "first-page": "674",
+            "volume": "6",
+            "author": "Neapolitan R. E.",
+            "year": "2003",
+            "journal-title": "Mol. Biol."
+        },
+        {
+            "key": "e_1_2_7_54_1",
+            "first-page": "113",
+            "volume-title": "Proc. of the 26th Annual International Conf. on Machine Learning",
+            "author": "Campos C. P.",
+            "year": "2009"
+        },
+        {
+            "key": "e_1_2_7_55_1",
+            "doi-asserted-by": "crossref",
+            "unstructured": "F. V.Jensen T. D.Nielsen Bayesian Network and Decision Graph 2007.",
+            "DOI": "10.1007/978-0-387-68282-2"
+        },
+        {
+            "key": "e_1_2_7_56_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.infsof.2013.09.001"
+        },
+        {
+            "key": "e_1_2_7_57_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jappgeo.2017.10.004"
+        },
+        {
+            "key": "e_1_2_7_58_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envsoft.2011.06.004"
+        },
+        {
+            "key": "e_1_2_7_59_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1471-2105-12-154"
+        },
+        {
+            "key": "e_1_2_7_60_1",
+            "first-page": "1",
+            "volume": "39",
+            "author": "Dempster A. P.",
+            "year": "1977",
+            "journal-title": "J. R. Stat. Soc., Ser. B"
+        },
+        {
+            "key": "e_1_2_7_61_1",
+            "unstructured": "Guidance Document on the Validation of (Quantitative) Structure‐Activity Relationship [(Q)SAR] Models."
+        },
+        {
+            "key": "e_1_2_7_62_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1023/A:1008987426876"
+        },
+        {
+            "key": "e_1_2_7_63_1",
+            "first-page": "1137",
+            "volume": "14",
+            "author": "Kohavi R.",
+            "year": "1995",
+            "journal-title": "Int. Jt. Conf. Artif. Intell."
+        },
+        {
+            "key": "e_1_2_7_64_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1214/aos/1176349027"
+        },
+        {
+            "key": "e_1_2_7_65_1",
+            "unstructured": "H.Wang I.Rish S.Ma Using Sensitivity Analysis for Selective Parameter Update in Bayesian Network Learning 2002."
+        },
+        {
+            "key": "e_1_2_7_66_1",
+            "first-page": "927",
+            "volume": "5",
+            "author": "Kumbhare T. A.",
+            "year": "2014",
+            "journal-title": "Int. J. Comput. Sci. and Inf. Technol."
+        },
+        {
+            "key": "e_1_2_7_67_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/360402.360421"
+        },
+        {
+            "key": "e_1_2_7_68_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ipm.2009.03.002"
+        },
+        {
+            "key": "e_1_2_7_69_1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.patrec.2008.08.010"
+        }
+    ],
+    "container-title": "Small",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fsmll.201900510",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.201900510",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://onlinelibrary.wiley.com/doi/full-xml/10.1002/smll.201900510",
+            "content-type": "application/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://onlinelibrary.wiley.com/doi/am-pdf/10.1002/smll.201900510",
+            "content-type": "application/pdf",
+            "content-version": "am",
+            "intended-application": "syndication"
+        },
+        {
+            "URL": "https://onlinelibrary.wiley.com/doi/pdf/10.1002/smll.201900510",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                7
+            ]
+        ],
+        "date-time": "2021-06-07T00:32:10Z",
+        "timestamp": 1623025930000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://onlinelibrary.wiley.com/doi/10.1002/smll.201900510"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019,
+                6,
+                17
+            ]
+        ]
+    },
+    "references-count": 69,
+    "journal-issue": {
+        "issue": "34",
+        "published-print": {
+            "date-parts": [
+                [
+                    2019,
+                    8
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1002/smll.201900510"
+    ],
+    "URL": "http://dx.doi.org/10.1002/smll.201900510",
+    "relation": {},
+    "ISSN": [
+        "1613-6810",
+        "1613-6829"
+    ],
+    "subject": [
+        "Biomaterials",
+        "Biotechnology",
+        "General Materials Science",
+        "General Chemistry"
+    ],
+    "container-title-short": "Small",
+    "published": {
+        "date-parts": [
+            [
+                2019,
+                6,
+                17
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "2019-01-29",
+            "order": 0,
+            "name": "received",
+            "label": "Received",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        },
+        {
+            "value": "2019-06-17",
+            "order": 2,
+            "name": "published",
+            "label": "Published",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        }
+    ]
+}

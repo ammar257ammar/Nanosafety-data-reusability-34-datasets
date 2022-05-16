@@ -1,0 +1,1230 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                14
+            ]
+        ],
+        "date-time": "2022-04-14T11:53:35Z",
+        "timestamp": 1649937215813
+    },
+    "reference-count": 95,
+    "publisher": "Elsevier BV",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        4,
+                        1
+                    ]
+                ],
+                "date-time": "2021-04-01T00:00:00Z",
+                "timestamp": 1617235200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        3,
+                        13
+                    ]
+                ],
+                "date-time": "2021-03-13T00:00:00Z",
+                "timestamp": 1615593600000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100000780",
+            "name": "European Commission",
+            "doi-asserted-by": "publisher"
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                4
+            ]
+        ]
+    },
+    "DOI": "10.1016/j.impact.2021.100308",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                20
+            ]
+        ],
+        "date-time": "2021-03-20T08:58:42Z",
+        "timestamp": 1616230722000
+    },
+    "page": "100308",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 5,
+    "title": "Computational enrichment of physicochemical data for the development of a ζ-potential read-across predictive model with Isalos Analytics Platform",
+    "prefix": "10.1016",
+    "volume": "22",
+    "author": [
+        {
+            "given": "Anastasios G.",
+            "family": "Papadiamantis",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Antreas",
+            "family": "Afantitis",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Andreas",
+            "family": "Tsoumanis",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Eugenia",
+            "family": "Valsami-Jones",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Iseult",
+            "family": "Lynch",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Georgia",
+            "family": "Melagraki",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "78",
+    "reference": [
+        {
+            "issue": "1",
+            "key": "10.1016/j.impact.2021.100308_bb0005",
+            "doi-asserted-by": "crossref",
+            "first-page": "120",
+            "DOI": "10.3390/ijms18010120",
+            "article-title": "The role of reactive oxygen species (ROS) in the biological activities of metallic nanoparticles",
+            "volume": "18",
+            "author": "Abdal Dayem",
+            "year": "2017",
+            "journal-title": "Int. J. Mol. Sci."
+        },
+        {
+            "issue": "1",
+            "key": "10.1016/j.impact.2021.100308_bb0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "4",
+            "DOI": "10.2174/138620732301200316112000",
+            "article-title": "Nanoinformatics: artificial intelligence and nanotechnology in the new decade",
+            "volume": "23",
+            "author": "Afantitis",
+            "year": "2020",
+            "journal-title": "Comb. Chem. High Throughput Screen."
+        },
+        {
+            "issue": "10",
+            "key": "10.1016/j.impact.2021.100308_bb0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "1148",
+            "DOI": "10.1080/17435390.2018.1504998",
+            "article-title": "A nanoinformatics decision support tool for the virtual screening of gold nanoparticle cellular association using protein corona fingerprints",
+            "volume": "12",
+            "author": "Afantitis",
+            "year": "2018",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1016/j.csbj.2020.02.023",
+            "article-title": "NanoSolveIT project: driving nanoinformatics research to develop innovative and integrated tools for in silico nanosafety assessment",
+            "volume": "18",
+            "author": "Afantitis",
+            "year": "2020",
+            "journal-title": "Comput. Struct. Biotechnol. J."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.2174/0929867327666200727114410",
+            "article-title": "Enalos suite of tools: enhance cheminformatics and nanoinformatics through KNIME",
+            "volume": "27",
+            "author": "Afantitis",
+            "year": "2020",
+            "journal-title": "Curr. Med. Chem."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0030",
+            "article-title": "Dispersion of nanomaterials in aqueous media: towards protocol optimization",
+            "volume": "130",
+            "author": "Au-Kaur",
+            "year": "2017",
+            "journal-title": "JoVE"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "76",
+            "DOI": "10.1016/j.impact.2019.01.003",
+            "article-title": "Making use of available and emerging data to predict the hazards of engineered nanomaterials by means of in silico tools: a critical review",
+            "volume": "13",
+            "author": "Basei",
+            "year": "2019",
+            "journal-title": "NanoImpact"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "104477",
+            "DOI": "10.1016/j.yrtph.2019.104477",
+            "article-title": "Applying non-animal strategies for assessing skin sensitisation report from an EPAA/cefic-LRI/IFRA Europe cross sector workshop, ECHA helsinki, February 7th and 8th 2019",
+            "volume": "109",
+            "author": "Basketter",
+            "year": "2019",
+            "journal-title": "Regul. Toxicol. Pharmacol."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0045",
+            "series-title": "Encyclopedia of Analytical Science",
+            "article-title": "ELEMENTAL SPECIATION | waters, sediments, and soils",
+            "volume": "481-488",
+            "author": "Batley",
+            "year": "2005"
+        },
+        {
+            "issue": "34",
+            "key": "10.1016/j.impact.2021.100308_bb0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "1900510",
+            "DOI": "10.1002/smll.201900510",
+            "article-title": "Bayesian network resource for meta-analysis: cellular toxicity of quantum dots",
+            "volume": "15",
+            "author": "Bilal",
+            "year": "2019",
+            "journal-title": "Small"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0055",
+            "series-title": "Pattern Recognition and Machine Learning (Information Science and Statistics)",
+            "author": "Bishop",
+            "year": "2007"
+        },
+        {
+            "issue": "1",
+            "key": "10.1016/j.impact.2021.100308_bb0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "23",
+            "DOI": "10.1093/toxsci/kfj084",
+            "article-title": "Research strategies for safety evaluation of nanomaterials, part V: role of dissolution in biological fate and effects of nanoscale particles",
+            "volume": "90",
+            "author": "Borm",
+            "year": "2006",
+            "journal-title": "Toxicol. Sci."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0065",
+            "doi-asserted-by": "crossref",
+            "first-page": "974",
+            "DOI": "10.1016/j.envpol.2019.06.014",
+            "article-title": "Physical and chemical transformations of zirconium doped ceria nanoparticles in the presence of phosphate: increasing realism in environmental fate and behaviour experiments",
+            "volume": "252",
+            "author": "Briffa",
+            "year": "2019",
+            "journal-title": "Environ. Pollut."
+        },
+        {
+            "issue": "11",
+            "key": "10.1016/j.impact.2021.100308_bb0070",
+            "doi-asserted-by": "crossref",
+            "first-page": "926",
+            "DOI": "10.3390/nano8110926",
+            "article-title": "Effect of SiO2 nanoparticles on the performance of PVdF-HFP/ionic liquid separator for lithium-ion batteries",
+            "volume": "8",
+            "author": "Caimi",
+            "year": "2018",
+            "journal-title": "Nanomaterials"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0075",
+            "doi-asserted-by": "crossref",
+            "first-page": "970",
+            "DOI": "10.3389/fimmu.2017.00970",
+            "article-title": "Intrinsic and extrinsic properties affecting innate immune responses to nanoparticles: the case of cerium oxide",
+            "volume": "8",
+            "author": "Casals",
+            "year": "2017",
+            "journal-title": "Front. Immunol."
+        },
+        {
+            "issue": "2",
+            "key": "10.1016/j.impact.2021.100308_bb0085",
+            "doi-asserted-by": "crossref",
+            "first-page": "469",
+            "DOI": "10.1093/toxsci/kfs006",
+            "article-title": "Zeta potential and solubility to toxic ions as mechanisms of lung inflammation caused by metal/metal oxide nanoparticles",
+            "volume": "126",
+            "author": "Cho",
+            "year": "2012",
+            "journal-title": "Toxicol. Sci."
+        },
+        {
+            "issue": "10",
+            "key": "10.1016/j.impact.2021.100308_bb0090",
+            "doi-asserted-by": "crossref",
+            "first-page": "1753",
+            "DOI": "10.1351/pac200577101753",
+            "article-title": "Measurement and interpretation of electrokinetic phenomena (IUPAC technical report)",
+            "volume": "77",
+            "author": "Delgado",
+            "year": "2005",
+            "journal-title": "Pure Appl. Chem."
+        },
+        {
+            "issue": "1",
+            "key": "10.1016/j.impact.2021.100308_bb0095",
+            "doi-asserted-by": "crossref",
+            "first-page": "50",
+            "DOI": "10.1186/s12951-015-0112-6",
+            "article-title": "A zeta potential value determines the aggregate’s size of penta-substituted [60]fullerene derivatives in aqueous suspension whereas positive charge is required for toxicity against bacterial cells",
+            "volume": "13",
+            "author": "Deryabin",
+            "year": "2015",
+            "journal-title": "J. Nanobiotechnol."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0100",
+            "author": "ECHA"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0105",
+            "author": "ECHA"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0115",
+            "author": "EPA"
+        },
+        {
+            "issue": "1",
+            "key": "10.1016/j.impact.2021.100308_bb0120",
+            "doi-asserted-by": "crossref",
+            "first-page": "75",
+            "DOI": "10.1166/jcsb.2014.1072",
+            "article-title": "Stability of ZnO nanoparticles in solution. Influence of pH, dissolution, aggregation and disaggregation effects",
+            "volume": "3",
+            "author": "Fatehah",
+            "year": "2014",
+            "journal-title": "J. Colloid Sci. Biotechnol."
+        },
+        {
+            "issue": "2",
+            "key": "10.1016/j.impact.2021.100308_bb0125",
+            "doi-asserted-by": "crossref",
+            "first-page": "311",
+            "DOI": "10.14573/altex.1701171",
+            "article-title": "OECD/EFSA workshop on developmental neurotoxicity (DNT): the use of non-animal test methods for regulatory purposes",
+            "volume": "34",
+            "author": "Fritsche",
+            "year": "2017",
+            "journal-title": "Altex"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0130",
+            "first-page": "34(3)",
+            "article-title": "The Toxicity of carbon nanotubes",
+            "author": "Gernand",
+            "year": "2014",
+            "journal-title": "Risk Anal."
+        },
+        {
+            "issue": "1",
+            "key": "10.1016/j.impact.2021.100308_bb0135",
+            "doi-asserted-by": "crossref",
+            "first-page": "3141",
+            "DOI": "10.1038/s41598-018-21431-9",
+            "article-title": "Toxicity classification of oxide nanomaterials: effects of data gap filling and PChem score-based screening approaches",
+            "volume": "8",
+            "author": "Ha",
+            "year": "2018",
+            "journal-title": "Sci. Rep."
+        },
+        {
+            "issue": "1",
+            "key": "10.1016/j.impact.2021.100308_bb0140",
+            "doi-asserted-by": "crossref",
+            "first-page": "10",
+            "DOI": "10.1145/1656274.1656278",
+            "article-title": "The WEKA data mining software: an update",
+            "volume": "11",
+            "author": "Hall",
+            "year": "2009",
+            "journal-title": "SIGKDD Explor. Newsl."
+        },
+        {
+            "issue": "2",
+            "key": "10.1016/j.impact.2021.100308_bb0145",
+            "doi-asserted-by": "crossref",
+            "first-page": "292",
+            "DOI": "10.1039/C6EN00443A",
+            "article-title": "The role of alternative testing strategies in environmental risk assessment of engineered nanomaterials",
+            "volume": "4",
+            "author": "Hjorth",
+            "year": "2017",
+            "journal-title": "Environ. Sci. Nano"
+        },
+        {
+            "issue": "2",
+            "key": "10.1016/j.impact.2021.100308_bb0150",
+            "first-page": "255",
+            "article-title": "Effect of zeta potential on the properties of nano-drug delivery systems-a review (part 1)",
+            "volume": "12",
+            "author": "Honary",
+            "year": "2013",
+            "journal-title": "Trop. J. Pharm. Res."
+        },
+        {
+            "issue": "2",
+            "key": "10.1016/j.impact.2021.100308_bb0155",
+            "first-page": "265",
+            "article-title": "Effect of zeta potential on the properties of nano-drug delivery systems-a review (part 2)",
+            "volume": "12",
+            "author": "Honary",
+            "year": "2013",
+            "journal-title": "Trop. J. Pharm. Res."
+        },
+        {
+            "issue": "1",
+            "key": "10.1016/j.impact.2021.100308_bb0160",
+            "doi-asserted-by": "crossref",
+            "first-page": "46",
+            "DOI": "10.1038/s41597-019-0053-2",
+            "article-title": "A high throughput imaging database of toxicological effects of nanomaterials tested on HepaRG cells",
+            "volume": "6",
+            "author": "Joossens",
+            "year": "2019",
+            "journal-title": "Sci. Data"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0165",
+            "doi-asserted-by": "crossref",
+            "first-page": "162",
+            "DOI": "10.1016/j.ecoenv.2014.05.026",
+            "article-title": "Periodic table-based descriptors to encode cytotoxicity profile of metal oxide nanoparticles: a mechanistic QSTR approach",
+            "volume": "107",
+            "author": "Kar",
+            "year": "2014",
+            "journal-title": "Ecotoxicol. Environ. Saf."
+        },
+        {
+            "issue": "1927",
+            "key": "10.1016/j.impact.2021.100308_bb0170",
+            "doi-asserted-by": "crossref",
+            "first-page": "4439",
+            "DOI": "10.1098/rsta.2010.0175",
+            "article-title": "High-concentration zeta potential measurements using light-scattering techniques",
+            "volume": "368",
+            "author": "Kaszuba",
+            "year": "2010",
+            "journal-title": "Philos. Trans. R. Soc. A Math. Phys. Eng. Sci."
+        },
+        {
+            "issue": "2",
+            "key": "10.1016/j.impact.2021.100308_bb0175",
+            "doi-asserted-by": "crossref",
+            "first-page": "187",
+            "DOI": "10.1002/elps.200305754",
+            "article-title": "Zeta potential of microfluidic substrates: 1. Theory, experimental techniques, and effects on separations",
+            "volume": "25",
+            "author": "Kirby",
+            "year": "2004",
+            "journal-title": "Electrophoresis"
+        },
+        {
+            "issue": "4",
+            "key": "10.1016/j.impact.2021.100308_bb0180",
+            "doi-asserted-by": "crossref",
+            "first-page": "239",
+            "DOI": "10.3390/nano8040239",
+            "article-title": "Implementation of safe-by-design for nanomaterial development and safe innovation: why we need a comprehensive approach",
+            "volume": "8",
+            "author": "Kraegeloh",
+            "year": "2018",
+            "journal-title": "Nanomaterials"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0185",
+            "doi-asserted-by": "crossref",
+            "first-page": "117194",
+            "DOI": "10.1016/j.energy.2020.117194",
+            "article-title": "Combined effect of oxygenated liquid and metal oxide nanoparticle fuel additives on the combustion characteristics of a biodiesel engine operated with higher blend percentages",
+            "volume": "197",
+            "author": "Kumar",
+            "year": "2020",
+            "journal-title": "Energy"
+        },
+        {
+            "issue": "2",
+            "key": "10.1016/j.impact.2021.100308_bb0190",
+            "first-page": "1583",
+            "article-title": "Meta-analysis of nanoparticle cytotoxicity via data-mining the literature",
+            "volume": "13",
+            "author": "Labouta",
+            "year": "2019",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0195",
+            "doi-asserted-by": "crossref",
+            "first-page": "97",
+            "DOI": "10.1016/j.impact.2017.12.004",
+            "article-title": "Inter-laboratory comparison of nanoparticle size measurements using dynamic light scattering and differential centrifugal sedimentation",
+            "volume": "10",
+            "author": "Langevin",
+            "year": "2018",
+            "journal-title": "NanoImpact"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0200",
+            "series-title": "Discovering Knowledge in Data: An Introduction to Data Mining",
+            "author": "Larose",
+            "year": "2014"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0205",
+            "series-title": "An Introduction to Chemoinformatics",
+            "author": "Leach",
+            "year": "2007"
+        },
+        {
+            "issue": "8",
+            "key": "10.1016/j.impact.2021.100308_bb0210",
+            "doi-asserted-by": "crossref",
+            "first-page": "2029",
+            "DOI": "10.1002/etc.4147",
+            "article-title": "Nanomaterials in the environment: behavior, fate, bioavailability, and effects—an updated review",
+            "volume": "37",
+            "author": "Lead",
+            "year": "2018",
+            "journal-title": "Environ. Toxicol. Chem."
+        },
+        {
+            "issue": "17",
+            "key": "10.1016/j.impact.2021.100308_bb0215",
+            "doi-asserted-by": "crossref",
+            "first-page": "1705691",
+            "DOI": "10.1002/adma.201705691",
+            "article-title": "Nanomaterials safer-by-design: an environmental safety perspective",
+            "volume": "30",
+            "author": "Lin",
+            "year": "2018",
+            "journal-title": "Adv. Mater."
+        },
+        {
+            "issue": "1",
+            "key": "10.1016/j.impact.2021.100308_bb0220",
+            "doi-asserted-by": "crossref",
+            "first-page": "399",
+            "DOI": "10.1038/s41467-019-14278-9",
+            "article-title": "Quantifying electron-transfer in liquid-solid contact electrification and the formation of electric double-layer",
+            "volume": "11",
+            "author": "Lin",
+            "year": "2020",
+            "journal-title": "Nat. Commun."
+        },
+        {
+            "issue": "43",
+            "key": "10.1016/j.impact.2021.100308_bb0225",
+            "doi-asserted-by": "crossref",
+            "first-page": "1802306",
+            "DOI": "10.1002/adma.201802306",
+            "article-title": "Combining in silico design and biomimetic assembly: a new approach for developing high-performance dynamic responsive bio-nanomaterials",
+            "volume": "30",
+            "author": "Ling",
+            "year": "2018",
+            "journal-title": "Adv. Mater."
+        },
+        {
+            "issue": "5",
+            "key": "10.1016/j.impact.2021.100308_bb0230",
+            "doi-asserted-by": "crossref",
+            "first-page": "953",
+            "DOI": "10.1039/C6EN00136J",
+            "article-title": "Guidance to improve the scientific value of zeta-potential measurements in nanoEHS",
+            "volume": "3",
+            "author": "Lowry",
+            "year": "2016",
+            "journal-title": "Environ. Sci. Nano"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0235",
+            "author": "NovaMechanics Ltd."
+        },
+        {
+            "issue": "3",
+            "key": "10.1016/j.impact.2021.100308_bb0240",
+            "doi-asserted-by": "crossref",
+            "first-page": "266",
+            "DOI": "10.1016/j.nantod.2014.05.001",
+            "article-title": "A strategy for grouping of nanomaterials based on key physico-chemical descriptors as a basis for safer-by-design NMs",
+            "volume": "9",
+            "author": "Lynch",
+            "year": "2014",
+            "journal-title": "Nano Today"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0250",
+            "doi-asserted-by": "crossref",
+            "first-page": "100147",
+            "DOI": "10.1016/j.impact.2019.100147",
+            "article-title": "Simulations of morphological transformation in silver nanoparticles as a tool for assessing their reactivity and potential toxicity",
+            "volume": "14",
+            "author": "Martin",
+            "year": "2019",
+            "journal-title": "NanoImpact"
+        },
+        {
+            "issue": "92",
+            "key": "10.1016/j.impact.2021.100308_bb0255",
+            "doi-asserted-by": "crossref",
+            "first-page": "50713",
+            "DOI": "10.1039/C4RA07756C",
+            "article-title": "Enalos InSilicoNano platform: an online decision support tool for the design and virtual screening of nanoparticles",
+            "volume": "4",
+            "author": "Melagraki",
+            "year": "2014",
+            "journal-title": "RSC Adv."
+        },
+        {
+            "issue": "7",
+            "key": "10.1016/j.impact.2021.100308_bb0260",
+            "doi-asserted-by": "crossref",
+            "first-page": "2400",
+            "DOI": "10.1021/cm504406a",
+            "article-title": "Zeta potential for metal oxide nanoparticles: a predictive model developed by a nano-quantitative structure–property relationship approach",
+            "volume": "27",
+            "author": "Mikolajczyk",
+            "year": "2015",
+            "journal-title": "Chem. Mater."
+        },
+        {
+            "issue": "11",
+            "key": "10.1016/j.impact.2021.100308_bb0265",
+            "doi-asserted-by": "crossref",
+            "first-page": "782",
+            "DOI": "10.1063/1.1749394",
+            "article-title": "A new electroaffinity scale; together with data on valence states and on valence ionization potentials and electron affinities",
+            "volume": "2",
+            "author": "Mulliken",
+            "year": "1934",
+            "journal-title": "J. Chem. Phys."
+        },
+        {
+            "issue": "9",
+            "key": "10.1016/j.impact.2021.100308_bb0270",
+            "doi-asserted-by": "crossref",
+            "first-page": "573",
+            "DOI": "10.1063/1.1749731",
+            "article-title": "Electronic structures of molecules XI. Electroaffinity, molecular orbitals and dipole moments",
+            "volume": "3",
+            "author": "Mulliken",
+            "year": "1935",
+            "journal-title": "J. Chem. Phys."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0275",
+            "series-title": "Physical Chemical Parameters: Measurements and methods relevant for the regulation of nanomaterials (ENV/JM/MONO(2016)2)",
+            "author": "OECD",
+            "year": "2016"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0280",
+            "author": "OECD"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0285",
+            "doi-asserted-by": "crossref",
+            "first-page": "100473",
+            "DOI": "10.1016/j.apmt.2019.100473",
+            "article-title": "Engineered nanomaterials for antimicrobial applications: a review",
+            "volume": "18",
+            "author": "Ogunsona",
+            "year": "2020",
+            "journal-title": "Appl. Mater. Today"
+        },
+        {
+            "issue": "5",
+            "key": "10.1016/j.impact.2021.100308_bb0290",
+            "doi-asserted-by": "crossref",
+            "first-page": "479",
+            "DOI": "10.1038/nnano.2015.338",
+            "article-title": "Meta-analysis of cellular toxicity for cadmium-containing quantum dots",
+            "volume": "11",
+            "author": "Oh",
+            "year": "2016",
+            "journal-title": "Nat. Nanotechnol."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0080",
+            "series-title": "Theory of Colloid and Interfacial Electric Phenomena, Volume 12, 1st Edition",
+            "article-title": "Chapter 2. Potential distribution around a soft particle",
+            "author": "Ohshima",
+            "year": "2006"
+        },
+        {
+            "issue": "2",
+            "key": "10.1016/j.impact.2021.100308_bb0295",
+            "doi-asserted-by": "crossref",
+            "first-page": "146",
+            "DOI": "10.1016/j.chemolab.2011.08.007",
+            "article-title": "Comparative QSARs for antimalarial endochins: importance of descriptor-thinning and noise reduction prior to feature selection",
+            "volume": "109",
+            "author": "Ojha",
+            "year": "2011",
+            "journal-title": "Chemom. Intell. Lab. Syst."
+        },
+        {
+            "issue": "10",
+            "key": "10.1016/j.impact.2021.100308_bb0300",
+            "doi-asserted-by": "crossref",
+            "first-page": "2033",
+            "DOI": "10.3390/nano10102033",
+            "article-title": "Metadata stewardship in nanosafety research: community-driven organisation of metadata schemas to support FAIR nanoscience data",
+            "volume": "10",
+            "author": "Papadiamantis",
+            "year": "2020",
+            "journal-title": "Naomaterials"
+        },
+        {
+            "issue": "10",
+            "key": "10.1016/j.impact.2021.100308_bb0305",
+            "doi-asserted-by": "crossref",
+            "first-page": "2017",
+            "DOI": "10.3390/nano10102017",
+            "article-title": "Predicting cytotoxicity of metal oxide nanoparticles using Isalos Analytics Platform",
+            "volume": "10",
+            "author": "Papadiamantis",
+            "year": "2020",
+            "journal-title": "Nanomaterials"
+        },
+        {
+            "issue": "14",
+            "key": "10.1016/j.impact.2021.100308_bb0310",
+            "doi-asserted-by": "crossref",
+            "first-page": "3801",
+            "DOI": "10.1021/ja00378a004",
+            "article-title": "On the geometric mean principle for electronegativity equalization",
+            "volume": "104",
+            "author": "Parr",
+            "year": "1982",
+            "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+            "issue": "7",
+            "key": "10.1016/j.impact.2021.100308_bb0315",
+            "doi-asserted-by": "crossref",
+            "first-page": "1039",
+            "DOI": "10.1016/S1466-6049(01)00074-5",
+            "article-title": "Degenerate semiconductors in the light of electronegativity and chemical hardness",
+            "volume": "3",
+            "author": "Portier",
+            "year": "2001",
+            "journal-title": "Int. J. Inorg. Mater."
+        },
+        {
+            "issue": "7",
+            "key": "10.1016/j.impact.2021.100308_bb0320",
+            "doi-asserted-by": "crossref",
+            "first-page": "1091",
+            "DOI": "10.1016/S1466-6049(01)00075-7",
+            "article-title": "Relationships between optical band gap and thermodynamic properties of binary oxides",
+            "volume": "3",
+            "author": "Portier",
+            "year": "2001",
+            "journal-title": "Int. J. Inorg. Mater."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0325",
+            "doi-asserted-by": "crossref",
+            "first-page": "478",
+            "DOI": "10.1016/j.fct.2017.09.037",
+            "article-title": "Perspectives from the NanoSafety modelling cluster on the validation criteria for (Q)SAR models used in nanotechnology",
+            "volume": "112",
+            "author": "Puzyn",
+            "year": "2018",
+            "journal-title": "Food Chem. Toxicol."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0330",
+            "doi-asserted-by": "crossref",
+            "first-page": "74",
+            "DOI": "10.1016/j.yrtph.2019.02.008",
+            "article-title": "Developing OECD test guidelines for regulatory testing of nanomaterials to ensure mutual acceptance of test data",
+            "volume": "104",
+            "author": "Rasmussen",
+            "year": "2019",
+            "journal-title": "Regul. Toxicol. Pharmacol."
+        },
+        {
+            "issue": "6",
+            "key": "10.1016/j.impact.2021.100308_bb0335",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1371/journal.pone.0217483",
+            "article-title": "Impact of particle size, oxidation state and capping agent of different cerium dioxide nanoparticles on the phosphate-induced transformations at different pH and concentration",
+            "volume": "14",
+            "author": "Römer",
+            "year": "2019",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0340",
+            "series-title": "Colloidal Dispersions",
+            "author": "Russel",
+            "year": "1989"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0345",
+            "doi-asserted-by": "crossref",
+            "first-page": "100274",
+            "DOI": "10.1016/j.impact.2020.100274",
+            "article-title": "Toxicogenomics analysis of dynamic dose-response in macrophages highlights molecular alterations relevant for multi-walled carbon nanotube-induced lung fibrosis",
+            "author": "Saarimäki",
+            "year": "2020",
+            "journal-title": "NanoImpact"
+        },
+        {
+            "issue": "2973",
+            "key": "10.1016/j.impact.2021.100308_bb0350",
+            "doi-asserted-by": "crossref",
+            "first-page": "670",
+            "DOI": "10.1126/science.114.2973.670",
+            "article-title": "An interpretation of bond lengths and a classification of bonds",
+            "volume": "114",
+            "author": "Sanderson",
+            "year": "1951",
+            "journal-title": "Science"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0355",
+            "doi-asserted-by": "crossref",
+            "first-page": "563",
+            "DOI": "10.1016/j.rser.2016.11.067",
+            "article-title": "A comprehensive review on combustion and stability aspects of metal nanoparticles and its additive effect on diesel and biodiesel fuelled C.I. engine",
+            "volume": "70",
+            "author": "Saxena",
+            "year": "2017",
+            "journal-title": "Renew. Sust. Energ. Rev."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0360",
+            "series-title": "Electrochemical Theory: Double Layer, in Reference Module in Chemistry, Molecular Sciences and Chemical Engineering",
+            "author": "Schmickler",
+            "year": "2014"
+        },
+        {
+            "issue": "1",
+            "key": "10.1016/j.impact.2021.100308_bb0365",
+            "doi-asserted-by": "crossref",
+            "first-page": "43",
+            "DOI": "10.1016/j.jcis.2010.02.028",
+            "article-title": "Influence of the zeta potential on the sorption and toxicity of iron oxide nanoparticles on S. cerevisiae and E. coli",
+            "volume": "347",
+            "author": "Schwegmann",
+            "year": "2010",
+            "journal-title": "J. Colloid Interf. Sci."
+        },
+        {
+            "issue": "5",
+            "key": "10.1016/j.impact.2021.100308_bb0370",
+            "doi-asserted-by": "crossref",
+            "first-page": "593",
+            "DOI": "10.1007/s10800-017-1063-4",
+            "article-title": "Electroactive nanofluids with high solid loading and low viscosity for rechargeable redox flow batteries",
+            "volume": "47",
+            "author": "Sen",
+            "year": "2017",
+            "journal-title": "J. Appl. Electrochem."
+        },
+        {
+            "issue": "3",
+            "key": "10.1016/j.impact.2021.100308_bb0375",
+            "doi-asserted-by": "crossref",
+            "first-page": "765",
+            "DOI": "10.1039/C7EN01127J",
+            "article-title": "Meta-analysis of Daphnia magna nanotoxicity experiments in accordance with test guidelines",
+            "volume": "5",
+            "author": "Shin",
+            "year": "2018",
+            "journal-title": "Environ. Sci. Nano"
+        },
+        {
+            "issue": "3",
+            "key": "10.1016/j.impact.2021.100308_bb0385",
+            "doi-asserted-by": "crossref",
+            "first-page": "279",
+            "DOI": "10.1016/j.partic.2010.01.003",
+            "article-title": "Effect of nanoparticle concentration on zeta-potential measurement results and reproducibility",
+            "volume": "8",
+            "author": "Tantra",
+            "year": "2010",
+            "journal-title": "Particuology"
+        },
+        {
+            "issue": "2",
+            "key": "10.1016/j.impact.2021.100308_bb0390",
+            "doi-asserted-by": "crossref",
+            "first-page": "627",
+            "DOI": "10.1002/pssb.19660150224",
+            "article-title": "Optical properties and electronic structure of amorphous germanium",
+            "volume": "15",
+            "author": "Tauc",
+            "year": "1966",
+            "journal-title": "Phys. Status Solidi B"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0395",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1016/j.cplett.2016.08.018",
+            "article-title": "Quasi-SMILES and nano-QFPR: the predictive model for zeta potentials of metal oxide nanoparticles",
+            "volume": "660",
+            "author": "Toropov",
+            "year": "2016",
+            "journal-title": "Chem. Phys. Lett."
+        },
+        {
+            "issue": "4",
+            "key": "10.1016/j.impact.2021.100308_bb0400",
+            "doi-asserted-by": "crossref",
+            "first-page": "243",
+            "DOI": "10.3390/nano8040243",
+            "article-title": "Towards the development of global nano-quantitative structure–property relationship models: zeta potentials of metal oxide nanoparticles",
+            "volume": "8",
+            "author": "Toropov",
+            "year": "2018",
+            "journal-title": "Nanomaterials"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0405",
+            "doi-asserted-by": "crossref",
+            "first-page": "60",
+            "DOI": "10.1016/j.impact.2016.04.003",
+            "article-title": "Quasi-SMILES as a tool to utilize eclectic data for predicting the behavior of nanomaterials",
+            "volume": "1",
+            "author": "Toropova",
+            "year": "2016",
+            "journal-title": "NanoImpact"
+        },
+        {
+            "issue": "6–7",
+            "key": "10.1016/j.impact.2021.100308_bb0410",
+            "doi-asserted-by": "crossref",
+            "first-page": "476",
+            "DOI": "10.1002/minf.201000061",
+            "article-title": "Best practices for QSAR model development, validation, and exploitation",
+            "volume": "29",
+            "author": "Tropsha",
+            "year": "2010",
+            "journal-title": "Mol. Inform."
+        },
+        {
+            "issue": "1",
+            "key": "10.1016/j.impact.2021.100308_bb0415",
+            "doi-asserted-by": "crossref",
+            "first-page": "69",
+            "DOI": "10.1002/qsar.200390007",
+            "article-title": "The importance of being earnest: validation is the absolute essential for successful application and interpretation of QSPR models",
+            "volume": "22",
+            "author": "Tropsha",
+            "year": "2003",
+            "journal-title": "QSAR & Comb. Sci."
+        },
+        {
+            "issue": "6259",
+            "key": "10.1016/j.impact.2021.100308_bb0420",
+            "doi-asserted-by": "crossref",
+            "first-page": "388",
+            "DOI": "10.1126/science.aad0768",
+            "article-title": "How safe are nanomaterials?",
+            "volume": "350",
+            "author": "Valsami-Jones",
+            "year": "2015",
+            "journal-title": "Science"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0425",
+            "series-title": "Rational Drug Design: Methods and Protocols",
+            "first-page": "113",
+            "article-title": "Enalos+ KNIME nodes: new cheminformatics tools for drug discovery",
+            "author": "Varsou",
+            "year": "2018"
+        },
+        {
+            "issue": "2",
+            "key": "10.1016/j.impact.2021.100308_bb0430",
+            "doi-asserted-by": "crossref",
+            "first-page": "706",
+            "DOI": "10.1039/C8NA00142A",
+            "article-title": "A safe-by-design tool for functionalised nanomaterials through the Enalos nanoinformatics cloud platform",
+            "volume": "1",
+            "author": "Varsou",
+            "year": "2019",
+            "journal-title": "Nanoscale Adv."
+        },
+        {
+            "issue": "21",
+            "key": "10.1016/j.impact.2021.100308_bb0435",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1002/smll.201906588",
+            "article-title": "Zeta-potential read-across model utilizing nanodescriptors extracted via the nanoxtract image analysis tool available on the enalos nanoinformatics cloud platform",
+            "volume": "16",
+            "author": "Varsou",
+            "year": "2020",
+            "journal-title": "Small"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0440",
+            "series-title": "Ecotoxicological QSARs",
+            "first-page": "789",
+            "article-title": "Enalos cloud platform: nanoinformatics and cheminformatics tools",
+            "author": "Varsou",
+            "year": "2020"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0445",
+            "doi-asserted-by": "crossref",
+            "first-page": "34",
+            "DOI": "10.1016/j.mattod.2019.05.016",
+            "article-title": "On the origin of contact-electrification",
+            "volume": "30",
+            "author": "Wang",
+            "year": "2019",
+            "journal-title": "Mater. Today"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0450",
+            "doi-asserted-by": "crossref",
+            "first-page": "22",
+            "DOI": "10.1016/j.jcis.2013.05.058",
+            "article-title": "Influence of metal oxide nanoparticles concentration on their zeta potential",
+            "volume": "407",
+            "author": "Wang",
+            "year": "2013",
+            "journal-title": "J. Colloid Interf. Sci."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0455",
+            "series-title": "Data Mining: Practical Machine Learning Tools and Techniques",
+            "author": "Witten",
+            "year": "2016"
+        },
+        {
+            "issue": "44",
+            "key": "10.1016/j.impact.2021.100308_bb0460",
+            "doi-asserted-by": "crossref",
+            "first-page": "445702",
+            "DOI": "10.1088/0957-4484/27/44/445702",
+            "article-title": "Development of a novelin silicomodel of zeta potential for metal oxide nanoparticles: a nano-QSPR approach",
+            "volume": "27",
+            "author": "Wyrzykowska",
+            "year": "2016",
+            "journal-title": "Nanotechnology"
+        },
+        {
+            "issue": "3",
+            "key": "10.1016/j.impact.2021.100308_bb0465",
+            "doi-asserted-by": "crossref",
+            "first-page": "249",
+            "DOI": "10.1007/s41664-018-0068-2",
+            "article-title": "On splitting training and validation set: a comparative study of cross-validation, bootstrap and systematic sampling for estimating the generalization performance of supervised learning",
+            "volume": "2",
+            "author": "Xu",
+            "year": "2018",
+            "journal-title": "J. Anal. Test."
+        },
+        {
+            "issue": "45",
+            "key": "10.1016/j.impact.2021.100308_bb0470",
+            "doi-asserted-by": "crossref",
+            "first-page": "1805391",
+            "DOI": "10.1002/adma.201805391",
+            "article-title": "A safe-by-design strategy towards safer nanomaterials in nanomedicines",
+            "volume": "31",
+            "author": "Yan",
+            "year": "2019",
+            "journal-title": "Adv. Mater."
+        },
+        {
+            "issue": "2",
+            "key": "10.1016/j.impact.2021.100308_bb0475",
+            "doi-asserted-by": "crossref",
+            "first-page": "653",
+            "DOI": "10.1016/j.chemosphere.2012.09.033",
+            "article-title": "Silica nanoparticles capture atmospheric lead: implications in the treatment of environmental heavy metal pollution",
+            "volume": "90",
+            "author": "Yang",
+            "year": "2013",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "issue": "5",
+            "key": "10.1016/j.impact.2021.100308_bb0480",
+            "doi-asserted-by": "crossref",
+            "first-page": "1984",
+            "DOI": "10.1021/ci060132x",
+            "article-title": "A novel automated lazy learning QSAR (ALL-QSAR) approach: method development, applications, and virtual screening of chemical databases using validated ALL-QSAR models",
+            "volume": "46",
+            "author": "Zhang",
+            "year": "2006",
+            "journal-title": "J. Chem. Inf. Model."
+        },
+        {
+            "issue": "5",
+            "key": "10.1016/j.impact.2021.100308_bb0485",
+            "doi-asserted-by": "crossref",
+            "first-page": "4349",
+            "DOI": "10.1021/nn3010087",
+            "article-title": "Use of metal oxide nanoparticle band gap to develop a predictive paradigm for oxidative stress and acute pulmonary inflammation",
+            "volume": "6",
+            "author": "Zhang",
+            "year": "2012",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100308_bb0486",
+            "unstructured": "NanoCommons (2018). The European Nanotechnology Community Informatics Platform: Bridging data and disciplinary gaps for industry and regulators (NanoCommons). (Accessed 23 March 2021) www.nanocommons.eu."
+        }
+    ],
+    "container-title": "NanoImpact",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S2452074821000173?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S2452074821000173?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                5,
+                1
+            ]
+        ],
+        "date-time": "2021-05-01T18:18:13Z",
+        "timestamp": 1619893093000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2452074821000173"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                4
+            ]
+        ]
+    },
+    "references-count": 95,
+    "alternative-id": [
+        "S2452074821000173"
+    ],
+    "URL": "http://dx.doi.org/10.1016/j.impact.2021.100308",
+    "relation": {},
+    "ISSN": [
+        "2452-0748"
+    ],
+    "subject": [
+        "Public Health, Environmental and Occupational Health",
+        "Safety Research",
+        "Safety, Risk, Reliability and Quality",
+        "Materials Science (miscellaneous)"
+    ],
+    "container-title-short": "NanoImpact",
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                4
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+        },
+        {
+            "value": "Computational enrichment of physicochemical data for the development of a ζ-potential read-across predictive model with Isalos Analytics Platform",
+            "name": "articletitle",
+            "label": "Article Title"
+        },
+        {
+            "value": "NanoImpact",
+            "name": "journaltitle",
+            "label": "Journal Title"
+        },
+        {
+            "value": "https://doi.org/10.1016/j.impact.2021.100308",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+        },
+        {
+            "value": "© 2021 The Author(s). Published by Elsevier B.V.",
+            "name": "copyright",
+            "label": "Copyright"
+        }
+    ],
+    "article-number": "100308"
+}

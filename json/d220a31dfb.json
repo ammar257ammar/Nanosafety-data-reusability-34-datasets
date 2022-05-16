@@ -1,0 +1,774 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                14
+            ]
+        ],
+        "date-time": "2022-04-14T11:55:10Z",
+        "timestamp": 1649937310729
+    },
+    "reference-count": 105,
+    "publisher": "Informa UK Limited",
+    "issue": "7",
+    "funder": [
+        {
+            "name": "Fundação para a Ciência e a Tecnologia"
+        },
+        {
+            "DOI": "10.13039/501100008530",
+            "name": "FEDER",
+            "doi-asserted-by": "crossref",
+            "award": [
+                "UID/QUI/50006/2013",
+                "POCI/01/0145/FEDER/007265",
+                "SFRH/BPD/80605/2011"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "www.tandfonline.com"
+        ],
+        "crossmark-restriction": true
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2017,
+                8,
+                9
+            ]
+        ]
+    },
+    "DOI": "10.1080/17435390.2017.1379567",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2017,
+                9,
+                22
+            ]
+        ],
+        "date-time": "2017-09-22T12:35:55Z",
+        "timestamp": 1506083755000
+    },
+    "page": "891-906",
+    "update-policy": "http://dx.doi.org/10.1080/tandf_crossmark_01",
+    "source": "Crossref",
+    "is-referenced-by-count": 63,
+    "title": "Probing the toxicity of nanoparticles: a unified <i>in silico</i> machine learning model based on perturbation theory",
+    "prefix": "10.1080",
+    "volume": "11",
+    "author": [
+        {
+            "given": "Riccardo",
+            "family": "Concu",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "LAQV@REQUIMTE/Department of Chemistry and Biochemistry, Faculty of Sciences, University of Porto, Porto, Portugal;"
+                }
+            ]
+        },
+        {
+            "given": "Valeria V.",
+            "family": "Kleandrova",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Faculty of Technology and Production Management, Moscow State University of Food Production, Moscow, Russia"
+                }
+            ]
+        },
+        {
+            "given": "Alejandro",
+            "family": "Speck-Planche",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "LAQV@REQUIMTE/Department of Chemistry and Biochemistry, Faculty of Sciences, University of Porto, Porto, Portugal;"
+                }
+            ]
+        },
+        {
+            "given": "M. Natália D. S.",
+            "family": "Cordeiro",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "LAQV@REQUIMTE/Department of Chemistry and Biochemistry, Faculty of Sciences, University of Porto, Porto, Portugal;"
+                }
+            ]
+        }
+    ],
+    "member": "301",
+    "published-online": {
+        "date-parts": [
+            [
+                2017,
+                9,
+                22
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "CIT0001",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tiv.2011.02.015"
+        },
+        {
+            "key": "CIT0002",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tox.2011.02.010"
+        },
+        {
+            "key": "CIT0003",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2013.09.047"
+        },
+        {
+            "key": "CIT0004",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bbrc.2010.04.156"
+        },
+        {
+            "key": "CIT0005",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pone.0071260"
+        },
+        {
+            "key": "CIT0006",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2010.489207"
+        },
+        {
+            "key": "CIT0007",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.200801716"
+        },
+        {
+            "key": "CIT0008",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/c3nr34266b"
+        },
+        {
+            "key": "CIT0009",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S1381-1169(01)00313-2"
+        },
+        {
+            "key": "CIT0010",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S0169-409X(02)00044-3"
+        },
+        {
+            "key": "CIT0011",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/jp712087m"
+        },
+        {
+            "key": "CIT0012",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.toxlet.2012.11.022"
+        },
+        {
+            "key": "CIT0013",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tibtech.2009.04.003"
+        },
+        {
+            "key": "CIT0014",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn4029184"
+        },
+        {
+            "key": "CIT0015",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn205097e"
+        },
+        {
+            "key": "CIT0016",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.watres.2012.12.043"
+        },
+        {
+            "key": "CIT0017",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2013/494671"
+        },
+        {
+            "key": "CIT0018",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jhazmat.2013.11.031"
+        },
+        {
+            "key": "CIT0019",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cbi.2013.09.020"
+        },
+        {
+            "key": "CIT0020",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nl303144k"
+        },
+        {
+            "key": "CIT0021",
+            "unstructured": "Estrada, E., and Y. Gutiérrez. 2002–2004. MODESLAB. v1.5. Santiago de Compostela."
+        },
+        {
+            "key": "CIT0022",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn1013484"
+        },
+        {
+            "key": "CIT0023",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jat.2865"
+        },
+        {
+            "key": "CIT0024",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es071445r"
+        },
+        {
+            "key": "CIT0025",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.desal.2010.10.052"
+        },
+        {
+            "key": "CIT0026",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2010.12.059"
+        },
+        {
+            "key": "CIT0027",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2174/1568026611313140011"
+        },
+        {
+            "key": "CIT0028",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemolab.2006.03.005"
+        },
+        {
+            "key": "CIT0029",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2010.501913"
+        },
+        {
+            "key": "CIT0030",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1897/08-002.1"
+        },
+        {
+            "key": "CIT0031",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tiv.2012.08.024"
+        },
+        {
+            "key": "CIT0032",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tiv.2013.12.001"
+        },
+        {
+            "key": "CIT0033",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201200591"
+        },
+        {
+            "key": "CIT0034",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/bioinformatics/btq037"
+        },
+        {
+            "key": "CIT0035",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2007.11.047"
+        },
+        {
+            "key": "CIT0036",
+            "unstructured": "Hill, T. and P. Lewicki. 2006. STATISTICS Methods and Applications. A Comprehensive Reference for Science, Industry and Data Mining. Tulsa: StatSoft."
+        },
+        {
+            "key": "CIT0037",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ar300069t"
+        },
+        {
+            "key": "CIT0038",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1743-8977-10-32"
+        },
+        {
+            "key": "CIT0039",
+            "unstructured": "Hsu, D. D. 2013. Chemicool Periodic Table. Available at: http://www.chemicool.com/. Accessed 24 February 2017."
+        },
+        {
+            "key": "CIT0040",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1109/72.655045"
+        },
+        {
+            "key": "CIT0041",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1065/espr2006.06.311"
+        },
+        {
+            "key": "CIT0042",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tiv.2005.06.034"
+        },
+        {
+            "key": "CIT0043",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/10934520600966177"
+        },
+        {
+            "key": "CIT0044",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tiv.2013.12.018"
+        },
+        {
+            "key": "CIT0045",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tiv.2009.05.015"
+        },
+        {
+            "key": "CIT0046",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201300522"
+        },
+        {
+            "key": "CIT0047",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envint.2014.08.009"
+        },
+        {
+            "key": "CIT0048",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es503861x"
+        },
+        {
+            "key": "CIT0049",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00128-015-1505-9"
+        },
+        {
+            "key": "CIT0050",
+            "first-page": "57",
+            "volume": "9",
+            "author": "Kwon D.",
+            "year": "2014",
+            "journal-title": "International Journal of Nanomedicine"
+        },
+        {
+            "key": "CIT0051",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2011.620717"
+        },
+        {
+            "key": "CIT0052",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jat.2953"
+        },
+        {
+            "key": "CIT0053",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ja502011g"
+        },
+        {
+            "key": "CIT0054",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envpol.2007.01.016"
+        },
+        {
+            "key": "CIT0055",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.taap.2006.10.004"
+        },
+        {
+            "key": "CIT0056",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201002366"
+        },
+        {
+            "key": "CIT0057",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201201903"
+        },
+        {
+            "key": "CIT0058",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/b101855"
+        },
+        {
+            "key": "CIT0059",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn404613v"
+        },
+        {
+            "key": "CIT0060",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nl4029973"
+        },
+        {
+            "key": "CIT0061",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C4NR01285B"
+        },
+        {
+            "key": "CIT0062",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2010.545487"
+        },
+        {
+            "key": "CIT0063",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2009.10.050"
+        },
+        {
+            "key": "CIT0064",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es2031483"
+        },
+        {
+            "key": "CIT0065",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tox.2009.07.007"
+        },
+        {
+            "key": "CIT0066",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ja211121m"
+        },
+        {
+            "key": "CIT0067",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.biomaterials.2009.02.044"
+        },
+        {
+            "key": "CIT0068",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2011.01.061"
+        },
+        {
+            "key": "CIT0069",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pone.0074003"
+        },
+        {
+            "key": "CIT0070",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nnano.2011.10"
+        },
+        {
+            "key": "CIT0071",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tiv.2011.07.010"
+        },
+        {
+            "key": "CIT0072",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ci700157b"
+        },
+        {
+            "key": "CIT0073",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2013.796538"
+        },
+        {
+            "key": "CIT0074",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.etp.2014.11.010"
+        },
+        {
+            "key": "CIT0075",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ecoenv.2011.03.006"
+        },
+        {
+            "key": "CIT0076",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11051-011-0243-0"
+        },
+        {
+            "key": "CIT0077",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.apsusc.2012.10.073"
+        },
+        {
+            "key": "CIT0078",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.taap.2013.09.001"
+        },
+        {
+            "key": "CIT0079",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nl303850v"
+        },
+        {
+            "key": "CIT0080",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2147/IJN.S52625"
+        },
+        {
+            "key": "CIT0081",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ci3005308"
+        },
+        {
+            "key": "CIT0082",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2013.09.006"
+        },
+        {
+            "key": "CIT0083",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2013.790997"
+        },
+        {
+            "key": "CIT0084",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ecoenv.2013.03.033"
+        },
+        {
+            "key": "CIT0085",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2174/156802612803989282"
+        },
+        {
+            "key": "CIT0086",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/01431160802549278"
+        },
+        {
+            "key": "CIT0087",
+            "unstructured": "Statsoft-Team. 2001. STATISTICA. Data analysis software system. v6.0. Tulsa."
+        },
+        {
+            "key": "CIT0088",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/la2042058"
+        },
+        {
+            "key": "CIT0089",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2010.528847"
+        },
+        {
+            "key": "CIT0090",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2012.05.077"
+        },
+        {
+            "key": "CIT0091",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00204-010-0627-4"
+        },
+        {
+            "key": "CIT0092",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2478/nanome-2013-0004"
+        },
+        {
+            "key": "CIT0093",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.mrgentox.2011.10.010"
+        },
+        {
+            "key": "CIT0094",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envpol.2008.11.004"
+        },
+        {
+            "key": "CIT0095",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/tx3002093"
+        },
+        {
+            "key": "CIT0096",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jat.1745"
+        },
+        {
+            "key": "CIT0097",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201202023"
+        },
+        {
+            "key": "CIT0098",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1743-8977-7-1"
+        },
+        {
+            "key": "CIT0099",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tiv.2011.04.005"
+        },
+        {
+            "key": "CIT0100",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jhazmat.2012.02.014"
+        },
+        {
+            "key": "CIT0101",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/adma.201301890"
+        },
+        {
+            "key": "CIT0102",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2009.11.013"
+        },
+        {
+            "key": "CIT0103",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pone.0046286"
+        },
+        {
+            "key": "CIT0104",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11051-008-9426-8"
+        },
+        {
+            "key": "CIT0105",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/10934520701792779"
+        }
+    ],
+    "container-title": "Nanotoxicology",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://www.tandfonline.com/doi/pdf/10.1080/17435390.2017.1379567",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                8,
+                30
+            ]
+        ],
+        "date-time": "2020-08-30T03:32:13Z",
+        "timestamp": 1598758333000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.tandfonline.com/doi/full/10.1080/17435390.2017.1379567"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2017,
+                8,
+                9
+            ]
+        ]
+    },
+    "references-count": 105,
+    "journal-issue": {
+        "issue": "7",
+        "published-print": {
+            "date-parts": [
+                [
+                    2017,
+                    8,
+                    9
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1080/17435390.2017.1379567"
+    ],
+    "URL": "http://dx.doi.org/10.1080/17435390.2017.1379567",
+    "relation": {},
+    "ISSN": [
+        "1743-5390",
+        "1743-5404"
+    ],
+    "subject": [
+        "Toxicology",
+        "Biomedical Engineering"
+    ],
+    "container-title-short": "Nanotoxicology",
+    "published": {
+        "date-parts": [
+            [
+                2017,
+                8,
+                9
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "The publishing and review policy for this title is described in its Aims & Scope.",
+            "order": 1,
+            "name": "peerreview_statement",
+            "label": "Peer Review Statement"
+        },
+        {
+            "value": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=inan20",
+            "URL": "http://www.tandfonline.com/action/journalInformation?show=aimsScope&journalCode=inan20",
+            "order": 2,
+            "name": "aims_and_scope_url",
+            "label": "Aim & Scope"
+        },
+        {
+            "value": "2017-03-17",
+            "order": 0,
+            "name": "received",
+            "label": "Received",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        },
+        {
+            "value": "2017-08-21",
+            "order": 1,
+            "name": "revised",
+            "label": "Revised",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        },
+        {
+            "value": "2017-09-08",
+            "order": 2,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        },
+        {
+            "value": "2017-09-22",
+            "order": 3,
+            "name": "published",
+            "label": "Published",
+            "group": {
+                "name": "publication_history",
+                "label": "Publication History"
+            }
+        }
+    ]
+}

@@ -1,0 +1,841 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                26
+            ]
+        ],
+        "date-time": "2022-04-26T09:30:20Z",
+        "timestamp": 1650965420011
+    },
+    "reference-count": 55,
+    "publisher": "Springer Science and Business Media LLC",
+    "issue": "1",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        20
+                    ]
+                ],
+                "date-time": "2020-05-20T00:00:00Z",
+                "timestamp": 1589932800000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+        },
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        5,
+                        20
+                    ]
+                ],
+                "date-time": "2020-05-20T00:00:00Z",
+                "timestamp": 1589932800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100001809",
+            "name": "National Natural Science Foundation of China",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "91543204",
+                "91643204"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "link.springer.com"
+        ],
+        "crossmark-restriction": false
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2020,
+                12
+            ]
+        ]
+    },
+    "abstract": "<jats:title>Abstract</jats:title><jats:p>Modern nanotechnology research has generated numerous experimental data for various nanomaterials. However, the few nanomaterial databases available are not suitable for modeling studies due to the way they are curated. Here, we report the construction of a large nanomaterial database containing annotated nanostructures suited for modeling research. The database, which is publicly available through <jats:ext-link xmlns:xlink=\"http://www.w3.org/1999/xlink\" ext-link-type=\"uri\" xlink:href=\"http://www.pubvinas.com/\">http://www.pubvinas.com/</jats:ext-link>, contains 705 unique nanomaterials covering 11 material types. Each nanomaterial has up to six physicochemical properties and/or bioactivities, resulting in more than ten endpoints in the database. All the nanostructures are annotated and transformed into protein data bank files, which are downloadable by researchers worldwide. Furthermore, the nanostructure annotation procedure generates 2142 nanodescriptors for all nanomaterials for machine learning purposes, which are also available through the portal. This database provides a public resource for data-driven nanoinformatics modeling research aimed at rational nanomaterial design and other areas of modern computational nanotechnology.</jats:p>",
+    "DOI": "10.1038/s41467-020-16413-3",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                20
+            ]
+        ],
+        "date-time": "2020-05-20T10:03:13Z",
+        "timestamp": 1589968993000
+    },
+    "update-policy": "http://dx.doi.org/10.1007/springer_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 36,
+    "title": "Construction of a web-based nanomaterial database by big data curation and modeling friendly nanostructure annotations",
+    "prefix": "10.1038",
+    "volume": "11",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0003-4173-6228",
+            "authenticated-orcid": false,
+            "given": "Xiliang",
+            "family": "Yan",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Alexander",
+            "family": "Sedykh",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Wenyi",
+            "family": "Wang",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-7970-6764",
+            "authenticated-orcid": false,
+            "given": "Bing",
+            "family": "Yan",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-3559-6129",
+            "authenticated-orcid": false,
+            "given": "Hao",
+            "family": "Zhu",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "297",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                20
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "16413_CR1",
+            "unstructured": "McWilliams, A. The Maturing Nanotechnology Market: Products and Applications (BCC Research, Wellesley, MA, 2016)."
+        },
+        {
+            "key": "16413_CR2",
+            "doi-asserted-by": "publisher",
+            "first-page": "10713",
+            "DOI": "10.1021/es202770m",
+            "volume": "45",
+            "author": "ME Quadros",
+            "year": "2011",
+            "unstructured": "Quadros, M. E. & Marr, L. C. Silver nanoparticles and total aerosols emitted by nanotechnology-related consumer spray products. Environ. Sci. Technol. 45, 10713–10719 (2011).",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "key": "16413_CR3",
+            "doi-asserted-by": "publisher",
+            "first-page": "1175",
+            "DOI": "10.1080/19440049.2012.689778",
+            "volume": "29",
+            "author": "H Stamm",
+            "year": "2012",
+            "unstructured": "Stamm, H., Gibson, N. & Anklam, E. Detection of nanomaterials in food and consumer products: bridging the gap from legislation to enforcement. Food Addit. Contam. 29, 1175–1182 (2012).",
+            "journal-title": "Food Addit. Contam."
+        },
+        {
+            "key": "16413_CR4",
+            "doi-asserted-by": "publisher",
+            "first-page": "1769",
+            "DOI": "10.3762/bjnano.6.181",
+            "volume": "6",
+            "author": "ME Vance",
+            "year": "2015",
+            "unstructured": "Vance, M. E. et al. Nanotechnology in the real world: redeveloping the nanomaterial consumer products inventory. Beilstein J. Nanotechnol. 6, 1769–1780 (2015).",
+            "journal-title": "Beilstein J. Nanotechnol."
+        },
+        {
+            "key": "16413_CR5",
+            "doi-asserted-by": "publisher",
+            "first-page": "388",
+            "DOI": "10.1126/science.aad0768",
+            "volume": "350",
+            "author": "E Valsami-Jones",
+            "year": "2015",
+            "unstructured": "Valsami-Jones, E. & Lynch, I. How safe are nanomaterials? Science 350, 388–389 (2015).",
+            "journal-title": "Science"
+        },
+        {
+            "key": "16413_CR6",
+            "doi-asserted-by": "publisher",
+            "first-page": "5488",
+            "DOI": "10.1002/smll.201601574",
+            "volume": "12",
+            "author": "M Cao",
+            "year": "2016",
+            "unstructured": "Cao, M., Li, J., Tang, J., Chen, C. & Zhao, Y. Gold nanomaterials in consumer cosmetics nanoproducts: analyses, characterization, and dermal safety assessment. Small 12, 5488–5496 (2016).",
+            "journal-title": "Small"
+        },
+        {
+            "key": "16413_CR7",
+            "doi-asserted-by": "publisher",
+            "first-page": "26",
+            "DOI": "10.1002/smll.201303947",
+            "volume": "11",
+            "author": "AB Djurišić",
+            "year": "2015",
+            "unstructured": "Djurišić, A. B. et al. Toxicity of metal oxide nanoparticles: Mechanisms, characterization, and avoiding experimental artefacts. Small 11, 26–44 (2015).",
+            "journal-title": "Small"
+        },
+        {
+            "key": "16413_CR8",
+            "doi-asserted-by": "publisher",
+            "first-page": "3762",
+            "DOI": "10.1039/C3CS60338E",
+            "volume": "43",
+            "author": "Y Zhang",
+            "year": "2014",
+            "unstructured": "Zhang, Y. et al. Perturbation of physiological systems by nanoparticles. Chem. Soc. Rev. 43, 3762–3809 (2014).",
+            "journal-title": "Chem. Soc. Rev."
+        },
+        {
+            "key": "16413_CR9",
+            "doi-asserted-by": "publisher",
+            "first-page": "2323",
+            "DOI": "10.1039/C1CS15188F",
+            "volume": "41",
+            "author": "S Sharifi",
+            "year": "2018",
+            "unstructured": "Sharifi, S. et al. Toxicity of nanomaterials. Chem. Soc. Rev. 41, 2323–2343 (2018).",
+            "journal-title": "Chem. Soc. Rev."
+        },
+        {
+            "key": "16413_CR10",
+            "doi-asserted-by": "publisher",
+            "first-page": "3867",
+            "DOI": "10.2147/IJN.S24582",
+            "volume": "7",
+            "author": "V Maojo",
+            "year": "2012",
+            "unstructured": "Maojo, V. et al. Nanoinformatics: a new area of research in nanomedicine. Int. J. Nanomed. 7, 3867–3890 (2012).",
+            "journal-title": "Int. J. Nanomed."
+        },
+        {
+            "key": "16413_CR11",
+            "doi-asserted-by": "publisher",
+            "first-page": "1752",
+            "DOI": "10.3762/bjnano.6.179",
+            "volume": "6",
+            "author": "CO Hendren",
+            "year": "2015",
+            "unstructured": "Hendren, C. O., Powers, C. M., Hoover, M. D. & Harper, S. L. The nanomaterial data curation initiative: a collaborative approach to assessing, evaluating, and advancing the state of the field. Beilstein J. Nanotechnol. 6, 1752–1762 (2015).",
+            "journal-title": "Beilstein J. Nanotechnol."
+        },
+        {
+            "key": "16413_CR12",
+            "unstructured": "Haase, A. & Klaessig, F. EU US Roadmap Nanoinformatics 2030 (EU NanoSafety Cluster, 2018)."
+        },
+        {
+            "key": "16413_CR13",
+            "doi-asserted-by": "publisher",
+            "first-page": "D1202",
+            "DOI": "10.1093/nar/gkv951",
+            "volume": "44",
+            "author": "S Kim",
+            "year": "2016",
+            "unstructured": "Kim, S. et al. PubChem substance and compound databases. Nucleic Acids Res. 44, D1202–D1213 (2016).",
+            "journal-title": "Nucleic Acids Res."
+        },
+        {
+            "key": "16413_CR14",
+            "doi-asserted-by": "publisher",
+            "first-page": "D271",
+            "DOI": "10.1093/nar/gkw1042",
+            "volume": "45",
+            "author": "PW Rose",
+            "year": "2017",
+            "unstructured": "Rose, P. W. et al. The RCSB protein data bank: Integrative view of protein, gene and 3D structural information. Nucleic Acids Res. 45, D271–D281 (2017).",
+            "journal-title": "Nucleic Acids Res."
+        },
+        {
+            "key": "16413_CR15",
+            "doi-asserted-by": "publisher",
+            "first-page": "014010",
+            "DOI": "10.1088/1749-4699/6/1/014010",
+            "volume": "6",
+            "author": "S Gaheen",
+            "year": "2013",
+            "unstructured": "Gaheen, S. et al. CaNanoLab: data sharing to expedite the use of nanotechnology in biomedicine. Comput. Sci. Disco. 6, 014010 (2013).",
+            "journal-title": "Comput. Sci. Disco."
+        },
+        {
+            "key": "16413_CR16",
+            "doi-asserted-by": "publisher",
+            "first-page": "1902",
+            "DOI": "10.1039/C8EN00061A",
+            "volume": "5",
+            "author": "TX Trinh",
+            "year": "2018",
+            "unstructured": "Trinh, T. X., Ha, M. K., Choi, J. S., Byun, H. G. & Yoon, T. H. Curation of datasets, assessment of their quality and completeness, and nanoSAR classification model development for metallic nanoparticles. Environ. Sci. Nano 5, 1902–1910 (2018).",
+            "journal-title": "Environ. Sci. Nano"
+        },
+        {
+            "key": "16413_CR17",
+            "doi-asserted-by": "publisher",
+            "first-page": "1609",
+            "DOI": "10.3762/bjnano.6.165",
+            "volume": "6",
+            "author": "N Jeliazkova",
+            "year": "2015",
+            "unstructured": "Jeliazkova, N. et al. The eNanoMapper database for nanomaterial safety information. Beilstein J. Nanotechnol. 6, 1609–1634 (2015).",
+            "journal-title": "Beilstein J. Nanotechnol."
+        },
+        {
+            "key": "16413_CR18",
+            "doi-asserted-by": "publisher",
+            "first-page": "2219",
+            "DOI": "10.1007/s11051-013-2219-8",
+            "volume": "16",
+            "author": "KC Mills",
+            "year": "2014",
+            "unstructured": "Mills, K. C., Murry, D., Guzan, K. A. & Ostraat, M. L. Nanomaterial registry: database that captures the minimal information about nanomaterial physico-chemical characteristics. J. Nanopart. Res 16, 2219 (2014).",
+            "journal-title": "J. Nanopart. Res"
+        },
+        {
+            "key": "16413_CR19",
+            "doi-asserted-by": "publisher",
+            "first-page": "D131",
+            "DOI": "10.1080/15459620701683947",
+            "volume": "4",
+            "author": "AL Miller",
+            "year": "2007",
+            "unstructured": "Miller, A. L., Hoover, M. D., Mitchell, D. M. & Stapleton, B. P. The Nanoparticle Information Library (NIL): A prototype for linking and sharing emerging data. J. Occup. Environ. Hyg. 4, D131–D134 (2007).",
+            "journal-title": "J. Occup. Environ. Hyg."
+        },
+        {
+            "key": "16413_CR20",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1038/s41598-017-17765-5",
+            "volume": "8",
+            "author": "MK Ha",
+            "year": "2018",
+            "unstructured": "Ha, M. K. et al. Toxicity classification of oxide nanomaterials: effects of data gap filling and pchem score-based screening approaches. Sci. Rep. 8, 1–11 (2018).",
+            "journal-title": "Sci. Rep."
+        },
+        {
+            "key": "16413_CR21",
+            "doi-asserted-by": "publisher",
+            "first-page": "243",
+            "DOI": "10.1016/j.chemosphere.2018.11.014",
+            "volume": "217",
+            "author": "JS Choi",
+            "year": "2019",
+            "unstructured": "Choi, J. S., Trinh, T. X., Yoon, T. H., Kim, J. & Byun, H. G. Quasi-QSAR for predicting the cell viability of human lung and skin cells exposed to different metal oxide nanomaterials. Chemosphere 217, 243–249 (2019).",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "16413_CR22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1472-6750-13-2",
+            "volume": "13",
+            "author": "DG Thomas",
+            "year": "2013",
+            "unstructured": "Thomas, D. G. et al. ISA-TAB-Nano: a specification for sharing nanomaterial research data in spreadsheet-based format. BMC Biotechnol. 13, 2 (2013).",
+            "journal-title": "BMC Biotechnol."
+        },
+        {
+            "key": "16413_CR23",
+            "doi-asserted-by": "publisher",
+            "unstructured": "Krone, M., Stone, J., Ertl, T. & Schulten, K. Fast visualization of Gaussian density surfaces for molecular dynamics and particle system trajectories. EuroVis(Short Papers) https://doi.org/10.2312/PE/EuroVisShort/EuroVisShort2012/067-071 (2012).",
+            "DOI": "10.2312/PE/EuroVisShort/EuroVisShort2012/067-071"
+        },
+        {
+            "key": "16413_CR24",
+            "doi-asserted-by": "publisher",
+            "first-page": "1647",
+            "DOI": "10.1039/C0CS00018C",
+            "volume": "40",
+            "author": "N Khlebtsov",
+            "year": "2011",
+            "unstructured": "Khlebtsov, N. & Dykman, L. Biodistribution and toxicity of engineered gold nanoparticles: a review of in vitro and in vivo studies. Chem. Soc. Rev. 40, 1647–1671 (2011).",
+            "journal-title": "Chem. Soc. Rev."
+        },
+        {
+            "key": "16413_CR25",
+            "doi-asserted-by": "publisher",
+            "first-page": "5852",
+            "DOI": "10.1021/nn5008572",
+            "volume": "8",
+            "author": "S Huo",
+            "year": "2014",
+            "unstructured": "Huo, S. et al. Ultrasmall gold nanoparticles as carriers for nucleus-based gene therapy due to size-dependent nuclear entry. ACS Nano 8, 5852–5862 (2014).",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "16413_CR26",
+            "doi-asserted-by": "publisher",
+            "first-page": "6325",
+            "DOI": "10.1039/c2nr31345f",
+            "volume": "4",
+            "author": "D Depan",
+            "year": "2012",
+            "unstructured": "Depan, D. & Misra, R. D. K. Hybrid nanoparticle architecture for cellular uptake and bioimaging: direct crystallization of a polymer immobilized with magnetic nanoparticles on carbon nanotubes. Nanoscale 4, 6325–6335 (2012).",
+            "journal-title": "Nanoscale"
+        },
+        {
+            "key": "16413_CR27",
+            "doi-asserted-by": "publisher",
+            "first-page": "8352",
+            "DOI": "10.1039/C9NR00844F",
+            "volume": "11",
+            "author": "X Yan",
+            "year": "2019",
+            "unstructured": "Yan, X. et al. In silico profiling nanoparticles: predictive nanomodeling using universal nanodescriptors and various machine learning approaches. Nanoscale 11, 8352–8362 (2019).",
+            "journal-title": "Nanoscale"
+        },
+        {
+            "key": "16413_CR28",
+            "doi-asserted-by": "publisher",
+            "first-page": "4977",
+            "DOI": "10.1021/jm4004285",
+            "volume": "57",
+            "author": "A Cherkasov",
+            "year": "2014",
+            "unstructured": "Cherkasov, A. et al. QSAR modeling: where have you been? Where are you going to? J. Med. Chem. 57, 4977–5010 (2014).",
+            "journal-title": "J. Med. Chem."
+        },
+        {
+            "key": "16413_CR29",
+            "doi-asserted-by": "publisher",
+            "first-page": "573",
+            "DOI": "10.1146/annurev-pharmtox-010919-023324",
+            "volume": "60",
+            "author": "H Zhu",
+            "year": "2020",
+            "unstructured": "Zhu, H. Big data and artificial intelligence modeling for drug discovery. Annu. Rev. Pharmacol. Toxicol. 60, 573–589 (2020).",
+            "journal-title": "Annu. Rev. Pharmacol. Toxicol."
+        },
+        {
+            "key": "16413_CR30",
+            "doi-asserted-by": "publisher",
+            "first-page": "1762",
+            "DOI": "10.1021/ci9000579",
+            "volume": "49",
+            "author": "H Dragos",
+            "year": "2009",
+            "unstructured": "Dragos, H., Gilles, M. & Alexandre, V. Predicting the predictability: a unified approach to the applicability domain problem of qsar models. J. Chem. Inf. Model. 49, 1762–1776 (2009).",
+            "journal-title": "J. Chem. Inf. Model."
+        },
+        {
+            "key": "16413_CR31",
+            "doi-asserted-by": "publisher",
+            "first-page": "2811",
+            "DOI": "10.1021/jm010488u",
+            "volume": "45",
+            "author": "M Shen",
+            "year": "2002",
+            "unstructured": "Shen, M. et al. Quantitative structure-activity relationship analysis of functionalized amino acid anticonvulsant agents using k nearest neighbor and simulated annealing PLS methods. J. Med. Chem. 45, 2811–2823 (2002).",
+            "journal-title": "J. Med. Chem."
+        },
+        {
+            "key": "16413_CR32",
+            "doi-asserted-by": "publisher",
+            "first-page": "3055",
+            "DOI": "10.1007/s11095-015-1687-1",
+            "volume": "32",
+            "author": "W Wang",
+            "year": "2015",
+            "unstructured": "Wang, W., Kim, M. T., Sedykh, A. & Zhu, H. Developing enhanced blood-brain barrier permeability models: integrating external bio-assay data in QSAR modeling. Pharm. Res. 32, 3055–3065 (2015).",
+            "journal-title": "Pharm. Res."
+        },
+        {
+            "key": "16413_CR33",
+            "doi-asserted-by": "publisher",
+            "first-page": "634",
+            "DOI": "10.1289/ehp.1509763",
+            "volume": "124",
+            "author": "MT Kim",
+            "year": "2016",
+            "unstructured": "Kim, M. T. et al. Mechanism profiling of hepatotoxicity caused by oxidative stress using antioxidant response element reporter gene assay models and big data. Environ. Health Perspect. 124, 634–641 (2016).",
+            "journal-title": "Environ. Health Perspect."
+        },
+        {
+            "key": "16413_CR34",
+            "doi-asserted-by": "publisher",
+            "first-page": "1361",
+            "DOI": "10.1289/ehp.5758",
+            "volume": "111",
+            "author": "L Eriksson",
+            "year": "2003",
+            "unstructured": "Eriksson, L. et al. Methods for reliability and uncertainty assessment and for applicability evaluations of classification- and regression-based QSARs. Environ. Health Perspect. 111, 1361–1375 (2003).",
+            "journal-title": "Environ. Health Perspect."
+        },
+        {
+            "key": "16413_CR35",
+            "doi-asserted-by": "publisher",
+            "first-page": "5441",
+            "DOI": "10.1039/C8SC00148K",
+            "volume": "9",
+            "author": "A Mayr",
+            "year": "2018",
+            "unstructured": "Mayr, A. et al. Large-scale comparison of machine learning methods for drug target prediction on ChEMBL. Chem. Sci. 9, 5441–5451 (2018).",
+            "journal-title": "Chem. Sci."
+        },
+        {
+            "key": "16413_CR36",
+            "doi-asserted-by": "publisher",
+            "first-page": "3240",
+            "DOI": "10.1021/acs.jcim.9b00143",
+            "volume": "59",
+            "author": "C Feng",
+            "year": "2019",
+            "unstructured": "Feng, C. et al. Gene expression data based deep learning model for accurate prediction of drug-induced liver injury in advance. J. Chem. Inf. Model. 59, 3240–3250 (2019).",
+            "journal-title": "J. Chem. Inf. Model."
+        },
+        {
+            "key": "16413_CR37",
+            "doi-asserted-by": "publisher",
+            "first-page": "4361",
+            "DOI": "10.1021/acs.molpharmaceut.8b00546",
+            "volume": "15",
+            "author": "DP Russo",
+            "year": "2018",
+            "unstructured": "Russo, D. P., Zorn, K. M., Clark, A. M., Zhu, H. & Ekins, S. Comparing multiple machine learning algorithms and metrics for estrogen receptor binding prediction. Mol. Pharm. 15, 4361–4370 (2018).",
+            "journal-title": "Mol. Pharm."
+        },
+        {
+            "key": "16413_CR38",
+            "doi-asserted-by": "publisher",
+            "first-page": "4713",
+            "DOI": "10.1021/acsomega.8b00462",
+            "volume": "3",
+            "author": "R Rodríguez-Pérez",
+            "year": "2018",
+            "unstructured": "Rodríguez-Pérez, R., Miyao, T., Jasial, S., Vogt, M. & Bajorath, J. Prediction of compound profiling matrices using machine learning. ACS Omega 3, 4713–4723 (2018).",
+            "journal-title": "ACS Omega"
+        },
+        {
+            "key": "16413_CR39",
+            "doi-asserted-by": "publisher",
+            "first-page": "110216",
+            "DOI": "10.1016/j.ecoenv.2020.110216",
+            "volume": "191",
+            "author": "G Liu",
+            "year": "2020",
+            "unstructured": "Liu, G. et al. Analysis of model PM2.5-induced inflammation and cytotoxicity by the combination of a virtual carbon nanoparticle library and computational modeling. Ecotoxicol. Environ. Saf. 191, 110216 (2020).",
+            "journal-title": "Ecotoxicol. Environ. Saf."
+        },
+        {
+            "key": "16413_CR40",
+            "doi-asserted-by": "publisher",
+            "first-page": "448",
+            "DOI": "10.1016/j.nantod.2012.08.003",
+            "volume": "7",
+            "author": "X Liu",
+            "year": "2012",
+            "unstructured": "Liu, X., Wang, D. & Li, Y. Synthesis and catalytic properties of bimetallic nanomaterials with various architectures. Nano Today 7, 448–466 (2012).",
+            "journal-title": "Nano Today"
+        },
+        {
+            "key": "16413_CR41",
+            "doi-asserted-by": "publisher",
+            "first-page": "691",
+            "DOI": "10.1002/wnan.1332",
+            "volume": "7",
+            "author": "S Movassaghian",
+            "year": "2015",
+            "unstructured": "Movassaghian, S., Merkel, O. M. & Torchilin, V. P. Applications of polymer micelles for imaging and drug delivery.Wiley Interdiscip. Rev. Nanomed. Nanobiotechnol. 7, 691–707 (2015).",
+            "journal-title": "Wiley Interdiscip. Rev. Nanomed. Nanobiotechnol."
+        },
+        {
+            "key": "16413_CR42",
+            "doi-asserted-by": "publisher",
+            "first-page": "1504",
+            "DOI": "10.1002/adma.201104763",
+            "volume": "24",
+            "author": "F Tang",
+            "year": "2012",
+            "unstructured": "Tang, F., Li, L. & Chen, D. Mesoporous silica nanoparticles: synthesis, biocompatibility and drug delivery. Adv. Mater. 24, 1504–1534 (2012).",
+            "journal-title": "Adv. Mater."
+        },
+        {
+            "key": "16413_CR43",
+            "first-page": "1",
+            "volume": "3",
+            "author": "S Dang",
+            "year": "2017",
+            "unstructured": "Dang, S., Zhu, Q. L. & Xu, Q. Nanomaterials derived from metal-organic frameworks. Nat. Rev. Mater. 3, 1–14 (2017).",
+            "journal-title": "Nat. Rev. Mater."
+        },
+        {
+            "key": "16413_CR44",
+            "doi-asserted-by": "publisher",
+            "first-page": "959",
+            "DOI": "10.1007/s10910-010-9719-x",
+            "volume": "48",
+            "author": "AP Toropova",
+            "year": "2010",
+            "unstructured": "Toropova, A. P., Toropov, A. A., Benfenati, E., Leszczynska, D. & Leszczynski, J. QSAR modeling of measured binding affinity for fullerene-based HIV-1 PR inhibitors by CORAL. J. Math. Chem. 48, 959–987 (2010).",
+            "journal-title": "J. Math. Chem."
+        },
+        {
+            "key": "16413_CR45",
+            "doi-asserted-by": "publisher",
+            "first-page": "20012",
+            "DOI": "10.1073/pnas.1215713109",
+            "volume": "109",
+            "author": "X Bai",
+            "year": "2012",
+            "unstructured": "Bai, X., Martin, T. G., Scheres, S. H. W. & Dietz, H. Cryo-EM structure of a 3D DNA-origami object. Proc. Natl Acad. Sci. USA 109, 20012–20017 (2012).",
+            "journal-title": "Proc. Natl Acad. Sci. USA"
+        },
+        {
+            "key": "16413_CR46",
+            "doi-asserted-by": "publisher",
+            "first-page": "234",
+            "DOI": "10.1002/jmr.2183",
+            "volume": "25",
+            "author": "N Nguyen",
+            "year": "2012",
+            "unstructured": "Nguyen, N. et al. The absence of tertiary interactions in a self-assembled DNA crystal structure. J. Mol. Recognit. 25, 234–237 (2012).",
+            "journal-title": "J. Mol. Recognit."
+        },
+        {
+            "key": "16413_CR47",
+            "doi-asserted-by": "crossref",
+            "unstructured": "Dong, Y., Chen, S., Zhang, S. & Sodroski, J. Folding DNA into a lipid-conjugated nanobarrel for controlled reconstitution of membrane proteins. Angew. Chem. 130, 2094–2098 (2018). .",
+            "DOI": "10.1002/ange.201710147"
+        },
+        {
+            "key": "16413_CR48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/ncomms6578",
+            "volume": "5",
+            "author": "K Pan",
+            "year": "2014",
+            "unstructured": "Pan, K. et al. Lattice-free prediction of three-dimensional structure of programmed DNA assemblies. Nat. Commun. 5, 5578 (2014).",
+            "journal-title": "Nat. Commun."
+        },
+        {
+            "key": "16413_CR49",
+            "unstructured": "Slone, S. M. Building DNA Brick Structures with LegoGen. Theoretical and Computational Research at the Interface of Physics, Biology, and Nanotechnology, http://bionano.physics.illinois.edu/tutorials/using-legogen-build-dna-brick-structures (2016)."
+        },
+        {
+            "key": "16413_CR50",
+            "doi-asserted-by": "publisher",
+            "first-page": "1997",
+            "DOI": "10.1002/jcc.23031",
+            "volume": "33",
+            "author": "V Maingi",
+            "year": "2012",
+            "unstructured": "Maingi, V., Jain, V., Bharatam, P. V. & Maiti, P. K. Dendrimer building toolkit: Model building and characterization of various dendrimer architectures. J. Comput. Chem. 33, 1997–2011 (2012).",
+            "journal-title": "J. Comput. Chem."
+        },
+        {
+            "key": "16413_CR51",
+            "first-page": "4121",
+            "volume": "7",
+            "author": "P Schilrreff",
+            "year": "2012",
+            "unstructured": "Schilrreff, P., Mundiña-Weilenmann, C., Romero, E. L. & Morilla, M. J. Selective cytotoxicity of PAMAM G5 core-PAMAM G2.5 shell tecto-dendrimers on melanoma cells. Int. J. Nanomed. 7, 4121–4133 (2012).",
+            "journal-title": "Int. J. Nanomed."
+        },
+        {
+            "key": "16413_CR52",
+            "doi-asserted-by": "publisher",
+            "first-page": "6236",
+            "DOI": "10.1021/ma035629b",
+            "volume": "37",
+            "author": "PK Maiti",
+            "year": "2004",
+            "unstructured": "Maiti, P. K., Çaǧin, T., Wang, G. & Goddard, W. A. Structure of PAMAM dendrimers: generations 1 through 11. Macromolecules 37, 6236–6254 (2004).",
+            "journal-title": "Macromolecules"
+        },
+        {
+            "key": "16413_CR53",
+            "doi-asserted-by": "publisher",
+            "first-page": "91",
+            "DOI": "10.1016/j.taap.2010.04.014",
+            "volume": "246",
+            "author": "PC Naha",
+            "year": "2010",
+            "unstructured": "Naha, P. C., Davoren, M., Lyng, F. M. & Byrne, H. J. Reactive oxygen species (ROS) induced cytokine production and cytotoxicity of PAMAM dendrimers in J774A.1 cells. Toxicol. Appl. Pharmacol. 246, 91–99 (2010).",
+            "journal-title": "Toxicol. Appl. Pharmacol."
+        },
+        {
+            "key": "16413_CR54",
+            "doi-asserted-by": "publisher",
+            "first-page": "998",
+            "DOI": "10.1021/acs.jcim.5b00025",
+            "volume": "55",
+            "author": "X Yan",
+            "year": "2015",
+            "unstructured": "Yan, X., Fan, J., Yu, Y., Xu, J. & Zhang, M. Transport behavior of a single Ca2+, K+, and Na+ in a water-filled transmembrane cyclic peptide nanotube. J. Chem. Inf. Model. 55, 998–1011 (2015).",
+            "journal-title": "J. Chem. Inf. Model."
+        },
+        {
+            "key": "16413_CR55",
+            "doi-asserted-by": "publisher",
+            "first-page": "12641",
+            "DOI": "10.1021/acsnano.7b07093",
+            "volume": "11",
+            "author": "W Wang",
+            "year": "2017",
+            "unstructured": "Wang, W. et al. Predicting nano-bio interactions by integrating nanoparticle libraries and quantitative nanostructure activity relationship modeling. ACS Nano 11, 12641–12649 (2017).",
+            "journal-title": "ACS Nano"
+        }
+    ],
+    "container-title": "Nature Communications",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://www.nature.com/articles/s41467-020-16413-3.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "http://www.nature.com/articles/s41467-020-16413-3",
+            "content-type": "text/html",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "http://www.nature.com/articles/s41467-020-16413-3.pdf",
+            "content-type": "application/pdf",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                12,
+                2
+            ]
+        ],
+        "date-time": "2021-12-02T06:52:08Z",
+        "timestamp": 1638427928000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "http://www.nature.com/articles/s41467-020-16413-3"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                20
+            ]
+        ]
+    },
+    "references-count": 55,
+    "journal-issue": {
+        "issue": "1",
+        "published-print": {
+            "date-parts": [
+                [
+                    2020,
+                    12
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "16413"
+    ],
+    "URL": "http://dx.doi.org/10.1038/s41467-020-16413-3",
+    "relation": {},
+    "ISSN": [
+        "2041-1723"
+    ],
+    "subject": [
+        "General Physics and Astronomy",
+        "General Biochemistry, Genetics and Molecular Biology",
+        "General Chemistry"
+    ],
+    "container-title-short": "Nat Commun",
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                5,
+                20
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "9 January 2020",
+            "order": 1,
+            "name": "received",
+            "label": "Received",
+            "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+            }
+        },
+        {
+            "value": "22 April 2020",
+            "order": 2,
+            "name": "accepted",
+            "label": "Accepted",
+            "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+            }
+        },
+        {
+            "value": "20 May 2020",
+            "order": 3,
+            "name": "first_online",
+            "label": "First Online",
+            "group": {
+                "name": "ArticleHistory",
+                "label": "Article History"
+            }
+        },
+        {
+            "value": "The authors declare no competing interests.",
+            "order": 1,
+            "name": "Ethics",
+            "group": {
+                "name": "EthicsHeading",
+                "label": "Competing interests"
+            }
+        }
+    ],
+    "article-number": "2519"
+}

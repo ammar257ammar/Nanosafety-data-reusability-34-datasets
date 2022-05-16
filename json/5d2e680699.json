@@ -1,0 +1,803 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                22
+            ]
+        ],
+        "date-time": "2022-04-22T19:29:07Z",
+        "timestamp": 1650655747011
+    },
+    "reference-count": 106,
+    "publisher": "MDPI AG",
+    "issue": "10",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2020,
+                        10,
+                        13
+                    ]
+                ],
+                "date-time": "2020-10-13T00:00:00Z",
+                "timestamp": 1602547200000
+            },
+            "content-version": "unspecified",
+            "delay-in-days": 0,
+            "URL": "https://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "funder": [
+        {
+            "DOI": "10.13039/501100012334",
+            "name": "Research and Innovation Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "POST-DOC/0718/0070"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "abstract": "<jats:p>A literature curated dataset containing 24 distinct metal oxide (MexOy) nanoparticles (NPs), including 15 physicochemical, structural and assay-related descriptors, was enriched with 62 atomistic computational descriptors and exploited to produce a robust and validated in silico model for prediction of NP cytotoxicity. The model can be used to predict the cytotoxicity (cell viability) of MexOy NPs based on the colorimetric lactate dehydrogenase (LDH) assay and the luminometric adenosine triphosphate (ATP) assay, both of which quantify irreversible cell membrane damage. Out of the 77 total descriptors used, 7 were identified as being significant for induction of cytotoxicity by MexOy NPs. These were NP core size, hydrodynamic size, assay type, exposure dose, the energy of the MexOy conduction band (EC), the coordination number of the metal atoms on the NP surface (Avg. C.N. Me atoms surface) and the average force vector surface normal component of all metal atoms (v⊥ Me atoms surface). The significance and effect of these descriptors is discussed to demonstrate their direct correlation with cytotoxicity. The produced model has been made publicly available by the Horizon 2020 (H2020) NanoSolveIT project and will be added to the project’s Integrated Approach to Testing and Assessment (IATA).</jats:p>",
+    "DOI": "10.3390/nano10102017",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2020,
+                10,
+                14
+            ]
+        ],
+        "date-time": "2020-10-14T01:48:38Z",
+        "timestamp": 1602640118000
+    },
+    "page": "2017",
+    "source": "Crossref",
+    "is-referenced-by-count": 19,
+    "title": "Predicting Cytotoxicity of Metal Oxide Nanoparticles Using Isalos Analytics Platform",
+    "prefix": "10.3390",
+    "volume": "10",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0002-1297-3104",
+            "authenticated-orcid": false,
+            "given": "Anastasios G.",
+            "family": "Papadiamantis",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Jaak",
+            "family": "Jänes",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0001-8753-8134",
+            "authenticated-orcid": false,
+            "given": "Evangelos",
+            "family": "Voyiatzis",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Lauri",
+            "family": "Sikk",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0001-8761-8580",
+            "authenticated-orcid": false,
+            "given": "Jaanus",
+            "family": "Burk",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0001-5503-664X",
+            "authenticated-orcid": false,
+            "given": "Peeter",
+            "family": "Burk",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Andreas",
+            "family": "Tsoumanis",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-6262-341X",
+            "authenticated-orcid": false,
+            "given": "My Kieu",
+            "family": "Ha",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-2743-6360",
+            "authenticated-orcid": false,
+            "given": "Tae Hyun",
+            "family": "Yoon",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-8850-7556",
+            "authenticated-orcid": false,
+            "given": "Eugenia",
+            "family": "Valsami-Jones",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0003-4250-4584",
+            "authenticated-orcid": false,
+            "given": "Iseult",
+            "family": "Lynch",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0001-7547-2342",
+            "authenticated-orcid": false,
+            "given": "Georgia",
+            "family": "Melagraki",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-7401-4435",
+            "authenticated-orcid": false,
+            "given": "Kaido",
+            "family": "Tämm",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0002-0977-8180",
+            "authenticated-orcid": false,
+            "given": "Antreas",
+            "family": "Afantitis",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "1968",
+    "published-online": {
+        "date-parts": [
+            [
+                2020,
+                10,
+                13
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ref1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3762/bjnano.9.98"
+        },
+        {
+            "key": "ref2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1116/1.2815690"
+        },
+        {
+            "key": "ref3",
+            "series-title": "Synthesis, Properties, and Applications of Oxide Nanomaterials",
+            "author": "Rodríguez",
+            "year": "2007"
+        },
+        {
+            "key": "ref4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201303947"
+        },
+        {
+            "key": "ref5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nl0625372"
+        },
+        {
+            "key": "ref6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17458080.2010.517571"
+        },
+        {
+            "key": "ref7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/cr068445e"
+        },
+        {
+            "key": "ref8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.5923/j.nn.20120206.01"
+        },
+        {
+            "key": "ref9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ccr.2015.08.002"
+        },
+        {
+            "key": "ref10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3762/bjnano.6.181"
+        },
+        {
+            "key": "ref11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.1114397"
+        },
+        {
+            "key": "ref12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/tx200470e"
+        },
+        {
+            "key": "ref13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn800511k"
+        },
+        {
+            "key": "ref14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2013/942916"
+        },
+        {
+            "key": "ref15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tox.2009.08.016"
+        },
+        {
+            "key": "ref16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tox.2012.05.010"
+        },
+        {
+            "key": "ref17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jat.2957"
+        },
+        {
+            "key": "ref18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.nano.2011.01.014"
+        },
+        {
+            "key": "ref19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/c2mt20016c"
+        },
+        {
+            "key": "ref20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ecoenv.2017.08.024"
+        },
+        {
+            "key": "ref21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2020.126066"
+        },
+        {
+            "key": "ref22",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2016.08.039"
+        },
+        {
+            "key": "ref23",
+            "series-title": "The Principles of Humane Experimental Technique",
+            "author": "Russell",
+            "year": "1959"
+        },
+        {
+            "key": "ref24",
+            "unstructured": "Legislation for the Protection of Animals Used for Scientific Purposeshttps://ec.europa.eu/environment/chemicals/lab_animals/legislation_en.htm"
+        },
+        {
+            "key": "ref25",
+            "first-page": "101",
+            "article-title": "3R principle and alternative toxicity testing methods",
+            "volume": "36",
+            "author": "Erkekoglu",
+            "year": "2011",
+            "journal-title": "Fabad J. Pharm. Sci."
+        },
+        {
+            "key": "ref26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.tibtech.2006.06.003"
+        },
+        {
+            "key": "ref27",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1371/journal.pone.0101638"
+        },
+        {
+            "key": "ref28",
+            "unstructured": "Guidance Document on the Validation of (Quantitative) Structure-Activity Relationship [(Q)SAR] Modelshttps://www.oecd.org/env/guidance-document-on-the-validation-of-quantitative-structure-activity-relationship-q-sar-models-9789264085442-en.htm"
+        },
+        {
+            "key": "ref29",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.202001883"
+        },
+        {
+            "key": "ref30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.est.5b05918"
+        },
+        {
+            "key": "ref31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-1-4939-7899-1_5"
+        },
+        {
+            "key": "ref32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fenvs.2015.00080"
+        },
+        {
+            "key": "ref33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envint.2020.105557"
+        },
+        {
+            "key": "ref34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2018/2591924"
+        },
+        {
+            "key": "ref35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.202001080"
+        },
+        {
+            "key": "ref36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/minf.201800156"
+        },
+        {
+            "key": "ref37",
+            "series-title": "Handbook of Research on the Adverse Effects of Pesticide Pollution in Aquatic Ecosystems",
+            "first-page": "318",
+            "article-title": "Computational Tools and Techniques to Predict Aquatic Toxicity of Some Halogenated Pollutants",
+            "author": "Satpathy",
+            "year": "2019"
+        },
+        {
+            "key": "ref38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/wcms.1240"
+        },
+        {
+            "key": "ref39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.jcim.7b00160"
+        },
+        {
+            "key": "ref40",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C6NR04376C"
+        },
+        {
+            "key": "ref41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nnano.2011.10"
+        },
+        {
+            "key": "ref42",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ecoenv.2014.10.003"
+        },
+        {
+            "key": "ref43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2012.05.077"
+        },
+        {
+            "key": "ref44",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.200900179"
+        },
+        {
+            "key": "ref45",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn3010087"
+        },
+        {
+            "key": "ref46",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.cplett.2016.08.018"
+        },
+        {
+            "key": "ref47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2020.1808252"
+        },
+        {
+            "key": "ref48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201906588"
+        },
+        {
+            "key": "ref49",
+            "unstructured": "Nano-Image: Extracting Data from Microscopy Imageshttps://nanoimage.jaqpot.org/"
+        },
+        {
+            "key": "ref50",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.addr.2012.05.014"
+        },
+        {
+            "key": "ref51",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2013.03.012"
+        },
+        {
+            "key": "ref52",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11224-016-0838-2"
+        },
+        {
+            "key": "ref53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C8NR05220D"
+        },
+        {
+            "key": "ref54",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/adhm.201601379"
+        },
+        {
+            "key": "ref55",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/nn203303c"
+        },
+        {
+            "key": "ref56",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C9NR00844F"
+        },
+        {
+            "key": "ref57",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nnano.2010.164"
+        },
+        {
+            "key": "ref58",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.csbj.2020.02.023"
+        },
+        {
+            "key": "ref59",
+            "unstructured": "H2020 NanoCommons e-Infrastructure Projecthttp://www.nanocommons.eu"
+        },
+        {
+            "key": "ref60",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41598-018-21431-9"
+        },
+        {
+            "key": "ref61",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/nano9091233"
+        },
+        {
+            "key": "ref62",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemosphere.2020.127654"
+        },
+        {
+            "key": "ref63",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/smll.201900510"
+        },
+        {
+            "key": "ref64",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nnano.2015.338"
+        },
+        {
+            "key": "ref65",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acsnano.8b07562"
+        },
+        {
+            "key": "ref66",
+            "first-page": "35",
+            "article-title": "Note sur la convergence de méthodes de directions conjuguées",
+            "volume": "3",
+            "author": "Polak",
+            "year": "1969",
+            "journal-title": "ESAIM Math. Model. Numer. Anal. Modélisation Mathématique Anal. Numérique"
+        },
+        {
+            "key": "ref67",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1098/rspa.1938.0173"
+        },
+        {
+            "key": "ref68",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1063/1.478738"
+        },
+        {
+            "key": "ref69",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/andp.19213690304"
+        },
+        {
+            "key": "ref70",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1006/jcph.1995.1039"
+        },
+        {
+            "key": "ref71",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2174/0929867327666200727114410"
+        },
+        {
+            "key": "ref72",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C4RA07756C"
+        },
+        {
+            "key": "ref73",
+            "unstructured": "Enalos+ KNIME Nodeshttp://enalosplus.novamechanics.com/"
+        },
+        {
+            "key": "ref74",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-1-4939-8630-9_7"
+        },
+        {
+            "key": "ref75",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.chemolab.2011.08.007"
+        },
+        {
+            "key": "ref76",
+            "series-title": "An Introduction to Chemoinformatics",
+            "author": "Leach",
+            "year": "2007"
+        },
+        {
+            "key": "ref77",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1145/1656274.1656278"
+        },
+        {
+            "key": "ref78",
+            "series-title": "Data Mining: Practical Machine Learning Tools and Techniques",
+            "author": "Witten",
+            "year": "2016"
+        },
+        {
+            "key": "ref79"
+        },
+        {
+            "key": "ref80",
+            "series-title": "Discovering Knowledge in Data: An Introduction to Data Mining",
+            "author": "Larose",
+            "year": "2014"
+        },
+        {
+            "key": "ref81",
+            "unstructured": "Read-Across Assessment Framework (RAAF)https://echa.europa.eu/documents/10162/13628/raaf_en.pdf"
+        },
+        {
+            "key": "ref82",
+            "unstructured": "Validation of (Q)SAR Modelshttps://www.oecd.org/chemicalsafety/risk-assessment/validationofqsarmodels.htm"
+        },
+        {
+            "key": "ref83",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/ci060132x"
+        },
+        {
+            "key": "ref84",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.fct.2017.09.037"
+        },
+        {
+            "key": "ref85",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/minf.201000061"
+        },
+        {
+            "key": "ref86",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/qsar.200390007"
+        },
+        {
+            "key": "ref87",
+            "doi-asserted-by": "crossref",
+            "article-title": "Metadata stewardship in nanosafety research: Community-driven organisation of metadata schemas to support FAIR nanoscience data",
+            "author": "Papadiamantis",
+            "year": "2020",
+            "journal-title": "Naomaterials",
+            "DOI": "10.3390/nano10102033"
+        },
+        {
+            "key": "ref88",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1101/739334"
+        },
+        {
+            "key": "ref89",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1111/bcpt.12963"
+        },
+        {
+            "key": "ref90",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C6TX00100A"
+        },
+        {
+            "key": "ref91",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1093/toxsci/kfx228"
+        },
+        {
+            "key": "ref92",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/1354750X.2019.1620336"
+        },
+        {
+            "key": "ref93",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1166/jnn.2018.14874"
+        },
+        {
+            "key": "ref94",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2010.541604"
+        },
+        {
+            "key": "ref95",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/s12989-014-0065-1"
+        },
+        {
+            "key": "ref96",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3109/17435390.2014.986670"
+        },
+        {
+            "key": "ref97",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/nmat2442"
+        },
+        {
+            "key": "ref98",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2147/IJN.S33120"
+        },
+        {
+            "key": "ref99",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/jbt.22225"
+        },
+        {
+            "key": "ref100",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11051-008-9446-4"
+        },
+        {
+            "key": "ref101",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jcis.2009.04.046"
+        },
+        {
+            "key": "ref102",
+            "series-title": "Physical Chemistry: Thermodynamics, Structure, and Change",
+            "author": "Atkins",
+            "year": "2014"
+        },
+        {
+            "key": "ref103",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1073/pnas.0608582104"
+        },
+        {
+            "key": "ref104",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/nano10030401"
+        },
+        {
+            "key": "ref105",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1186/1743-8977-11-11"
+        },
+        {
+            "key": "ref106",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/978-1-0716-0150-1_31"
+        }
+    ],
+    "container-title": "Nanomaterials",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://www.mdpi.com/2079-4991/10/10/2017/pdf",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2020,
+                10,
+                19
+            ]
+        ],
+        "date-time": "2020-10-19T14:15:42Z",
+        "timestamp": 1603116942000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://www.mdpi.com/2079-4991/10/10/2017"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2020,
+                10,
+                13
+            ]
+        ]
+    },
+    "references-count": 106,
+    "journal-issue": {
+        "issue": "10",
+        "published-online": {
+            "date-parts": [
+                [
+                    2020,
+                    10
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "nano10102017"
+    ],
+    "URL": "http://dx.doi.org/10.3390/nano10102017",
+    "relation": {},
+    "ISSN": [
+        "2079-4991"
+    ],
+    "subject": [
+        "General Materials Science",
+        "General Chemical Engineering"
+    ],
+    "container-title-short": "Nanomaterials",
+    "published": {
+        "date-parts": [
+            [
+                2020,
+                10,
+                13
+            ]
+        ]
+    }
+}

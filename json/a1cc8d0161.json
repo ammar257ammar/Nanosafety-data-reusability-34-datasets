@@ -1,0 +1,697 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                8
+            ]
+        ],
+        "date-time": "2022-04-08T21:48:44Z",
+        "timestamp": 1649454524932
+    },
+    "reference-count": 46,
+    "publisher": "Elsevier BV",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        1,
+                        1
+                    ]
+                ],
+                "date-time": "2021-01-01T00:00:00Z",
+                "timestamp": 1609459200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        },
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        2,
+                        9
+                    ]
+                ],
+                "date-time": "2021-02-09T00:00:00Z",
+                "timestamp": 1612828800000
+            },
+            "content-version": "vor",
+            "delay-in-days": 39,
+            "URL": "http://creativecommons.org/licenses/by/4.0/"
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                1
+            ]
+        ]
+    },
+    "DOI": "10.1016/j.impact.2021.100298",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                7
+            ]
+        ],
+        "date-time": "2021-02-07T07:38:17Z",
+        "timestamp": 1612683497000
+    },
+    "page": "100298",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 4,
+    "title": "Use of size-dependent electron configuration fingerprint to develop general prediction models for nanomaterials",
+    "prefix": "10.1016",
+    "volume": "21",
+    "author": [
+        {
+            "given": "Hyun Kil",
+            "family": "Shin",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Soojin",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Seokjoo",
+            "family": "Yoon",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "78",
+    "reference": [
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0005",
+            "first-page": "53",
+            "article-title": "Metal oxide nanoparticles: size-dependence of quantum-mechanical properties",
+            "volume": "1",
+            "author": "Agnieszka",
+            "year": "2011",
+            "journal-title": "Nanoscience & Nanotechnology-Asia"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0010",
+            "doi-asserted-by": "crossref",
+            "first-page": "1316",
+            "DOI": "10.1021/acs.jcim.5b00206",
+            "article-title": "Beware of R2: simple, unambiguous assessment of the prediction accuracy of QSAR and QSPR models",
+            "volume": "55",
+            "author": "Alexander",
+            "year": "2015",
+            "journal-title": "J. Chem. Information Model."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0015",
+            "doi-asserted-by": "crossref",
+            "first-page": "634",
+            "DOI": "10.1038/nnano.2009.242",
+            "article-title": "Towards a definition of inorganic nanoparticles from an environmental, health and safety perspective",
+            "volume": "4",
+            "author": "Auffan",
+            "year": "2009",
+            "journal-title": "Nat. Nanotechnol."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0020",
+            "doi-asserted-by": "crossref",
+            "first-page": "60135",
+            "DOI": "10.1039/C4RA10375K",
+            "article-title": "Towards defining new nano-descriptors: extracting morphological features from transmission electron microscopy images",
+            "volume": "4",
+            "author": "Bigdeli",
+            "year": "2014",
+            "journal-title": "RSC Adv."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0025",
+            "doi-asserted-by": "crossref",
+            "first-page": "57030",
+            "DOI": "10.1039/C5RA06198A",
+            "article-title": "Using nano-QSAR to determine the most responsible factor(s) in gold nanoparticle exocytosis",
+            "volume": "5",
+            "author": "Bigdeli",
+            "year": "2015",
+            "journal-title": "RSC Adv."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0030",
+            "doi-asserted-by": "crossref",
+            "first-page": "228",
+            "DOI": "10.3109/17435390.2010.502980",
+            "article-title": "A theoretical framework for predicting the oxidative stress potential of oxide nanoparticles",
+            "volume": "5",
+            "author": "Burello",
+            "year": "2011",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0035",
+            "doi-asserted-by": "crossref",
+            "first-page": "43",
+            "DOI": "10.1186/s13321-020-00445-4",
+            "article-title": "One molecular fingerprint to rule them all: drugs, biomolecules, and the metabolome",
+            "volume": "12",
+            "author": "Capecchi",
+            "year": "2020",
+            "journal-title": "J. Cheminformatics"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0040",
+            "doi-asserted-by": "crossref",
+            "first-page": "58",
+            "DOI": "10.1016/j.ymeth.2014.08.005",
+            "article-title": "Molecular fingerprint similarity search in virtual screening",
+            "volume": "71",
+            "author": "Cereto-Massagué",
+            "year": "2015",
+            "journal-title": "Methods"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0045",
+            "doi-asserted-by": "crossref",
+            "first-page": "8489",
+            "DOI": "10.1039/c2ra21489j",
+            "article-title": "Quantitative nanostructure–activity relationship modelling of nanoparticles",
+            "volume": "2",
+            "author": "Chau",
+            "year": "2012",
+            "journal-title": "RSC Adv."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0050",
+            "doi-asserted-by": "crossref",
+            "first-page": "5808",
+            "DOI": "10.1021/nl303144k",
+            "article-title": "Modeling biological activities of nanoparticles",
+            "volume": "12",
+            "author": "Epa",
+            "year": "2012",
+            "journal-title": "Nano Lett."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0055",
+            "doi-asserted-by": "crossref",
+            "first-page": "1361",
+            "DOI": "10.1289/ehp.5758",
+            "article-title": "Methods for reliability and uncertainty assessment and for applicability evaluations of classification- and regression-based QSARs",
+            "volume": "111",
+            "author": "Eriksson",
+            "year": "2003",
+            "journal-title": "Environ. Health Perspect."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0060",
+            "doi-asserted-by": "crossref",
+            "first-page": "5703",
+            "DOI": "10.1021/nn1013484",
+            "article-title": "Quantitative nanostructure−activity relationship modeling",
+            "volume": "4",
+            "author": "Fourches",
+            "year": "2010",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0065",
+            "doi-asserted-by": "crossref",
+            "first-page": "313",
+            "DOI": "10.3109/17435390.2014.930195",
+            "article-title": "Towards understanding mechanisms governing cytotoxicity of metal oxides nanoparticles: hints from nano-QSAR studies",
+            "volume": "9",
+            "author": "Gajewicz",
+            "year": "2015",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0070",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1080/17435390.2017.1415388",
+            "article-title": "Decision tree models to classify nanomaterials according to the DF4nanoGrouping scheme",
+            "volume": "12",
+            "author": "Gajewicz",
+            "year": "2018",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0075",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1111/risa.12109",
+            "article-title": "A meta-analysis of carbon nanotube pulmonary toxicity studies—how physical dimensions and impurities affect the toxicity of carbon nanotubes",
+            "volume": "34",
+            "author": "Gernand",
+            "year": "2014",
+            "journal-title": "Risk Anal."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0080",
+            "doi-asserted-by": "crossref",
+            "first-page": "100182",
+            "DOI": "10.1016/j.impact.2019.100182",
+            "article-title": "Nanomaterial grouping: Existing approaches and future recommendations",
+            "volume": "16",
+            "author": "Giusti",
+            "year": "2019",
+            "journal-title": "NanoImpact"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0085",
+            "doi-asserted-by": "crossref",
+            "first-page": "269",
+            "DOI": "10.1016/S1093-3263(01)00123-1",
+            "article-title": "Beware of q2",
+            "volume": "20",
+            "author": "Golbraikh",
+            "year": "2002",
+            "journal-title": "J. Mol. Graph. Model."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0090",
+            "doi-asserted-by": "crossref",
+            "first-page": "61",
+            "DOI": "10.4018/IJQSPR.20200701.oa1",
+            "article-title": "Principles of QSAR modeling: comments and suggestions from personal experience",
+            "volume": "5",
+            "author": "Gramatica",
+            "year": "2020",
+            "journal-title": "Int. J. Quant. Struct. Prop. Relationships"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0095",
+            "doi-asserted-by": "crossref",
+            "first-page": "90",
+            "DOI": "10.1109/MCSE.2007.55",
+            "article-title": "A 2D graphics environment",
+            "volume": "9",
+            "author": "Hunter",
+            "year": "2007",
+            "journal-title": "Computing in Science & Engineering"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0100",
+            "doi-asserted-by": "crossref",
+            "first-page": "1788",
+            "DOI": "10.3762/bjnano.6.183",
+            "article-title": "NanoE-Tox: new and in-depth database concerning ecotoxicity of nanomaterials",
+            "volume": "6",
+            "author": "Juganson",
+            "year": "2015",
+            "journal-title": "Beilstein J. Nanotechnol."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0105",
+            "doi-asserted-by": "crossref",
+            "first-page": "162",
+            "DOI": "10.1016/j.ecoenv.2014.05.026",
+            "article-title": "Periodic table-based descriptors to encode cytotoxicity profile of metal oxide nanoparticles: A mechanistic QSTR approach",
+            "volume": "107",
+            "author": "Kar",
+            "year": "2014",
+            "journal-title": "Ecotoxicology and Environmental Safety"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0110",
+            "doi-asserted-by": "crossref",
+            "first-page": "100",
+            "DOI": "10.1080/17435390.2018.1506060",
+            "article-title": "Grouping of nanomaterials to read-across hazard endpoints: a review",
+            "volume": "13",
+            "author": "Lamon",
+            "year": "2019",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0115",
+            "doi-asserted-by": "crossref",
+            "first-page": "1118",
+            "DOI": "10.1002/smll.201002366",
+            "article-title": "Classification NanoSAR development for cytotoxicity of metal oxide nanoparticles",
+            "volume": "7",
+            "author": "Liu",
+            "year": "2011",
+            "journal-title": "Small"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0120",
+            "doi-asserted-by": "crossref",
+            "first-page": "5644",
+            "DOI": "10.1039/c3nr01533e",
+            "article-title": "Development of structure–activity relationship for metal oxide nanoparticles",
+            "volume": "5",
+            "author": "Liu",
+            "year": "2013",
+            "journal-title": "Nanoscale"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0125",
+            "series-title": "Data Mining and Knowledge Discovery Handbook",
+            "first-page": "1221",
+            "author": "Maimon",
+            "year": "2010"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0130",
+            "doi-asserted-by": "crossref",
+            "first-page": "674",
+            "DOI": "10.1021/ci0202741",
+            "article-title": "A consensus neural network-based technique for discriminating soluble and poorly soluble compounds",
+            "volume": "43",
+            "author": "Manallack",
+            "year": "2003",
+            "journal-title": "J. Chem. Inf. Comput. Sci."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0135",
+            "doi-asserted-by": "crossref",
+            "first-page": "1978",
+            "DOI": "10.3762/bjnano.6.202",
+            "article-title": "An ISA-TAB-Nano based data collection framework to support data-driven modelling of nanotoxicology",
+            "volume": "6",
+            "author": "Marchese Robinson",
+            "year": "2015",
+            "journal-title": "Beilstein J. Nanotechnol."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0140",
+            "series-title": "CRC Handbook of Chemistry and Physics",
+            "first-page": "1",
+            "author": "Martin",
+            "year": "2016"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0145",
+            "doi-asserted-by": "crossref",
+            "first-page": "2400",
+            "DOI": "10.1021/cm504406a",
+            "article-title": "Zeta potential for metal oxide nanoparticles: a predictive model developed by a Nano-quantitative structure–property relationship approach",
+            "volume": "27",
+            "author": "Mikolajczyk",
+            "year": "2015",
+            "journal-title": "Chem. Mater."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0150",
+            "doi-asserted-by": "crossref",
+            "first-page": "1207",
+            "DOI": "10.1080/17435390.2016.1202352",
+            "article-title": "Predicting toxic potencies of metal oxide nanoparticles by means of nano-QSARs",
+            "volume": "10",
+            "author": "Mu",
+            "year": "2016",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0155",
+            "doi-asserted-by": "crossref",
+            "first-page": "479",
+            "DOI": "10.1038/nnano.2015.338",
+            "article-title": "Meta-analysis of cellular toxicity for cadmium-containing quantum dots",
+            "volume": "11",
+            "author": "Oh",
+            "year": "2016",
+            "journal-title": "Nat. Nanotechnol."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0160",
+            "first-page": "2825",
+            "article-title": "Scikit-learn: machine learning in python",
+            "volume": "12",
+            "author": "Pedregosa",
+            "year": "2011",
+            "journal-title": "J. Mach. Learn. Res."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0165",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1038/nnano.2011.10",
+            "article-title": "Using nano-QSAR to predict the cytotoxicity of metal oxide nanoparticles",
+            "volume": "6",
+            "author": "Puzyn",
+            "year": "2011",
+            "journal-title": "Nat. Nanotechnol."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0170",
+            "article-title": "Dose-response analysis using R",
+            "volume": "10",
+            "author": "Ritz",
+            "year": "2016",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0175",
+            "doi-asserted-by": "crossref",
+            "first-page": "2756",
+            "DOI": "10.3390/molecules23112756",
+            "article-title": "Study of the applicability domain of the QSAR classification models by means of the rivality and modelability indexes",
+            "volume": "23",
+            "author": "Ruiz",
+            "year": "2018",
+            "journal-title": "Molecules"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0180",
+            "doi-asserted-by": "crossref",
+            "first-page": "6",
+            "DOI": "10.1186/s13321-020-0410-3",
+            "article-title": "Development of natural compound molecular fingerprint (NC-MFP) with the dictionary of natural products (DNP) for natural product-based drug development",
+            "volume": "12",
+            "author": "Seo",
+            "year": "2020",
+            "journal-title": "Journal of Cheminformatics"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0185",
+            "doi-asserted-by": "crossref",
+            "first-page": "7387",
+            "DOI": "10.1073/pnas.0802878105",
+            "article-title": "Perturbational profiling of nanomaterial biologic activity",
+            "volume": "105",
+            "author": "Shaw",
+            "year": "2008",
+            "journal-title": "Proc. Natl. Acad. Sci. U. S. A."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0190",
+            "doi-asserted-by": "crossref",
+            "first-page": "33268",
+            "DOI": "10.1039/D0RA05873D",
+            "article-title": "Electron configuration-based neural network model to predict physicochemical properties of inorganic compounds",
+            "volume": "10",
+            "author": "Shin",
+            "year": "2020",
+            "journal-title": "RSC Adv."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0195",
+            "doi-asserted-by": "crossref",
+            "first-page": "875",
+            "DOI": "10.1080/1062936X.2017.1400998",
+            "article-title": "Use of metal/metal oxide spherical cluster and hydroxyl metal coordination complex for descriptor calculation in development of nanoparticle cytotoxicity classification model",
+            "volume": "28",
+            "author": "Shin",
+            "year": "2017",
+            "journal-title": "SAR and QSAR in Environmental Research"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0200",
+            "first-page": "765",
+            "article-title": "Meta-analysis of Daphnia magna nanotoxicity experiments in accordance with test guidelines",
+            "volume": "5",
+            "author": "Shin",
+            "year": "2018",
+            "journal-title": "Environmental Science: Nano"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0205",
+            "doi-asserted-by": "crossref",
+            "first-page": "13215",
+            "DOI": "10.1039/C4RA01274G",
+            "article-title": "Nano-QSAR modeling for predicting biological activity of diverse nanomaterials",
+            "volume": "4",
+            "author": "Singh",
+            "year": "2014",
+            "journal-title": "RSC Adv."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0210",
+            "doi-asserted-by": "crossref",
+            "first-page": "13986",
+            "DOI": "10.1039/C4NR03487B",
+            "article-title": "From basic physics to mechanisms of toxicity: the “liquid drop” approach applied to develop predictive classification models for toxicity of metal oxide nanoparticles",
+            "volume": "6",
+            "author": "Sizochenko",
+            "year": "2014",
+            "journal-title": "Nanoscale"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0215",
+            "doi-asserted-by": "crossref",
+            "first-page": "32",
+            "DOI": "10.1016/j.ecoenv.2015.09.038",
+            "article-title": "Nano-QSAR: Model of mutagenicity of fullerene as a mathematical function of different conditions",
+            "volume": "124",
+            "author": "Toropova",
+            "year": "2016",
+            "journal-title": "Ecotoxicol. Environ. Saf."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0220",
+            "doi-asserted-by": "crossref",
+            "first-page": "261",
+            "DOI": "10.1038/s41592-019-0686-2",
+            "article-title": "SciPy 1.0: fundamental algorithms for scientific computing in python",
+            "volume": "17",
+            "author": "Virtanen",
+            "year": "2020",
+            "journal-title": "Nat. Methods"
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0225",
+            "doi-asserted-by": "crossref",
+            "first-page": "1418",
+            "DOI": "10.1038/nbt1159",
+            "article-title": "Cell-specific targeting of nanoparticles by multivalent attachment of small molecules",
+            "volume": "23",
+            "author": "Weissleder",
+            "year": "2005",
+            "journal-title": "Nat. Biotechnol."
+        },
+        {
+            "key": "10.1016/j.impact.2021.100298_bb0230",
+            "doi-asserted-by": "crossref",
+            "first-page": "4349",
+            "DOI": "10.1021/nn3010087",
+            "article-title": "Use of metal oxide nanoparticle band gap to develop a predictive paradigm for oxidative stress and acute pulmonary inflammation",
+            "volume": "6",
+            "author": "Zhang",
+            "year": "2012",
+            "journal-title": "ACS Nano"
+        }
+    ],
+    "container-title": "NanoImpact",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S2452074821000070?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S2452074821000070?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                3,
+                20
+            ]
+        ],
+        "date-time": "2021-03-20T18:36:17Z",
+        "timestamp": 1616265377000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S2452074821000070"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                1
+            ]
+        ]
+    },
+    "references-count": 46,
+    "alternative-id": [
+        "S2452074821000070"
+    ],
+    "URL": "http://dx.doi.org/10.1016/j.impact.2021.100298",
+    "relation": {},
+    "ISSN": [
+        "2452-0748"
+    ],
+    "subject": [
+        "Public Health, Environmental and Occupational Health",
+        "Safety Research",
+        "Safety, Risk, Reliability and Quality",
+        "Materials Science (miscellaneous)"
+    ],
+    "container-title-short": "NanoImpact",
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                1
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+        },
+        {
+            "value": "Use of size-dependent electron configuration fingerprint to develop general prediction models for nanomaterials",
+            "name": "articletitle",
+            "label": "Article Title"
+        },
+        {
+            "value": "NanoImpact",
+            "name": "journaltitle",
+            "label": "Journal Title"
+        },
+        {
+            "value": "https://doi.org/10.1016/j.impact.2021.100298",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+        },
+        {
+            "value": "© 2021 The Authors. Published by Elsevier B.V.",
+            "name": "copyright",
+            "label": "Copyright"
+        }
+    ],
+    "article-number": "100298"
+}

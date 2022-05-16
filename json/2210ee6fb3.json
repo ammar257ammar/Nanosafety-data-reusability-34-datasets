@@ -1,0 +1,915 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                2
+            ]
+        ],
+        "date-time": "2022-04-02T11:47:18Z",
+        "timestamp": 1648900038286
+    },
+    "reference-count": 62,
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "issue": "4",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2022,
+                        2,
+                        16
+                    ]
+                ],
+                "date-time": "2022-02-16T00:00:00Z",
+                "timestamp": 1644969600000
+            },
+            "content-version": "am",
+            "delay-in-days": 411,
+            "URL": "http://rsc.li/journals-terms-of-use"
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "rsc.org"
+        ],
+        "crossmark-restriction": true
+    },
+    "abstract": "<p>A highly comprehensive dataset is analyzed by meta-heuristic association rule mining to reveal hidden variable relationships with nanoparticle toxicity.</p>",
+    "DOI": "10.1039/d0en01240h",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                2,
+                16
+            ]
+        ],
+        "date-time": "2021-02-16T11:40:58Z",
+        "timestamp": 1613475658000
+    },
+    "page": "937-949",
+    "update-policy": "http://dx.doi.org/10.1039/rsc_crossmark_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 1,
+    "title": "Cytotoxicity analysis of nanoparticles by association rule mining",
+    "prefix": "10.1039",
+    "volume": "8",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0003-4469-9709",
+            "authenticated-orcid": false,
+            "given": "Gulsah",
+            "family": "Gul",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Department of Chemical Engineering"
+                },
+                {
+                    "name": "Bogazici University"
+                },
+                {
+                    "name": "Istanbul"
+                },
+                {
+                    "name": "Turkey"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0001-5077-5689",
+            "authenticated-orcid": false,
+            "given": "Ramazan",
+            "family": "Yildirim",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Chemical Engineering"
+                },
+                {
+                    "name": "Bogazici University"
+                },
+                {
+                    "name": "Istanbul"
+                },
+                {
+                    "name": "Turkey"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0003-2251-1859",
+            "authenticated-orcid": false,
+            "given": "Nazar",
+            "family": "Ileri-Ercan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department of Chemical Engineering"
+                },
+                {
+                    "name": "Bogazici University"
+                },
+                {
+                    "name": "Istanbul"
+                },
+                {
+                    "name": "Turkey"
+                }
+            ]
+        }
+    ],
+    "member": "292",
+    "published-online": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "10",
+            "key": "D0EN01240H-(cit1)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "1166",
+            "DOI": "10.1038/nbt875",
+            "volume": "21",
+            "author": "Colvin",
+            "year": "2003",
+            "journal-title": "Nat. Biotechnol."
+        },
+        {
+            "issue": "3",
+            "key": "D0EN01240H-(cit2)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "681",
+            "DOI": "10.1021/ar3000647",
+            "volume": "46",
+            "author": "Kim",
+            "year": "2013",
+            "journal-title": "Acc. Chem. Res."
+        },
+        {
+            "issue": "3",
+            "key": "D0EN01240H-(cit3)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "743",
+            "DOI": "10.1021/ar300039j",
+            "volume": "46",
+            "author": "Rivera-Gil",
+            "year": "2013",
+            "journal-title": "Acc. Chem. Res."
+        },
+        {
+            "issue": "44",
+            "key": "D0EN01240H-(cit4)/*[position()=1]",
+            "first-page": "1",
+            "volume": "13",
+            "author": "Sukhanova",
+            "year": "2018",
+            "journal-title": "Nanoscale Res. Lett."
+        },
+        {
+            "issue": "2",
+            "key": "D0EN01240H-(cit5)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "489",
+            "DOI": "10.1093/toxsci/kfr124",
+            "volume": "122",
+            "author": "Horev-Azaria",
+            "year": "2011",
+            "journal-title": "Toxicol. Sci."
+        },
+        {
+            "issue": "10",
+            "key": "D0EN01240H-(cit6)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "5703",
+            "DOI": "10.1021/nn1013484",
+            "volume": "4",
+            "author": "Fourches",
+            "year": "2010",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "issue": "3",
+            "key": "D0EN01240H-(cit7)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1038/nnano.2011.10",
+            "volume": "6",
+            "author": "Puzyn",
+            "year": "2011",
+            "journal-title": "Nat. Nanotechnol."
+        },
+        {
+            "issue": "12",
+            "key": "D0EN01240H-(cit8)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "3686",
+            "DOI": "10.1016/j.scitotenv.2008.12.025",
+            "volume": "407",
+            "author": "Genaidy",
+            "year": "2009",
+            "journal-title": "Sci. Total Environ."
+        },
+        {
+            "issue": "5",
+            "key": "D0EN01240H-(cit9)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "405",
+            "DOI": "10.1038/nnano.2016.5",
+            "volume": "11",
+            "author": "Casman",
+            "year": "2016",
+            "journal-title": "Nat. Nanotechnol."
+        },
+        {
+            "issue": "3",
+            "key": "D0EN01240H-(cit10)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "583",
+            "DOI": "10.1111/risa.12109",
+            "volume": "34",
+            "author": "Gernand",
+            "year": "2014",
+            "journal-title": "Risk Anal."
+        },
+        {
+            "issue": "5",
+            "key": "D0EN01240H-(cit11)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "479",
+            "DOI": "10.1038/nnano.2015.338",
+            "volume": "11",
+            "author": "Oh",
+            "year": "2016",
+            "journal-title": "Nat. Nanotechnol."
+        },
+        {
+            "issue": "17",
+            "key": "D0EN01240H-(cit12)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "9666",
+            "DOI": "10.1021/acs.est.8b02757",
+            "volume": "52",
+            "author": "Ban",
+            "year": "2018",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "issue": "2",
+            "key": "D0EN01240H-(cit13)/*[position()=1]",
+            "first-page": "1583",
+            "volume": "13",
+            "author": "Labouta",
+            "year": "2019",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "issue": "1",
+            "key": "D0EN01240H-(cit14)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1038/s41598-018-21431-9",
+            "volume": "8",
+            "author": "Ha",
+            "year": "2018",
+            "journal-title": "Sci. Rep."
+        },
+        {
+            "issue": "14",
+            "key": "D0EN01240H-(cit15)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "1713",
+            "DOI": "10.2174/1568026611313140011",
+            "volume": "13",
+            "author": "Gonzalez-Diaz",
+            "year": "2013",
+            "journal-title": "Curr. Top. Med. Chem."
+        },
+        {
+            "issue": "7",
+            "key": "D0EN01240H-(cit16)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "891",
+            "DOI": "10.1080/17435390.2017.1379567",
+            "volume": "11",
+            "author": "Concu",
+            "year": "2017",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "issue": "24",
+            "key": "D0EN01240H-(cit17)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "14686",
+            "DOI": "10.1021/es503861x",
+            "volume": "48",
+            "author": "Kleandrova",
+            "year": "2014",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "issue": "18",
+            "key": "D0EN01240H-(cit18)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "10623",
+            "DOI": "10.1039/C4NR01285B",
+            "volume": "6",
+            "author": "Luan",
+            "year": "2014",
+            "journal-title": "Nanoscale"
+        },
+        {
+            "issue": "5",
+            "key": "D0EN01240H-(cit19)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "943",
+            "DOI": "10.1039/C3AN01409F",
+            "volume": "139",
+            "author": "Liu",
+            "year": "2014",
+            "journal-title": "Analyst"
+        },
+        {
+            "issue": "1",
+            "key": "D0EN01240H-(cit21)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1002/widm.1173",
+            "volume": "6",
+            "author": "Ramírez-Gallego",
+            "year": "2016",
+            "journal-title": "Wiley Interdiscip. Rev. Data Min. Knowl. Discov."
+        },
+        {
+            "key": "D0EN01240H-(cit22)/*[position()=1]",
+            "volume-title": "Proc 20th Intl Conf VLDB",
+            "author": "Agrawal",
+            "year": "1994",
+            "unstructured": "R. Agrawal   and  R.Srikant , Fast Algorithms for Mining Association Rules (expanded version), Research Report IBM RJ 9839,  Proc 20th Intl Conf VLDB ,  1994 ,  pp. 487–499"
+        },
+        {
+            "issue": "24",
+            "key": "D0EN01240H-(cit23)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "638",
+            "DOI": "10.21105/joss.00638",
+            "volume": "3",
+            "author": "Raschka",
+            "year": "2018",
+            "journal-title": "J. Open Source Softw."
+        },
+        {
+            "issue": "2036176",
+            "key": "D0EN01240H-(cit25)/*[position()=1]",
+            "first-page": "1",
+            "volume": "2018",
+            "author": "Yang",
+            "year": "2018",
+            "journal-title": "Stem Cells Int."
+        },
+        {
+            "issue": "105708",
+            "key": "D0EN01240H-(cit26)/*[position()=1]",
+            "first-page": "1",
+            "volume": "22",
+            "author": "Chen",
+            "year": "2011",
+            "journal-title": "Nanotechnology"
+        },
+        {
+            "issue": "53",
+            "key": "D0EN01240H-(cit27)/*[position()=1]",
+            "first-page": "1",
+            "volume": "9",
+            "author": "Mohammed",
+            "year": "2017",
+            "journal-title": "Pharmaceutics"
+        },
+        {
+            "key": "D0EN01240H-(cit28)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "31",
+            "DOI": "10.1016/j.fct.2015.05.017",
+            "volume": "85",
+            "author": "Omar Zaki",
+            "year": "2015",
+            "journal-title": "Food Chem. Toxicol."
+        },
+        {
+            "issue": "7",
+            "key": "D0EN01240H-(cit29)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "1421",
+            "DOI": "10.1016/j.nano.2014.01.006",
+            "volume": "10",
+            "author": "Krais",
+            "year": "2014",
+            "journal-title": "Nanomedicine"
+        },
+        {
+            "issue": "3",
+            "key": "D0EN01240H-(cit30)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "361",
+            "DOI": "10.1002/jat.3213",
+            "volume": "36",
+            "author": "Costa",
+            "year": "2016",
+            "journal-title": "J. Appl. Toxicol."
+        },
+        {
+            "issue": "1",
+            "key": "D0EN01240H-(cit31)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1038/s41598-018-19628-z",
+            "volume": "8",
+            "author": "Feng",
+            "year": "2018",
+            "journal-title": "Sci. Rep."
+        },
+        {
+            "key": "D0EN01240H-(cit32)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "volume-title": "Nanostructures for Antimicrobial Therapy: Nanostructures in Therapeutic Medicine Series",
+            "author": "Seabra",
+            "year": "2017",
+            "unstructured": "A. B. Seabra  ,  M. T.Pelegrino  and  P. S.Haddad , Antimicrobial Applications of Superparamagnetic Iron Oxide Nanoparticles: Perspectives and Challenges [Internet],  Nanostructures for Antimicrobial Therapy: Nanostructures in Therapeutic Medicine Series ,  Elsevier Inc. ,  2017 ,  pp. 531–550 ,  10.1016/B978-0-323-46152-8.00024-X",
+            "DOI": "10.1016/B978-0-323-46152-8.00024-X"
+        },
+        {
+            "key": "D0EN01240H-(cit33)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1186/1743-8977-9-26",
+            "volume": "9",
+            "author": "Fröhlich",
+            "year": "2012",
+            "journal-title": "Part. Fibre Toxicol."
+        },
+        {
+            "issue": "1",
+            "key": "D0EN01240H-(cit34)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1186/s12989-015-0091-7",
+            "volume": "12",
+            "author": "Ruenraroengsak",
+            "year": "2015",
+            "journal-title": "Part. Fibre Toxicol."
+        },
+        {
+            "issue": "2",
+            "key": "D0EN01240H-(cit35)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "78",
+            "DOI": "10.1038/pj.2014.89",
+            "volume": "47",
+            "author": "Kobayashi",
+            "year": "2015",
+            "journal-title": "Polym. J."
+        },
+        {
+            "issue": "16",
+            "key": "D0EN01240H-(cit36)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "4547",
+            "DOI": "10.1016/j.jeurceramsoc.2015.08.015",
+            "volume": "35",
+            "author": "Dapiaggi",
+            "year": "2015",
+            "journal-title": "J. Eur. Ceram. Soc."
+        },
+        {
+            "issue": "1–2",
+            "key": "D0EN01240H-(cit37)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "11",
+            "DOI": "10.1016/j.mrgentox.2011.10.010",
+            "volume": "745",
+            "author": "Uboldi",
+            "year": "2012",
+            "journal-title": "Mutat. Res., Genet. Toxicol. Environ. Mutagen."
+        },
+        {
+            "key": "D0EN01240H-(cit38)/*[position()=1]",
+            "first-page": "127",
+            "volume": "9",
+            "author": "Ryu",
+            "year": "2014",
+            "journal-title": "Int. J. Nanomed."
+        },
+        {
+            "issue": "9",
+            "key": "D0EN01240H-(cit39)/*[position()=1]",
+            "first-page": "1",
+            "volume": "12",
+            "author": "Lee",
+            "year": "2020",
+            "journal-title": "Pharmaceutics"
+        },
+        {
+            "issue": "2702",
+            "key": "D0EN01240H-(cit40)/*[position()=1]",
+            "first-page": "1",
+            "volume": "18",
+            "author": "Huang",
+            "year": "2017",
+            "journal-title": "Int. J. Mol. Sci."
+        },
+        {
+            "issue": "32",
+            "key": "D0EN01240H-(cit41)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "8291",
+            "DOI": "10.1016/j.biomaterials.2011.07.037",
+            "volume": "32",
+            "author": "Liu",
+            "year": "2011",
+            "journal-title": "Biomaterials"
+        },
+        {
+            "key": "D0EN01240H-(cit42)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "25",
+            "DOI": "10.1186/1743-8977-7-25",
+            "volume": "7",
+            "author": "Bhattacharjee",
+            "year": "2010",
+            "journal-title": "Part. Fibre Toxicol."
+        },
+        {
+            "issue": "4",
+            "key": "D0EN01240H-(cit43)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "3253",
+            "DOI": "10.1021/nn3059295",
+            "volume": "7",
+            "author": "Hühn",
+            "year": "2013",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "issue": "1",
+            "key": "D0EN01240H-(cit44)/*[position()=1]",
+            "first-page": "64",
+            "volume": "5",
+            "author": "Findlay",
+            "year": "2018",
+            "journal-title": "Environ. Sci.: Nano"
+        },
+        {
+            "issue": "1",
+            "key": "D0EN01240H-(cit45)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1186/s12989-016-0157-1",
+            "volume": "13",
+            "author": "Rischitor",
+            "year": "2016",
+            "journal-title": "Part. Fibre Toxicol."
+        },
+        {
+            "issue": "2",
+            "key": "D0EN01240H-(cit46)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "300",
+            "DOI": "10.1093/toxsci/kfl165",
+            "volume": "95",
+            "author": "Teeguarden",
+            "year": "2007",
+            "journal-title": "Toxicol. Sci."
+        },
+        {
+            "key": "D0EN01240H-(cit47)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1186/1743-8977-7-22",
+            "volume": "7",
+            "author": "Sohaebuddin",
+            "year": "2010",
+            "journal-title": "Part. Fibre Toxicol."
+        },
+        {
+            "issue": "2",
+            "key": "D0EN01240H-(cit48)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "246",
+            "DOI": "10.1093/toxsci/kfv002",
+            "volume": "144",
+            "author": "Manshian",
+            "year": "2015",
+            "journal-title": "Toxicol. Sci."
+        },
+        {
+            "issue": "4",
+            "key": "D0EN01240H-(cit49)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "243",
+            "DOI": "10.1007/s40089-017-0221-3",
+            "volume": "7",
+            "author": "Kumar",
+            "year": "2017",
+            "journal-title": "Int. Nano Lett."
+        },
+        {
+            "issue": "3",
+            "key": "D0EN01240H-(cit50)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "351",
+            "DOI": "10.2131/jts.41.351",
+            "volume": "41",
+            "author": "Zeng",
+            "year": "2016",
+            "journal-title": "J. Toxicol. Sci."
+        },
+        {
+            "key": "D0EN01240H-(cit51)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "110530",
+            "DOI": "10.1016/j.colsurfb.2019.110530",
+            "volume": "184",
+            "author": "Ashtami",
+            "year": "2019",
+            "journal-title": "Colloids Surf., B"
+        },
+        {
+            "key": "D0EN01240H-(cit52)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "113",
+            "DOI": "10.1016/j.tiv.2016.09.012",
+            "volume": "37",
+            "author": "Mannerström",
+            "year": "2016",
+            "journal-title": "Toxicol. In Vitro"
+        },
+        {
+            "issue": "9",
+            "key": "D0EN01240H-(cit53)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "1726",
+            "DOI": "10.1021/tx800064j",
+            "volume": "21",
+            "author": "Karlsson",
+            "year": "2008",
+            "journal-title": "Chem. Res. Toxicol."
+        },
+        {
+            "key": "D0EN01240H-(cit54)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "125489",
+            "DOI": "10.1016/j.chemosphere.2019.125489",
+            "volume": "244",
+            "author": "Halder",
+            "year": "2020",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "issue": "1",
+            "key": "D0EN01240H-(cit55)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "196",
+            "DOI": "10.1007/s10924-010-0262-4",
+            "volume": "19",
+            "author": "de Lima",
+            "year": "2011",
+            "journal-title": "J. Polym. Environ."
+        },
+        {
+            "issue": "5",
+            "key": "D0EN01240H-(cit56)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "659",
+            "DOI": "10.1007/s00204-015-1460-6",
+            "volume": "89",
+            "author": "Bruinink",
+            "year": "2015",
+            "journal-title": "Arch. Toxicol."
+        },
+        {
+            "key": "D0EN01240H-(cit57)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "92",
+            "DOI": "10.1016/j.envint.2013.02.013",
+            "volume": "55",
+            "author": "Valdiglesias",
+            "year": "2013",
+            "journal-title": "Environ. Int."
+        },
+        {
+            "key": "D0EN01240H-(cit58)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "126413",
+            "DOI": "10.1016/j.jtemb.2019.126413",
+            "volume": "57",
+            "author": "Ferraro",
+            "year": "2020",
+            "journal-title": "J. Trace Elem. Med. Biol."
+        },
+        {
+            "key": "D0EN01240H-(cit59)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "169",
+            "DOI": "10.1016/j.fct.2019.02.026",
+            "volume": "126",
+            "author": "Zhao",
+            "year": "2019",
+            "journal-title": "Food Chem. Toxicol."
+        },
+        {
+            "issue": "1",
+            "key": "D0EN01240H-(cit60)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1186/s12951-017-0318-x",
+            "volume": "15",
+            "author": "Long",
+            "year": "2017",
+            "journal-title": "J. Nanobiotechnol."
+        },
+        {
+            "issue": "5",
+            "key": "D0EN01240H-(cit61)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "1813",
+            "DOI": "10.1016/j.actbio.2009.10.020",
+            "volume": "6",
+            "author": "Fischer",
+            "year": "2010",
+            "journal-title": "Acta Biomater."
+        },
+        {
+            "issue": "4",
+            "key": "D0EN01240H-(cit62)/*[position()=1]",
+            "doi-asserted-by": "publisher",
+            "first-page": "1",
+            "DOI": "10.1371/journal.pone.0231634",
+            "volume": "15",
+            "author": "Scarcello",
+            "year": "2020",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "D0EN01240H-(cit63)/*[position()=1]",
+            "first-page": "1",
+            "volume": "5",
+            "author": "Wang",
+            "year": "2015",
+            "journal-title": "Sci. Rep."
+        },
+        {
+            "issue": "22",
+            "key": "D0EN01240H-(cit64)/*[position()=1]",
+            "doi-asserted-by": "crossref",
+            "first-page": "2807",
+            "DOI": "10.1039/c3tb20256a",
+            "volume": "1",
+            "author": "Santiago-Rodríguez",
+            "year": "2013",
+            "journal-title": "J. Mater. Chem. B"
+        }
+    ],
+    "container-title": "Environmental Science: Nano",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "http://pubs.rsc.org/en/content/articlepdf/2021/EN/D0EN01240H",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                4,
+                22
+            ]
+        ],
+        "date-time": "2021-04-22T16:02:38Z",
+        "timestamp": 1619107358000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "http://xlink.rsc.org/?DOI=D0EN01240H"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "references-count": 62,
+    "journal-issue": {
+        "issue": "4",
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    4,
+                    22
+                ]
+            ]
+        }
+    },
+    "URL": "http://dx.doi.org/10.1039/D0EN01240H",
+    "relation": {},
+    "ISSN": [
+        "2051-8153",
+        "2051-8161"
+    ],
+    "subject": [
+        "General Environmental Science",
+        "Materials Science (miscellaneous)"
+    ],
+    "container-title-short": "Environ. Sci.: Nano",
+    "published": {
+        "date-parts": [
+            [
+                2021
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "This document is Similarity Check deposited",
+            "name": "similarity_check",
+            "explanation": {
+                "URL": "https://www.crossref.org/services/similarity-check/"
+            },
+            "group": {
+                "name": "similarity_check",
+                "label": "SIMILARITY CHECK"
+            }
+        },
+        {
+            "value": "Supplementary Information",
+            "URL": "https://doi.org/10.1039/D0EN01240H",
+            "name": "related_data",
+            "group": {
+                "name": "related_data",
+                "label": "RELATED DATA"
+            }
+        },
+        {
+            "value": "Gulsah Gul (ORCID)",
+            "URL": "http://orcid.org/0000-0003-4469-9709",
+            "name": "identifier",
+            "group": {
+                "name": "author_identifiers",
+                "label": "IDENTIFIERS"
+            }
+        },
+        {
+            "value": "Ramazan Yildirim (ORCID)",
+            "URL": "http://orcid.org/0000-0001-5077-5689",
+            "name": "identifier",
+            "group": {
+                "name": "author_identifiers",
+                "label": "IDENTIFIERS"
+            }
+        },
+        {
+            "value": "Nazar Ileri-Ercan (ORCID)",
+            "URL": "http://orcid.org/0000-0003-2251-1859",
+            "name": "identifier",
+            "group": {
+                "name": "author_identifiers",
+                "label": "IDENTIFIERS"
+            }
+        },
+        {
+            "value": "Single-blind",
+            "order": 2,
+            "name": "peer_review_method",
+            "group": {
+                "name": "peer_review_method",
+                "label": "PEER REVIEW METHOD"
+            }
+        },
+        {
+            "value": "Received 13 December 2020; Accepted 15 February 2021;  Accepted Manuscript published 16 February 2021;  Advance Article published 5 March 2021;  Version of Record published 22 April 2021",
+            "order": 1,
+            "name": "history",
+            "group": {
+                "name": "publication_history",
+                "label": "PUBLICATION HISTORY"
+            }
+        }
+    ]
+}

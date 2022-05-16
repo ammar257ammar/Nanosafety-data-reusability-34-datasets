@@ -1,0 +1,728 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                19
+            ]
+        ],
+        "date-time": "2022-04-19T22:50:55Z",
+        "timestamp": 1650408655843
+    },
+    "reference-count": 47,
+    "publisher": "Elsevier BV",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2019,
+                        2,
+                        1
+                    ]
+                ],
+                "date-time": "2019-02-01T00:00:00Z",
+                "timestamp": 1548979200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+    ],
+    "funder": [
+        {
+            "name": "Industrial Strategic Technology Development Program",
+            "award": [
+                "10043929"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100003052",
+            "name": "Ministry of Trade, Industry and Energy",
+            "doi-asserted-by": "publisher"
+        },
+        {
+            "name": "Ministry of Science & ICT",
+            "award": [
+                "2017M3A9G8084539"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2019,
+                2
+            ]
+        ]
+    },
+    "DOI": "10.1016/j.chemosphere.2018.11.014",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2018,
+                11,
+                3
+            ]
+        ],
+        "date-time": "2018-11-03T03:23:41Z",
+        "timestamp": 1541215421000
+    },
+    "page": "243-249",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 43,
+    "title": "Quasi-QSAR for predicting the cell viability of human lung and skin cells exposed to different metal oxide nanomaterials",
+    "prefix": "10.1016",
+    "volume": "217",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0003-2735-2287",
+            "authenticated-orcid": false,
+            "given": "Jang-Sik",
+            "family": "Choi",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Tung X.",
+            "family": "Trinh",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Tae-Hyun",
+            "family": "Yoon",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0003-3909-1432",
+            "authenticated-orcid": false,
+            "given": "Jongwoon",
+            "family": "Kim",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Hyung-Gi",
+            "family": "Byun",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "78",
+    "reference": [
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "376",
+            "DOI": "10.2174/1386207318666150305125044",
+            "article-title": "The Monte Carlo method based on eclectic data as an efficient tool for predictions of endpoints for nanomaterials-two examples of application",
+            "volume": "18",
+            "author": "A Toropov",
+            "year": "2015",
+            "journal-title": "Comb. Chem. High Throughput Screen."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib2",
+            "first-page": "845",
+            "article-title": "Zinc oxide nanoparticles selectively induce apoptosis in human cancer cells through reactive oxygen species",
+            "volume": "7",
+            "author": "Akhtar",
+            "year": "2012",
+            "journal-title": "Int. J. Nanomed."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "2016",
+            "DOI": "10.17756/nwj.2016-034",
+            "article-title": "Quasi-qspr to predict proteins behavior under various concentrations of drug using nanoconductometric assay",
+            "volume": "2",
+            "author": "Bragazzi",
+            "year": "2016",
+            "journal-title": "NanoWorld J."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib4",
+            "doi-asserted-by": "crossref",
+            "first-page": "136",
+            "DOI": "10.1016/j.colsurfb.2014.09.008",
+            "article-title": "Slow release of ions from internalized silver nanoparticles modifies the epidermal growth factor signaling response",
+            "volume": "123",
+            "author": "Comfort",
+            "year": "2014",
+            "journal-title": "Colloids Surfaces B Biointerfaces"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib5",
+            "doi-asserted-by": "crossref",
+            "first-page": "4795",
+            "DOI": "10.3390/ijms15034795",
+            "article-title": "Toxicological assessment of inhaled nanoparticles: role of in vivo, ex vivo, in vitro, and in silico studies",
+            "volume": "15",
+            "author": "Frohlich",
+            "year": "2014",
+            "journal-title": "Int. J. Mol. Sci."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib6",
+            "doi-asserted-by": "crossref",
+            "first-page": "313",
+            "DOI": "10.3109/17435390.2014.930195",
+            "article-title": "Towards understanding mechanisms governing cytotoxicity of metal oxides nanoparticles: hints from nano-QSAR studies",
+            "volume": "9",
+            "author": "Gajewicz",
+            "year": "2015",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "498420",
+            "DOI": "10.1155/2014/498420",
+            "article-title": "Physicochemical properties of nanomaterials: implication in associated toxic manifestations",
+            "volume": "2014",
+            "author": "Gatoo",
+            "year": "2014",
+            "journal-title": "BioMed Res. Int."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib8",
+            "doi-asserted-by": "crossref",
+            "first-page": "103",
+            "DOI": "10.1159/000178869",
+            "article-title": "In vitro irritation models and immune reactions",
+            "volume": "22",
+            "author": "Gibbs",
+            "year": "2009",
+            "journal-title": "Skin Pharmacol. Physiol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "3141",
+            "DOI": "10.1038/s41598-018-21431-9",
+            "article-title": "Toxicity classification of oxide nanomaterials: effects of data gap filling and PChem score-based screening approaches",
+            "volume": "8",
+            "author": "Ha",
+            "year": "2018",
+            "journal-title": "Sci. Rep."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib10",
+            "doi-asserted-by": "crossref",
+            "first-page": "7",
+            "DOI": "10.1186/1758-2946-5-7",
+            "article-title": "InChI-the worldwide chemical structure identifier standard",
+            "volume": "5",
+            "author": "Heller",
+            "year": "2013",
+            "journal-title": "J. Cheminf."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1768",
+            "DOI": "10.2174/1568026615666150506151533",
+            "article-title": "Application of SMILES notation based optimal descriptors in drug discovery and design",
+            "volume": "15",
+            "author": "M Veselinovic",
+            "year": "2015",
+            "journal-title": "Curr. Top. Med. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "847",
+            "DOI": "10.1016/j.matpr.2016.02.018",
+            "article-title": "QSAR model for cytotoxicity of silica nanoparticles on human embryonic kidney Cells1",
+            "volume": "3",
+            "author": "Manganelli",
+            "year": "2016",
+            "journal-title": "Mater. Today: Proceed."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "995",
+            "DOI": "10.1016/j.chemosphere.2015.09.086",
+            "article-title": "QSAR model for predicting cell viability of human embryonic kidney cells exposed to SiO2 nanoparticles",
+            "volume": "144",
+            "author": "Manganelli",
+            "year": "2016",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib14",
+            "series-title": "Anonymous the Royal Society of Chemistry",
+            "article-title": "Compendium of chemical terminology: IUPAC",
+            "author": "McNaught",
+            "year": "1997"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "146",
+            "DOI": "10.1016/j.chemolab.2011.08.007",
+            "article-title": "Comparative QSARs for antimalarial endochins: importance of descriptor-thinning and noise reduction prior to feature selection",
+            "volume": "109",
+            "author": "Ojha",
+            "year": "2011",
+            "journal-title": "Chemometr. Intell. Lab. Syst."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.partic.2014.12.001",
+            "article-title": "(Q) SAR modelling of nanomaterial toxicity: a critical review",
+            "volume": "21",
+            "author": "Oksel",
+            "year": "2015",
+            "journal-title": "Particuology"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib17",
+            "series-title": "Guidance Document on the Validation of (Quantitative) Structure-activity Relationship [(Q) SAR] Models",
+            "author": "Organisation for Economic Co-operation and Development",
+            "year": "2014"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "608",
+            "DOI": "10.2174/1389557515666150219121652",
+            "article-title": "Mutagenicity: QSAR-quasi-QSAR-nano-QSAR",
+            "volume": "15",
+            "author": "P Toropova",
+            "year": "2015",
+            "journal-title": "Mini Rev. Med. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "50",
+            "DOI": "10.1002/jbt.21442",
+            "article-title": "Toxicity of engineered nanomaterials: a physicochemical perspective",
+            "volume": "27",
+            "author": "Podila",
+            "year": "2013",
+            "journal-title": "J. Biochem. Mol. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "147",
+            "DOI": "10.1002/wcms.1240",
+            "article-title": "In silico toxicology: computational methods for the prediction of chemical toxicity",
+            "volume": "6",
+            "author": "Raies",
+            "year": "2016",
+            "journal-title": "Wiley Interdisciplin. Rev. Comput. Mol. Sci."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "213",
+            "DOI": "10.1016/0169-7439(91)80051-Q",
+            "article-title": "Novel graph theoretical approach to heteroatoms in quantitative structure—activity relationships",
+            "volume": "10",
+            "author": "Randić",
+            "year": "1991",
+            "journal-title": "Chemometr. Intell. Lab. Syst."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib22",
+            "first-page": "1218",
+            "article-title": "CORAL: QSAR models for acute toxicity in fathead minnow (Pimephales promelas)",
+            "volume": "33",
+            "author": "Toropova",
+            "year": "2012",
+            "journal-title": "J. Comput. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "877",
+            "DOI": "10.1016/j.chemosphere.2012.07.035",
+            "article-title": "CORAL: QSPR model of water solubility based on local and global SMILES attributes",
+            "volume": "90",
+            "author": "Toropov",
+            "year": "2013",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1016/j.chemosphere.2013.03.012",
+            "article-title": "QSAR as a random event: modeling of nanoparticles uptake in PaCa2 cancer cells",
+            "volume": "92",
+            "author": "Toropov",
+            "year": "2013",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib25",
+            "doi-asserted-by": "crossref",
+            "first-page": "203",
+            "DOI": "10.1016/j.ecoenv.2014.07.005",
+            "article-title": "Optimal descriptor as a translator of eclectic information into the prediction of membrane damage: the case of a group of ZnO and TiO 2 nanoparticles",
+            "volume": "108",
+            "author": "Toropova",
+            "year": "2014",
+            "journal-title": "Ecotoxicol. Environ. Saf."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1837",
+            "DOI": "10.2174/1568026615666150506152000",
+            "article-title": "Use of quasi-SMILES and Monte Carlo optimization to develop quantitative feature Property/Activity relationships (QFPR/QFAR) for nanomaterials",
+            "volume": "15",
+            "author": "Toropov",
+            "year": "2015",
+            "journal-title": "Curr. Top. Med. Chem."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib27",
+            "doi-asserted-by": "crossref",
+            "first-page": "745",
+            "DOI": "10.1007/s11356-014-3566-4",
+            "article-title": "Optimal nano-descriptors as translators of eclectic data into prediction of the cell membrane damage by means of nano metal-oxides",
+            "volume": "22",
+            "author": "Toropova",
+            "year": "2015",
+            "journal-title": "Environ. Sci. Pollut. Control Ser."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1016/j.ecoenv.2014.10.003",
+            "article-title": "Optimal descriptor as a translator of eclectic data into prediction of cytotoxicity for metal oxide nanoparticles under different conditions",
+            "volume": "112",
+            "author": "Toropova",
+            "year": "2015",
+            "journal-title": "Ecotoxicol. Environ. Saf."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "29",
+            "DOI": "10.1080/1062936X.2014.984327",
+            "article-title": "A quasi-QSPR modelling for the photocatalytic decolourization rate constants and cellular viability (CV%) of nanoparticles by CORAL",
+            "volume": "26",
+            "author": "Toropova",
+            "year": "2015",
+            "journal-title": "SAR QSAR Environ. Res."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib30",
+            "doi-asserted-by": "crossref",
+            "first-page": "107",
+            "DOI": "10.1016/j.cplett.2016.08.018",
+            "article-title": "Quasi-SMILES and nano-QFPR: the predictive model for zeta potentials of metal oxide nanoparticles",
+            "volume": "660",
+            "author": "Toropov",
+            "year": "2016",
+            "journal-title": "Chem. Phys. Lett."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "60",
+            "DOI": "10.1016/j.impact.2016.04.003",
+            "article-title": "Quasi-SMILES as a tool to utilize eclectic data for predicting the behavior of nanomaterials",
+            "volume": "1",
+            "author": "Toropova",
+            "year": "2016",
+            "journal-title": "NanoImpact"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "32",
+            "DOI": "10.1016/j.ecoenv.2015.09.038",
+            "article-title": "Nano-QSAR: model of mutagenicity of fullerene as a mathematical function of different conditions",
+            "volume": "124",
+            "author": "Toropova",
+            "year": "2016",
+            "journal-title": "Ecotoxicol. Environ. Saf."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "404",
+            "DOI": "10.1016/j.ecoenv.2017.01.054",
+            "article-title": "CORAL and Nano-QFAR: quantitative feature–Activity relationships (QFAR) for bioavailability of nanoparticles (ZnO, CuO, Co3O4, and TiO2)",
+            "volume": "139",
+            "author": "Toropova",
+            "year": "2017",
+            "journal-title": "Ecotoxicol. Environ. Saf."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib34",
+            "doi-asserted-by": "crossref",
+            "first-page": "2650",
+            "DOI": "10.1016/j.chemosphere.2013.09.089",
+            "article-title": "Optimal descriptor as a translator of eclectic information into the prediction of membrane damage by means of various TiO2 nanoparticles",
+            "volume": "93",
+            "author": "Toropova",
+            "year": "2013",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib35",
+            "doi-asserted-by": "crossref",
+            "first-page": "262",
+            "DOI": "10.1016/j.chemosphere.2013.10.079",
+            "article-title": "Optimal descriptor as a translator of eclectic data into endpoint prediction: mutagenicity of fullerene as a mathematical function of conditions",
+            "volume": "104",
+            "author": "Toropov",
+            "year": "2014",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib36",
+            "doi-asserted-by": "crossref",
+            "first-page": "21",
+            "DOI": "10.1016/j.ejps.2013.10.005",
+            "article-title": "CORAL software: prediction of carcinogenicity of drugs by means of the Monte Carlo method",
+            "volume": "52",
+            "author": "Toropova",
+            "year": "2014",
+            "journal-title": "Eur. J. Pharmaceut. Sci."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib37",
+            "doi-asserted-by": "crossref",
+            "first-page": "40",
+            "DOI": "10.1016/j.chemosphere.2014.10.067",
+            "article-title": "Quasi-QSAR for mutagenic potential of multi-walled carbon-nanotubes",
+            "volume": "124",
+            "author": "Toropov",
+            "year": "2015",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "18",
+            "DOI": "10.1016/j.chemosphere.2015.05.042",
+            "article-title": "Quasi-SMILES and nano-QFAR: united model for mutagenicity of fullerene and MWCNT under different conditions",
+            "volume": "139",
+            "author": "Toropov",
+            "year": "2015",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/j.jtbi.2017.01.012",
+            "article-title": "Nano-QSAR in cell biology: model of cell viability as a mathematical function of available eclectic data",
+            "volume": "416",
+            "author": "Toropova",
+            "year": "2017",
+            "journal-title": "J. Theor. Biol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "183",
+            "DOI": "10.1021/acs.chemrestox.7b00303",
+            "article-title": "Quasi-smiles-based nano-quantitative structure–activity relationship model to predict the cytotoxicity of multiwalled carbon nanotubes to human lung cells",
+            "volume": "31",
+            "author": "Trinh",
+            "year": "2018",
+            "journal-title": "Chem. Res. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib41",
+            "first-page": "1902",
+            "article-title": "Dataset curation, assessment of their quality and completeness and nanoSAR classification model development for metallic nanoparticles",
+            "volume": "5",
+            "author": "Trinh",
+            "year": "2018",
+            "journal-title": "Environ. Sci.: Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "31",
+            "DOI": "10.1021/ci00057a005",
+            "article-title": "SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules",
+            "volume": "28",
+            "author": "Weininger",
+            "year": "1988",
+            "journal-title": "J. Chem. Inf. Comput. Sci."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1075",
+            "DOI": "10.1007/s00204-012-0938-8",
+            "article-title": "Size influences the cytotoxicity of poly (lactic-co-glycolic acid)(PLGA) and titanium dioxide (TiO 2) nanoparticles",
+            "volume": "87",
+            "author": "Xiong",
+            "year": "2013",
+            "journal-title": "Arch. Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1186/1743-8977-7-1",
+            "article-title": "SiO 2 nanoparticles induce cytotoxicity and protein expression alteration in HaCaT cells",
+            "volume": "7",
+            "author": "Yang",
+            "year": "2010",
+            "journal-title": "Part. Fibre Toxicol."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib45",
+            "doi-asserted-by": "crossref",
+            "first-page": "4349",
+            "DOI": "10.1021/nn3010087",
+            "article-title": "Use of metal oxide nanoparticle band gap to develop a predictive paradigm for oxidative stress and acute pulmonary inflammation",
+            "volume": "6",
+            "author": "Zhang",
+            "year": "2012",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib46",
+            "doi-asserted-by": "crossref",
+            "first-page": "75",
+            "DOI": "10.21037/atm.2017.02.05",
+            "article-title": "Hierarchical cluster analysis in clinical research with heterogeneous study population: highlighting its visualization with R",
+            "volume": "5",
+            "author": "Zhang",
+            "year": "2017",
+            "journal-title": "Ann. Transl. Med."
+        },
+        {
+            "key": "10.1016/j.chemosphere.2018.11.014_bib47",
+            "first-page": "1",
+            "article-title": "Nanotoxicology: toxicological and biological activities of nanomaterials",
+            "author": "Zhao",
+            "year": "2012",
+            "journal-title": "Nanosci. Nanotechnol."
+        }
+    ],
+    "container-title": "Chemosphere",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S0045653518321118?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S0045653518321118?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2018,
+                12,
+                24
+            ]
+        ],
+        "date-time": "2018-12-24T14:54:39Z",
+        "timestamp": 1545663279000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0045653518321118"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2019,
+                2
+            ]
+        ]
+    },
+    "references-count": 47,
+    "alternative-id": [
+        "S0045653518321118"
+    ],
+    "URL": "http://dx.doi.org/10.1016/j.chemosphere.2018.11.014",
+    "relation": {},
+    "ISSN": [
+        "0045-6535"
+    ],
+    "subject": [
+        "General Medicine",
+        "General Chemistry",
+        "Environmental Chemistry",
+        "Environmental Engineering",
+        "Pollution",
+        "Health, Toxicology and Mutagenesis",
+        "Public Health, Environmental and Occupational Health"
+    ],
+    "container-title-short": "Chemosphere",
+    "published": {
+        "date-parts": [
+            [
+                2019,
+                2
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+        },
+        {
+            "value": "Quasi-QSAR for predicting the cell viability of human lung and skin cells exposed to different metal oxide nanomaterials",
+            "name": "articletitle",
+            "label": "Article Title"
+        },
+        {
+            "value": "Chemosphere",
+            "name": "journaltitle",
+            "label": "Journal Title"
+        },
+        {
+            "value": "https://doi.org/10.1016/j.chemosphere.2018.11.014",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+        },
+        {
+            "value": "© 2018 Elsevier Ltd. All rights reserved.",
+            "name": "copyright",
+            "label": "Copyright"
+        }
+    ]
+}

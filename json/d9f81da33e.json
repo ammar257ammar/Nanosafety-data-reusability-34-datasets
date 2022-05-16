@@ -1,0 +1,687 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                25
+            ]
+        ],
+        "date-time": "2022-04-25T20:48:01Z",
+        "timestamp": 1650919681393
+    },
+    "reference-count": 44,
+    "publisher": "Elsevier BV",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2018,
+                        2,
+                        1
+                    ]
+                ],
+                "date-time": "2018-02-01T00:00:00Z",
+                "timestamp": 1517443200000
+            },
+            "content-version": "tdm",
+            "delay-in-days": 0,
+            "URL": "https://www.elsevier.com/tdm/userlicense/1.0/"
+        }
+    ],
+    "funder": [
+        {
+            "name": "NATO Science for Peace project",
+            "award": [
+                "SFP EAP.SFPP 984401"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100006769",
+            "name": "Russian Science Foundation",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "14-50-0012"
+            ]
+        },
+        {
+            "name": "EU-sponsored FP7",
+            "award": [
+                "604602"
+            ]
+        },
+        {
+            "name": "FP7 Marie Curie Initial Training Network project",
+            "award": [
+                "238701"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [
+            "elsevier.com",
+            "sciencedirect.com"
+        ],
+        "crossmark-restriction": true
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2018,
+                2
+            ]
+        ]
+    },
+    "DOI": "10.1016/j.fct.2017.08.008",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2017,
+                8,
+                9
+            ]
+        ],
+        "date-time": "2017-08-09T15:00:15Z",
+        "timestamp": 1502290815000
+    },
+    "page": "507-517",
+    "update-policy": "http://dx.doi.org/10.1016/elsevier_cm_policy",
+    "source": "Crossref",
+    "is-referenced-by-count": 27,
+    "title": "Modelling the toxicity of a large set of metal and metal oxide nanoparticles using the OCHEM platform",
+    "prefix": "10.1016",
+    "volume": "112",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0002-9352-7332",
+            "authenticated-orcid": false,
+            "given": "Vasyl",
+            "family": "Kovalishyn",
+            "sequence": "first",
+            "affiliation": []
+        },
+        {
+            "given": "Natalia",
+            "family": "Abramenko",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Iryna",
+            "family": "Kopernyk",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Larysa",
+            "family": "Charochkina",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Larysa",
+            "family": "Metelytsia",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Igor V.",
+            "family": "Tetko",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0003-2958-9149",
+            "authenticated-orcid": false,
+            "given": "Willie",
+            "family": "Peijnenburg",
+            "sequence": "additional",
+            "affiliation": []
+        },
+        {
+            "given": "Leonid",
+            "family": "Kustov",
+            "sequence": "additional",
+            "affiliation": []
+        }
+    ],
+    "member": "78",
+    "reference": [
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib1",
+            "doi-asserted-by": "crossref",
+            "first-page": "1897",
+            "DOI": "10.1002/smll.200801716",
+            "article-title": "Toxicity assessments of multisized gold and silver nanoparticles in zebrafish embryos",
+            "volume": "5",
+            "author": "Bar-Ilan",
+            "year": "2009",
+            "journal-title": "Small"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib2",
+            "doi-asserted-by": "crossref",
+            "first-page": "5",
+            "DOI": "10.1023/A:1010933404324",
+            "article-title": "Random forests",
+            "volume": "45",
+            "author": "Breiman",
+            "year": "2001",
+            "journal-title": "Mach. Learn"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib3",
+            "doi-asserted-by": "crossref",
+            "first-page": "17",
+            "DOI": "10.1116/1.2815690",
+            "article-title": "Nanomaterials and nanoparticles: sources and toxicity",
+            "volume": "2",
+            "author": "Buzea",
+            "year": "2007",
+            "journal-title": "Biointerphases"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib4",
+            "series-title": "International Handbook on Regulating Nanotechnologies",
+            "first-page": "124",
+            "article-title": "The current risk assessment paradigm in relation to regulation of nanotechnologies",
+            "author": "Chaudhry",
+            "year": "2010"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib5",
+            "series-title": "ChemAxon Standartizer and ChemAxon Plugins",
+            "author": "ChemAxon",
+            "year": "2016"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib6",
+            "series-title": "Online Demo - Fast 3D Structure Generation with CORINA",
+            "author": "Corina",
+            "year": "2016"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib7",
+            "doi-asserted-by": "crossref",
+            "first-page": "5959",
+            "DOI": "10.1021/ja00226a005",
+            "article-title": "Comparative molecular field analysis (CoMFA). 1. Effect of shape on binding of steroids to carrier proteins",
+            "volume": "110",
+            "author": "Cramer",
+            "year": "1988",
+            "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib8",
+            "series-title": "Nearest Neighbor (NN) Norms : Nn Pattern Classification Techniques",
+            "author": "Dasarathy",
+            "year": "1991"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib9",
+            "doi-asserted-by": "crossref",
+            "first-page": "5703",
+            "DOI": "10.1021/nn1013484",
+            "article-title": "Quantitative nanostructure-activity relationship modeling",
+            "volume": "4",
+            "author": "Fourches",
+            "year": "2010",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib10",
+            "first-page": "217",
+            "article-title": "Exploring quantitative nanostructure-activity relationships (QNAR) modeling as a tool for predicting biological effects of manufactured nanoparticle",
+            "volume": "14",
+            "author": "Fourches",
+            "year": "2011",
+            "journal-title": "Comb. Chem. High. T. Scr"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib11",
+            "doi-asserted-by": "crossref",
+            "first-page": "1663",
+            "DOI": "10.1016/j.addr.2012.05.014",
+            "article-title": "Advancing risk assessment of engineered nanomaterials: application of computational approaches",
+            "volume": "64",
+            "author": "Gajewicz",
+            "year": "2012",
+            "journal-title": "Adv. Drug Deliv. Rev."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib12",
+            "doi-asserted-by": "crossref",
+            "first-page": "11270",
+            "DOI": "10.1021/ja202836s",
+            "article-title": "Role of Fe doping in tuning the band gap of TiO2 for the photo-oxidation-induced cytotoxicity paradigm",
+            "volume": "133",
+            "author": "George",
+            "year": "2011",
+            "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib13",
+            "doi-asserted-by": "crossref",
+            "first-page": "1805",
+            "DOI": "10.1021/nn102734s",
+            "article-title": "Use of a high-throughput screening approach coupled with in vivo zebrafish embryo screening to develop hazard ranking for engineered nanomaterials",
+            "volume": "5",
+            "author": "George",
+            "year": "2011",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib14",
+            "doi-asserted-by": "crossref",
+            "first-page": "1039",
+            "DOI": "10.1021/ci00028a014",
+            "article-title": "Electrotopological state indexes for atom types - a novel combination of electronic, topological, and valence state information",
+            "volume": "35",
+            "author": "Hall",
+            "year": "1995",
+            "journal-title": "J. Chem. Inf. Comput. Sci."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib15",
+            "doi-asserted-by": "crossref",
+            "first-page": "10",
+            "DOI": "10.1145/1656274.1656278",
+            "article-title": "The WEKA data mining software: an update",
+            "volume": "11",
+            "author": "Hall",
+            "year": "2009",
+            "journal-title": "SIGKDD Explor."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib16",
+            "doi-asserted-by": "crossref",
+            "first-page": "229",
+            "DOI": "10.1021/js980266s",
+            "article-title": "Prediction of partition coefficient based on atom-type electrotopological state indices",
+            "volume": "88",
+            "author": "Huuskonen",
+            "year": "1999",
+            "journal-title": "J. Pharm. Sci."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib17",
+            "doi-asserted-by": "crossref",
+            "first-page": "6349",
+            "DOI": "10.1021/es9010543",
+            "article-title": "Toxicity and developmental defects of different sizes and shape nickel nanoparticles in zebrafish",
+            "volume": "43",
+            "author": "Ispas",
+            "year": "2009",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib18",
+            "doi-asserted-by": "crossref",
+            "first-page": "e102108",
+            "DOI": "10.1371/journal.pone.0102108",
+            "article-title": "Size-dependent toxicity of silver nanoparticles to bacteria, yeast, algae, crustaceans and mammalian cells in vitro",
+            "volume": "9",
+            "author": "Ivask",
+            "year": "2014",
+            "journal-title": "PloS One"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib19",
+            "doi-asserted-by": "crossref",
+            "first-page": "145",
+            "DOI": "10.1038/nnano.2008.30",
+            "article-title": "Nanoparticle-mediated cellular response is size-dependent",
+            "volume": "3",
+            "author": "Jiang",
+            "year": "2008",
+            "journal-title": "Nat. Nanotechnol."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1006/rtph.1996.1076",
+            "article-title": "A systematic approach for evaluating the quality of experimental toxicological and ecotoxicological data",
+            "volume": "25",
+            "author": "Klimisch",
+            "year": "1997",
+            "journal-title": "Regul. Toxicol. Pharmacol. RTP"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1029",
+            "DOI": "10.1021/tx300021u",
+            "article-title": "In vivo quantitative study of sized-dependent transport and toxicity of single silver nanoparticles using zebrafish embryos",
+            "volume": "25",
+            "author": "Lee",
+            "year": "2012",
+            "journal-title": "Chem. Res. Toxicol."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib22",
+            "doi-asserted-by": "crossref",
+            "first-page": "995",
+            "DOI": "10.1080/1062936X.2013.840679",
+            "article-title": "Evaluation criteria for the quality of published experimental data on nanomaterials and their usefulness for QSAR modelling",
+            "volume": "24",
+            "author": "Lubinski",
+            "year": "2013",
+            "journal-title": "Sar. QSAR Environ. Res."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib23",
+            "doi-asserted-by": "crossref",
+            "first-page": "1839",
+            "DOI": "10.1007/s11051-013-1839-3",
+            "article-title": "Exploring the development of a decision support system (DSS) to prioritize engineered nanoparticles for risk assessment",
+            "volume": "15",
+            "author": "Marvin",
+            "year": "2013",
+            "journal-title": "J. Nanoparticle Res."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib24",
+            "doi-asserted-by": "crossref",
+            "first-page": "50713",
+            "DOI": "10.1039/C4RA07756C",
+            "article-title": "Enalos InSilicoNano platform: an online decision support tool for the design and virtual screening of nanoparticles",
+            "volume": "4",
+            "author": "Melagraki",
+            "year": "2014",
+            "journal-title": "RSC Adv."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib25",
+            "first-page": "260",
+            "article-title": "Editorial: towards open access for cheminformatics",
+            "volume": "19",
+            "author": "Melagraki",
+            "year": "2016",
+            "journal-title": "Comb. Chem. High. T. Scr"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib26",
+            "series-title": "On-line Chemical Database and Modelling Environment (OCHEM)",
+            "author": "OCHEM",
+            "year": "2017"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib27",
+            "series-title": "Guidance Manual for the Testing of Manufactured Nanomaterials",
+            "author": "OECD",
+            "year": "2010"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib28",
+            "doi-asserted-by": "crossref",
+            "first-page": "1",
+            "DOI": "10.1016/j.partic.2014.12.001",
+            "article-title": "(Q)SAR modelling of nanomaterial toxicity: a critical review",
+            "volume": "21",
+            "author": "Oksel",
+            "year": "2015",
+            "journal-title": "Particuology"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib29",
+            "doi-asserted-by": "crossref",
+            "first-page": "108",
+            "DOI": "10.1016/j.taap.2009.07.019",
+            "article-title": "In vitro developmental toxicity test detects inhibition of stem cell differentiation by silica nanoparticles",
+            "volume": "240",
+            "author": "Park",
+            "year": "2009",
+            "journal-title": "Toxicol. Appl. Pharmacol."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib30",
+            "series-title": "Numerical Recipes in C++. The Art of Scientific Computing",
+            "author": "Press",
+            "year": "2002"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib31",
+            "doi-asserted-by": "crossref",
+            "first-page": "202",
+            "DOI": "10.1002/cem.1296",
+            "article-title": "Applicability domain for in silico models to achieve accuracy of experimental measurements",
+            "volume": "24",
+            "author": "Sushko",
+            "year": "2010",
+            "journal-title": "J. Chemom."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib32",
+            "doi-asserted-by": "crossref",
+            "first-page": "533",
+            "DOI": "10.1007/s10822-011-9440-2",
+            "article-title": "Online chemical modeling environment (OCHEM): web platform for data storage, model development and publishing of chemical information",
+            "volume": "25",
+            "author": "Sushko",
+            "year": "2011",
+            "journal-title": "J. Comput. Aided. Mol. Des."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib33",
+            "doi-asserted-by": "crossref",
+            "first-page": "7155",
+            "DOI": "10.1021/nn201950e",
+            "article-title": "Nanoparticle size is a critical physicochemical determinant of the human blood plasma corona: a comprehensive quantitative proteomic analysis",
+            "volume": "5",
+            "author": "Tenzer",
+            "year": "2011",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib34",
+            "first-page": "185",
+            "article-title": "Associative neural network",
+            "volume": "458",
+            "author": "Tetko",
+            "year": "2008",
+            "journal-title": "Methods Mol. Biol."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib35",
+            "series-title": "Associative Neural Networks: an Innovative Method to Predict Physico-chemical, Biological and ADMETox Properties",
+            "first-page": "65",
+            "author": "Tetko",
+            "year": "2011"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib36",
+            "series-title": "Tutorial 2b. Descriptor Selection Bias., Strasbourg Summer School on Chemoinformatics: CheminfoS3 Obernai",
+            "author": "Tetko",
+            "year": "2008"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib37",
+            "doi-asserted-by": "crossref",
+            "DOI": "10.1002/minf.201600082",
+            "article-title": "Public (Q)SAR services, integrated modeling environments, and model repositories on the web: state of the art and perspectives for future development",
+            "volume": "36",
+            "author": "Tetko",
+            "year": "2017",
+            "journal-title": "Mol. Inf."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1733",
+            "DOI": "10.1021/ci800151m",
+            "article-title": "Critical assessment of QSAR models of environmental toxicity against Tetrahymena pyriformis: focusing on applicability domain and overfitting by variable selection",
+            "volume": "48",
+            "author": "Tetko",
+            "year": "2008",
+            "journal-title": "J. Chem. Inf. Model"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib39",
+            "doi-asserted-by": "crossref",
+            "first-page": "561",
+            "DOI": "10.1016/0893-6080(90)90006-7",
+            "article-title": "SuperSAB: fast adaptive back propagation with good scaling properties",
+            "volume": "3",
+            "author": "Tollenaere",
+            "year": "1990",
+            "journal-title": "Neural Netw."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib40",
+            "doi-asserted-by": "crossref",
+            "first-page": "39",
+            "DOI": "10.1016/j.ecoenv.2014.10.003",
+            "article-title": "Optimal descriptor as a translator of eclectic data into prediction of cytotoxicity for metal oxide nanoparticles under different conditions",
+            "volume": "112",
+            "author": "Toropova",
+            "year": "2015",
+            "journal-title": "Ecotoxicol. Environ. Saf."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib41",
+            "doi-asserted-by": "crossref",
+            "first-page": "476",
+            "DOI": "10.1002/minf.201000061",
+            "article-title": "Best practices for QSAR model development, validation, and exploitation",
+            "volume": "29",
+            "author": "Tropsha",
+            "year": "2010",
+            "journal-title": "Mol. Inf."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib42",
+            "doi-asserted-by": "crossref",
+            "first-page": "841",
+            "DOI": "10.1002/smll.200500104",
+            "article-title": "Cellular uptake and toxicity of Au55 clusters",
+            "volume": "1",
+            "author": "Tsoli",
+            "year": "2005",
+            "journal-title": "Small"
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib43",
+            "doi-asserted-by": "crossref",
+            "first-page": "24839",
+            "DOI": "10.1038/srep24839",
+            "article-title": "The neglected nano-specific toxicity of ZnO nanoparticles in the yeast Saccharomyces cerevisiae",
+            "volume": "6",
+            "author": "Zhang",
+            "year": "2016",
+            "journal-title": "Sci. Rep."
+        },
+        {
+            "key": "10.1016/j.fct.2017.08.008_bib44",
+            "doi-asserted-by": "crossref",
+            "first-page": "278",
+            "DOI": "10.1080/10934520701792779",
+            "article-title": "Comparative toxicity of several metal oxide nanoparticle aqueous suspensions to Zebrafish (Danio rerio) early developmental stage",
+            "volume": "43",
+            "author": "Zhu",
+            "year": "2008",
+            "journal-title": "J. Environ. Sci. Health A Tox Hazard Subst. Environ. Eng."
+        }
+    ],
+    "container-title": "Food and Chemical Toxicology",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S0278691517304581?httpAccept=text/xml",
+            "content-type": "text/xml",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        },
+        {
+            "URL": "https://api.elsevier.com/content/article/PII:S0278691517304581?httpAccept=text/plain",
+            "content-type": "text/plain",
+            "content-version": "vor",
+            "intended-application": "text-mining"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2019,
+                8,
+                9
+            ]
+        ],
+        "date-time": "2019-08-09T10:42:16Z",
+        "timestamp": 1565347336000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://linkinghub.elsevier.com/retrieve/pii/S0278691517304581"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2018,
+                2
+            ]
+        ]
+    },
+    "references-count": 44,
+    "alternative-id": [
+        "S0278691517304581"
+    ],
+    "URL": "http://dx.doi.org/10.1016/j.fct.2017.08.008",
+    "relation": {},
+    "ISSN": [
+        "0278-6915"
+    ],
+    "subject": [
+        "Toxicology",
+        "General Medicine",
+        "Food Science"
+    ],
+    "container-title-short": "Food and Chemical Toxicology",
+    "published": {
+        "date-parts": [
+            [
+                2018,
+                2
+            ]
+        ]
+    },
+    "assertion": [
+        {
+            "value": "Elsevier",
+            "name": "publisher",
+            "label": "This article is maintained by"
+        },
+        {
+            "value": "Modelling the toxicity of a large set of metal and metal oxide nanoparticles using the OCHEM platform",
+            "name": "articletitle",
+            "label": "Article Title"
+        },
+        {
+            "value": "Food and Chemical Toxicology",
+            "name": "journaltitle",
+            "label": "Journal Title"
+        },
+        {
+            "value": "https://doi.org/10.1016/j.fct.2017.08.008",
+            "name": "articlelink",
+            "label": "CrossRef DOI link to publisher maintained version"
+        },
+        {
+            "value": "article",
+            "name": "content_type",
+            "label": "Content Type"
+        },
+        {
+            "value": "© 2017 Elsevier Ltd. All rights reserved.",
+            "name": "copyright",
+            "label": "Copyright"
+        }
+    ]
+}

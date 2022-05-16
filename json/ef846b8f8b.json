@@ -1,0 +1,1163 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                14
+            ]
+        ],
+        "date-time": "2022-04-14T11:48:25Z",
+        "timestamp": 1649936905149
+    },
+    "reference-count": 87,
+    "publisher": "American Chemical Society (ACS)",
+    "issue": "24",
+    "funder": [
+        {
+            "DOI": "10.13039/501100001871",
+            "name": "Fundação para a Ciência e a Tecnologia",
+            "doi-asserted-by": "publisher",
+            "award": [
+                "Pest-C/EQB/LA0006/2013",
+                "SFRH/BD/77690/2011"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100004895",
+            "name": "European Social Fund",
+            "doi-asserted-by": "crossref",
+            "award": [
+                "Grant SFRH/BPD/63666/2009"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100004837",
+            "name": "Ministerio de Ciencia e Innovación",
+            "doi-asserted-by": "crossref",
+            "award": [
+                "MAT2011-25501"
+            ]
+        },
+        {
+            "DOI": "10.13039/501100008530",
+            "name": "European Regional Development Fund",
+            "doi-asserted-by": "crossref",
+            "award": [
+                "NORTE-07-0124-FEDER-000067-NANOCHEMISTRY",
+                "Pest-C/EQB/LA0006/2013"
+            ]
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2014,
+                12,
+                16
+            ]
+        ]
+    },
+    "DOI": "10.1021/es503861x",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2014,
+                11,
+                10
+            ]
+        ],
+        "date-time": "2014-11-10T18:53:21Z",
+        "timestamp": 1415645601000
+    },
+    "page": "14686-14694",
+    "source": "Crossref",
+    "is-referenced-by-count": 105,
+    "title": "Computational Tool for Risk Assessment of Nanomaterials: Novel QSTR-Perturbation Model for Simultaneous Prediction of Ecotoxicity and Cytotoxicity of Uncoated and Coated Nanoparticles under Multiple Experimental Conditions",
+    "prefix": "10.1021",
+    "volume": "48",
+    "author": [
+        {
+            "given": "Valeria V.",
+            "family": "Kleandrova",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "REQUIMTE/Department\rof Chemistry and Biochemistry, University of Porto, 4169-007 Porto, Portugal"
+                }
+            ]
+        },
+        {
+            "given": "Feng",
+            "family": "Luan",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "REQUIMTE/Department\rof Chemistry and Biochemistry, University of Porto, 4169-007 Porto, Portugal"
+                },
+                {
+                    "name": "Department\rof Applied Chemistry, Yantai University, Yantai 264005, People’s Republic of China"
+                }
+            ]
+        },
+        {
+            "given": "Humberto",
+            "family": "González-Díaz",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department\rof Organic Chemistry II, University of the Basque Country UPV/EHU, 48940 Bilbao, Spain"
+                },
+                {
+                    "name": "IKERBASQUE, Basque Foundation for Science, 48011 Bilbao, Spain"
+                }
+            ]
+        },
+        {
+            "given": "Juan M.",
+            "family": "Ruso",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Department\rof Applied Physics, University of Santiago de Compostela (USC), 15782 Santiago de Compostela, Spain"
+                }
+            ]
+        },
+        {
+            "given": "Alejandro",
+            "family": "Speck-Planche",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "REQUIMTE/Department\rof Chemistry and Biochemistry, University of Porto, 4169-007 Porto, Portugal"
+                },
+                {
+                    "name": "Department\rof Applied Physics, University of Santiago de Compostela (USC), 15782 Santiago de Compostela, Spain"
+                }
+            ]
+        },
+        {
+            "given": "M. Natália D. S.",
+            "family": "Cordeiro",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "REQUIMTE/Department\rof Chemistry and Biochemistry, University of Porto, 4169-007 Porto, Portugal"
+                }
+            ]
+        }
+    ],
+    "member": "316",
+    "published-online": {
+        "date-parts": [
+            [
+                2014,
+                11,
+                21
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "issue": "22",
+            "key": "ref1/cit1",
+            "doi-asserted-by": "crossref",
+            "first-page": "3784",
+            "DOI": "10.1002/smll.201300522",
+            "volume": "9",
+            "author": "Kim B. J.",
+            "year": "2013",
+            "journal-title": "Small"
+        },
+        {
+            "key": "ref2/cit2",
+            "doi-asserted-by": "crossref",
+            "volume-title": "Nanoscale Materials",
+            "author": "Liz-Marzán L. M.",
+            "year": "2004",
+            "DOI": "10.1007/b101855"
+        },
+        {
+            "issue": "11",
+            "key": "ref3/cit3",
+            "doi-asserted-by": "crossref",
+            "first-page": "9366",
+            "DOI": "10.1021/nn205097e",
+            "volume": "6",
+            "author": "Chen C. Y.",
+            "year": "2012",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "issue": "1",
+            "key": "ref4/cit4",
+            "doi-asserted-by": "crossref",
+            "first-page": "113",
+            "DOI": "10.1016/S1381-1169(01)00313-2",
+            "volume": "177",
+            "author": "Biffis A.",
+            "year": "2001",
+            "journal-title": "J. Mol. Catal. A"
+        },
+        {
+            "issue": "10",
+            "key": "ref5/cit5",
+            "doi-asserted-by": "crossref",
+            "first-page": "8673",
+            "DOI": "10.1021/nn4029184",
+            "volume": "7",
+            "author": "Chan N. Y.",
+            "year": "2013",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "issue": "10",
+            "key": "ref6/cit6",
+            "doi-asserted-by": "crossref",
+            "first-page": "4957",
+            "DOI": "10.1021/nl4029973",
+            "volume": "13",
+            "author": "Lu P.",
+            "year": "2013",
+            "journal-title": "Nano Lett."
+        },
+        {
+            "issue": "7",
+            "key": "ref7/cit7",
+            "doi-asserted-by": "crossref",
+            "first-page": "1003",
+            "DOI": "10.1002/smll.201202023",
+            "volume": "9",
+            "author": "Yang B.",
+            "year": "2013",
+            "journal-title": "Small"
+        },
+        {
+            "issue": "18",
+            "key": "ref8/cit8",
+            "doi-asserted-by": "crossref",
+            "first-page": "7690",
+            "DOI": "10.1021/ja211121m",
+            "volume": "134",
+            "author": "Moseler M.",
+            "year": "2012",
+            "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+            "issue": "8",
+            "key": "ref9/cit9",
+            "doi-asserted-by": "crossref",
+            "first-page": "468",
+            "DOI": "10.1016/j.tibtech.2009.04.003",
+            "volume": "27",
+            "author": "Corchero J. L.",
+            "year": "2009",
+            "journal-title": "Trends Biotechnol."
+        },
+        {
+            "issue": "28",
+            "key": "ref10/cit10",
+            "doi-asserted-by": "crossref",
+            "first-page": "3869",
+            "DOI": "10.1002/adma.201301890",
+            "volume": "25",
+            "author": "Zhang Z.",
+            "year": "2013",
+            "journal-title": "Adv. Mater."
+        },
+        {
+            "issue": "1",
+            "key": "ref11/cit11",
+            "doi-asserted-by": "crossref",
+            "first-page": "188",
+            "DOI": "10.1021/nl303850v",
+            "volume": "13",
+            "author": "Schoen D. T.",
+            "year": "2013",
+            "journal-title": "Nano Lett."
+        },
+        {
+            "issue": "16",
+            "key": "ref12/cit12",
+            "doi-asserted-by": "crossref",
+            "first-page": "5896",
+            "DOI": "10.1021/ja502011g",
+            "volume": "136",
+            "author": "Liao L.",
+            "year": "2014",
+            "journal-title": "J. Am. Chem. Soc."
+        },
+        {
+            "issue": "10",
+            "key": "ref13/cit13",
+            "doi-asserted-by": "crossref",
+            "first-page": "8320",
+            "DOI": "10.1021/nn404613v",
+            "volume": "7",
+            "author": "Lu C. H.",
+            "year": "2013",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "issue": "5",
+            "key": "ref14/cit14",
+            "doi-asserted-by": "crossref",
+            "first-page": "631",
+            "DOI": "10.1016/S0169-409X(02)00044-3",
+            "volume": "54",
+            "author": "Brigger I.",
+            "year": "2002",
+            "journal-title": "Adv. Drug Delivery Rev."
+        },
+        {
+            "issue": "3",
+            "key": "ref15/cit15",
+            "doi-asserted-by": "crossref",
+            "first-page": "813",
+            "DOI": "10.1021/ar300069t",
+            "volume": "46",
+            "author": "Holden P. A.",
+            "year": "2013",
+            "journal-title": "Acc. Chem. Res."
+        },
+        {
+            "issue": "10",
+            "key": "ref16/cit16",
+            "doi-asserted-by": "crossref",
+            "first-page": "5703",
+            "DOI": "10.1021/nn1013484",
+            "volume": "4",
+            "author": "Fourches D.",
+            "year": "2010",
+            "journal-title": "ACS Nano"
+        },
+        {
+            "issue": "4",
+            "key": "ref17/cit17",
+            "doi-asserted-by": "crossref",
+            "first-page": "600",
+            "DOI": "10.1016/j.tiv.2013.12.018",
+            "volume": "28",
+            "author": "Kar S.",
+            "year": "2014",
+            "journal-title": "Toxicol. In Vitro"
+        },
+        {
+            "issue": "3",
+            "key": "ref18/cit18",
+            "doi-asserted-by": "crossref",
+            "first-page": "175",
+            "DOI": "10.1038/nnano.2011.10",
+            "volume": "6",
+            "author": "Puzyn T.",
+            "year": "2011",
+            "journal-title": "Nat. Nanotechnol."
+        },
+        {
+            "issue": "9",
+            "key": "ref19/cit19",
+            "doi-asserted-by": "crossref",
+            "first-page": "1098",
+            "DOI": "10.1016/j.chemosphere.2012.05.077",
+            "volume": "89",
+            "author": "Toropov A. A.",
+            "year": "2012",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "issue": "8",
+            "key": "ref20/cit20",
+            "doi-asserted-by": "crossref",
+            "first-page": "1118",
+            "DOI": "10.1002/smll.201002366",
+            "volume": "7",
+            "author": "Liu R.",
+            "year": "2011",
+            "journal-title": "Small"
+        },
+        {
+            "issue": "9",
+            "key": "ref21/cit21",
+            "doi-asserted-by": "crossref",
+            "first-page": "1842",
+            "DOI": "10.1002/smll.201201903",
+            "volume": "9",
+            "author": "Liu R.",
+            "year": "2013",
+            "journal-title": "Small"
+        },
+        {
+            "issue": "14",
+            "key": "ref22/cit22",
+            "doi-asserted-by": "crossref",
+            "first-page": "1713",
+            "DOI": "10.2174/1568026611313140011",
+            "volume": "13",
+            "author": "Gonzalez-Diaz H.",
+            "year": "2013",
+            "journal-title": "Curr. Top. Med. Chem."
+        },
+        {
+            "issue": "3",
+            "key": "ref23/cit23",
+            "doi-asserted-by": "crossref",
+            "first-page": "354",
+            "DOI": "10.1016/j.tiv.2013.12.001",
+            "volume": "28",
+            "author": "Ha S. W.",
+            "year": "2014",
+            "journal-title": "Toxicol. In Vitro"
+        },
+        {
+            "issue": "7",
+            "key": "ref24/cit24",
+            "doi-asserted-by": "crossref",
+            "first-page": "975",
+            "DOI": "10.1016/j.tiv.2005.06.034",
+            "volume": "19",
+            "author": "Hussain S. M.",
+            "year": "2005",
+            "journal-title": "Toxicol. In Vitro"
+        },
+        {
+            "issue": "1",
+            "key": "ref25/cit25",
+            "doi-asserted-by": "crossref",
+            "first-page": "598",
+            "DOI": "10.1016/j.apsusc.2012.10.073",
+            "volume": "264",
+            "author": "Salunkhe A. B.",
+            "year": "2013",
+            "journal-title": "Appl. Surf. Sci."
+        },
+        {
+            "issue": "8",
+            "key": "ref26/cit26",
+            "doi-asserted-by": "crossref",
+            "first-page": "1694",
+            "DOI": "10.1016/j.tiv.2011.07.010",
+            "volume": "25",
+            "author": "Radziun E.",
+            "year": "2011",
+            "journal-title": "Toxicol. In Vitro"
+        },
+        {
+            "issue": "4",
+            "key": "ref27/cit27",
+            "doi-asserted-by": "crossref",
+            "first-page": "382",
+            "DOI": "10.3109/17435390.2010.501913",
+            "volume": "4",
+            "author": "Gonzalez L.",
+            "year": "2010",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "issue": "12",
+            "key": "ref28/cit28",
+            "doi-asserted-by": "crossref",
+            "first-page": "2699",
+            "DOI": "10.1080/10934520600966177",
+            "volume": "41",
+            "author": "Jeng H. A.",
+            "year": "2006",
+            "journal-title": "J. Environ. Sci. Health A Tox. Hazard. Subst. Environ. Eng."
+        },
+        {
+            "issue": "7",
+            "key": "ref29/cit29",
+            "doi-asserted-by": "crossref",
+            "first-page": "746",
+            "DOI": "10.3109/17435390.2011.620717",
+            "volume": "6",
+            "author": "Li C. H.",
+            "year": "2012",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "issue": "1",
+            "key": "ref30/cit30",
+            "doi-asserted-by": "crossref",
+            "first-page": "11",
+            "DOI": "10.1016/j.mrgentox.2011.10.010",
+            "volume": "745",
+            "author": "Uboldi C.",
+            "year": "2012",
+            "journal-title": "Mutat. Res."
+        },
+        {
+            "issue": "3",
+            "key": "ref31/cit31",
+            "doi-asserted-by": "crossref",
+            "first-page": "252",
+            "DOI": "10.1016/j.taap.2006.10.004",
+            "volume": "217",
+            "author": "Lin W.",
+            "year": "2006",
+            "journal-title": "Toxicol. Appl. Pharmacol."
+        },
+        {
+            "issue": "2",
+            "key": "ref32/cit32",
+            "doi-asserted-by": "crossref",
+            "first-page": "319",
+            "DOI": "10.1016/j.cbi.2013.09.020",
+            "volume": "206",
+            "author": "Chusuei C. C.",
+            "year": "2013",
+            "journal-title": "Chem. Biol. Interact."
+        },
+        {
+            "issue": "4",
+            "key": "ref33/cit33",
+            "doi-asserted-by": "crossref",
+            "first-page": "383",
+            "DOI": "10.3109/17435390.2013.790997",
+            "volume": "8",
+            "author": "Song L.",
+            "year": "2014",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "ref34/cit34",
+            "doi-asserted-by": "crossref",
+            "first-page": "32",
+            "DOI": "10.1186/1743-8977-10-32",
+            "volume": "10",
+            "author": "Horev-Azaria L.",
+            "year": "2013",
+            "journal-title": "Part. Fibre Toxicol"
+        },
+        {
+            "issue": "43",
+            "key": "ref35/cit35",
+            "doi-asserted-by": "crossref",
+            "first-page": "13608",
+            "DOI": "10.1021/jp712087m",
+            "volume": "112",
+            "author": "Carlson C.",
+            "year": "2008",
+            "journal-title": "J. Phys. Chem. B"
+        },
+        {
+            "issue": "10",
+            "key": "ref36/cit36",
+            "doi-asserted-by": "crossref",
+            "first-page": "2514",
+            "DOI": "10.1016/j.chemosphere.2013.09.047",
+            "volume": "93",
+            "author": "Ahamed M.",
+            "year": "2013",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "issue": "19",
+            "key": "ref37/cit37",
+            "doi-asserted-by": "crossref",
+            "first-page": "3307",
+            "DOI": "10.1016/j.biomaterials.2009.02.044",
+            "volume": "30",
+            "author": "Motskin M.",
+            "year": "2009",
+            "journal-title": "Biomaterials"
+        },
+        {
+            "issue": "1",
+            "key": "ref38/cit38",
+            "doi-asserted-by": "crossref",
+            "first-page": "1379",
+            "DOI": "10.2147/IJN.S52625",
+            "volume": "9",
+            "author": "Selvaraj V.",
+            "year": "2014",
+            "journal-title": "Int. J. Nanomedicine"
+        },
+        {
+            "issue": "2",
+            "key": "ref39/cit39",
+            "doi-asserted-by": "crossref",
+            "first-page": "289",
+            "DOI": "10.1016/j.taap.2013.09.001",
+            "volume": "273",
+            "author": "Saquib Q.",
+            "year": "2013",
+            "journal-title": "Toxicol. Appl. Pharmacol."
+        },
+        {
+            "issue": "2",
+            "key": "ref40/cit40",
+            "doi-asserted-by": "crossref",
+            "first-page": "578",
+            "DOI": "10.1016/j.bbrc.2010.04.156",
+            "volume": "396",
+            "author": "Ahamed M.",
+            "year": "2010",
+            "journal-title": "Biochem. Biophys. Res. Commun."
+        },
+        {
+            "issue": "3",
+            "key": "ref41/cit41",
+            "doi-asserted-by": "crossref",
+            "first-page": "205",
+            "DOI": "10.1016/j.toxlet.2012.11.022",
+            "volume": "217",
+            "author": "Coradeghini R.",
+            "year": "2013",
+            "journal-title": "Toxicol. Lett."
+        },
+        {
+            "issue": "1",
+            "key": "ref42/cit42",
+            "doi-asserted-by": "crossref",
+            "first-page": "305",
+            "DOI": "10.1016/j.tiv.2012.08.024",
+            "volume": "27",
+            "author": "Grosse S.",
+            "year": "2013",
+            "journal-title": "Toxicol. In Vitro"
+        },
+        {
+            "issue": "10",
+            "key": "ref43/cit43",
+            "doi-asserted-by": "crossref",
+            "first-page": "1111",
+            "DOI": "10.1002/jat.2865",
+            "volume": "33",
+            "author": "Fraga S.",
+            "year": "2013",
+            "journal-title": "J. Appl. Toxicol."
+        },
+        {
+            "issue": "6",
+            "key": "ref44/cit44",
+            "doi-asserted-by": "crossref",
+            "first-page": "429",
+            "DOI": "10.1002/jat.1745",
+            "volume": "32",
+            "author": "Xu Z.",
+            "year": "2012",
+            "journal-title": "J. Appl. Toxicol."
+        },
+        {
+            "issue": "7",
+            "key": "ref45/cit45",
+            "doi-asserted-by": "crossref",
+            "first-page": "1512",
+            "DOI": "10.1021/tx3002093",
+            "volume": "25",
+            "author": "Wang Z.",
+            "year": "2012",
+            "journal-title": "Chem. Res. Toxicol."
+        },
+        {
+            "issue": "4",
+            "key": "ref46/cit46",
+            "doi-asserted-by": "crossref",
+            "first-page": "930",
+            "DOI": "10.1016/j.tiv.2011.02.015",
+            "volume": "25",
+            "author": "Ahamed M.",
+            "year": "2011",
+            "journal-title": "Toxicol. In Vitro"
+        },
+        {
+            "issue": "4",
+            "key": "ref47/cit47",
+            "doi-asserted-by": "crossref",
+            "first-page": "455",
+            "DOI": "10.3109/17435390.2013.796538",
+            "volume": "8",
+            "author": "Sabbioni E.",
+            "year": "2014",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "issue": "11",
+            "key": "ref48/cit48",
+            "doi-asserted-by": "crossref",
+            "first-page": "4870",
+            "DOI": "10.1039/c3nr34266b",
+            "volume": "5",
+            "author": "Bhattacharjee S.",
+            "year": "2013",
+            "journal-title": "Nanoscale"
+        },
+        {
+            "issue": "2",
+            "key": "ref49/cit49",
+            "doi-asserted-by": "crossref",
+            "first-page": "254",
+            "DOI": "10.3109/17435390.2010.528847",
+            "volume": "5",
+            "author": "Tarantola M.",
+            "year": "2011",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "key": "ref50/cit50",
+            "doi-asserted-by": "crossref",
+            "first-page": "303",
+            "DOI": "10.1016/j.jhazmat.2013.11.031",
+            "volume": "264",
+            "author": "Chueh P. J.",
+            "year": "2014",
+            "journal-title": "J. Hazard. Mater."
+        },
+        {
+            "issue": "6",
+            "key": "ref51/cit51",
+            "doi-asserted-by": "crossref",
+            "first-page": "1116",
+            "DOI": "10.1016/j.tiv.2009.05.015",
+            "volume": "23",
+            "author": "Kasemets K.",
+            "year": "2009",
+            "journal-title": "Toxicol. In Vitro"
+        },
+        {
+            "issue": "7",
+            "key": "ref52/cit52",
+            "doi-asserted-by": "crossref",
+            "first-page": "1308",
+            "DOI": "10.1016/j.chemosphere.2007.11.047",
+            "volume": "71",
+            "author": "Heinlaan M.",
+            "year": "2008",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "issue": "2",
+            "key": "ref53/cit53",
+            "doi-asserted-by": "crossref",
+            "first-page": "182",
+            "DOI": "10.1016/j.tox.2009.07.007",
+            "volume": "269",
+            "author": "Mortimer M.",
+            "year": "2010",
+            "journal-title": "Toxicology"
+        },
+        {
+            "issue": "4",
+            "key": "ref54/cit54",
+            "doi-asserted-by": "crossref",
+            "first-page": "225",
+            "DOI": "10.1065/espr2006.06.311",
+            "volume": "13",
+            "author": "Hund-Rinke K.",
+            "year": "2006",
+            "journal-title": "Environ. Sci. Pollut. Res. Int."
+        },
+        {
+            "issue": "8",
+            "key": "ref55/cit55",
+            "doi-asserted-by": "crossref",
+            "first-page": "3287",
+            "DOI": "10.1007/s11051-011-0243-0",
+            "volume": "13",
+            "author": "Sadiq I. M.",
+            "year": "2011",
+            "journal-title": "J. Nanopart. Res."
+        },
+        {
+            "issue": "4",
+            "key": "ref56/cit56",
+            "doi-asserted-by": "crossref",
+            "first-page": "510",
+            "DOI": "10.1016/j.chemosphere.2010.12.059",
+            "volume": "83",
+            "author": "Gong N.",
+            "year": "2011",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "issue": "9",
+            "key": "ref57/cit57",
+            "doi-asserted-by": "crossref",
+            "first-page": "1972",
+            "DOI": "10.1897/08-002.1",
+            "volume": "27",
+            "author": "Griffitt R. J.",
+            "year": "2008",
+            "journal-title": "Environ. Toxicol. Chem."
+        },
+        {
+            "issue": "5",
+            "key": "ref58/cit58",
+            "doi-asserted-by": "crossref",
+            "first-page": "1180",
+            "DOI": "10.1016/j.ecoenv.2011.03.006",
+            "volume": "74",
+            "author": "Sadiq I. M.",
+            "year": "2011",
+            "journal-title": "Ecotoxicol. Environ. Saf."
+        },
+        {
+            "key": "ref59/cit59",
+            "doi-asserted-by": "crossref",
+            "first-page": "48",
+            "DOI": "10.2478/nanome-2013-0004",
+            "volume": "1",
+            "author": "Tuominen M.",
+            "year": "2013",
+            "journal-title": "Nanomater. Environ."
+        },
+        {
+            "issue": "1",
+            "key": "ref60/cit60",
+            "doi-asserted-by": "crossref",
+            "first-page": "136",
+            "DOI": "10.1016/j.desal.2010.10.052",
+            "volume": "269",
+            "author": "García A.",
+            "year": "2011",
+            "journal-title": "Desalination"
+        },
+        {
+            "issue": "24",
+            "key": "ref61/cit61",
+            "doi-asserted-by": "crossref",
+            "first-page": "8484",
+            "DOI": "10.1021/es071445r",
+            "volume": "41",
+            "author": "Franklin N. M.",
+            "year": "2007",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "issue": "17",
+            "key": "ref62/cit62",
+            "doi-asserted-by": "crossref",
+            "first-page": "2680",
+            "DOI": "10.1002/smll.201200591",
+            "volume": "8",
+            "author": "Han X.",
+            "year": "2012",
+            "journal-title": "Small"
+        },
+        {
+            "issue": "3",
+            "key": "ref63/cit63",
+            "doi-asserted-by": "crossref",
+            "first-page": "273",
+            "DOI": "10.1016/j.chemosphere.2009.10.050",
+            "volume": "78",
+            "author": "Ma Y.",
+            "year": "2010",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "issue": "2",
+            "key": "ref64/cit64",
+            "doi-asserted-by": "crossref",
+            "first-page": "243",
+            "DOI": "10.1016/j.envpol.2007.01.016",
+            "volume": "150",
+            "author": "Lin D.",
+            "year": "2007",
+            "journal-title": "Environ. Pollut."
+        },
+        {
+            "issue": "4",
+            "key": "ref65/cit65",
+            "doi-asserted-by": "crossref",
+            "first-page": "743",
+            "DOI": "10.3109/17435390.2010.545487",
+            "volume": "5",
+            "author": "Ma Y.",
+            "year": "2011",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "issue": "1",
+            "key": "ref66/cit66",
+            "doi-asserted-by": "crossref",
+            "first-page": "67",
+            "DOI": "10.1007/s11051-008-9426-8",
+            "volume": "11",
+            "author": "Zhu X.",
+            "year": "2009",
+            "journal-title": "J. Nanopart. Res."
+        },
+        {
+            "issue": "3",
+            "key": "ref67/cit67",
+            "doi-asserted-by": "crossref",
+            "first-page": "209",
+            "DOI": "10.1016/j.chemosphere.2009.11.013",
+            "volume": "78",
+            "author": "Zhu X.",
+            "year": "2010",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "issue": "9",
+            "key": "ref68/cit68",
+            "doi-asserted-by": "crossref",
+            "first-page": "e74003",
+            "DOI": "10.1371/journal.pone.0074003",
+            "volume": "8",
+            "author": "Pakrashi S.",
+            "year": "2013",
+            "journal-title": "PLoS One"
+        },
+        {
+            "issue": "4",
+            "key": "ref69/cit69",
+            "doi-asserted-by": "crossref",
+            "first-page": "1171",
+            "DOI": "10.1016/j.envpol.2008.11.004",
+            "volume": "157",
+            "author": "Wang H.",
+            "year": "2009",
+            "journal-title": "Environ. Pollut."
+        },
+        {
+            "issue": "1",
+            "key": "ref70/cit70",
+            "doi-asserted-by": "crossref",
+            "first-page": "43",
+            "DOI": "10.3109/17435390.2010.489207",
+            "volume": "5",
+            "author": "Asharani P. V.",
+            "year": "2011",
+            "journal-title": "Nanotoxicology"
+        },
+        {
+            "issue": "16",
+            "key": "ref71/cit71",
+            "doi-asserted-by": "crossref",
+            "first-page": "1897",
+            "DOI": "10.1002/smll.200801716",
+            "volume": "5",
+            "author": "Bar-Ilan O.",
+            "year": "2009",
+            "journal-title": "Small"
+        },
+        {
+            "issue": "3",
+            "key": "ref72/cit72",
+            "doi-asserted-by": "crossref",
+            "first-page": "278",
+            "DOI": "10.1080/10934520701792779",
+            "volume": "43",
+            "author": "Zhu X.",
+            "year": "2008",
+            "journal-title": "J. Environ. Sci. Health A Tox. Hazard. Subst. Environ. Eng."
+        },
+        {
+            "key": "ref73/cit73",
+            "doi-asserted-by": "crossref",
+            "first-page": "413",
+            "DOI": "10.1016/j.jhazmat.2012.02.014",
+            "volume": "213",
+            "author": "Zhang W.",
+            "year": "2012",
+            "journal-title": "J. Hazard. Mater."
+        },
+        {
+            "key": "ref74/cit74",
+            "doi-asserted-by": "crossref",
+            "first-page": "968",
+            "DOI": "10.1016/j.scitotenv.2013.09.006",
+            "volume": "468",
+            "author": "Silva T.",
+            "year": "2014",
+            "journal-title": "Sci. Total Environ."
+        },
+        {
+            "issue": "4",
+            "key": "ref75/cit75",
+            "doi-asserted-by": "crossref",
+            "first-page": "2316",
+            "DOI": "10.1021/es2031483",
+            "volume": "46",
+            "author": "Marsalek B.",
+            "year": "2012",
+            "journal-title": "Environ. Sci. Technol."
+        },
+        {
+            "issue": "8",
+            "key": "ref76/cit76",
+            "doi-asserted-by": "crossref",
+            "first-page": "1053",
+            "DOI": "10.1016/j.chemosphere.2011.01.061",
+            "volume": "83",
+            "author": "Nations S.",
+            "year": "2011",
+            "journal-title": "Chemosphere"
+        },
+        {
+            "issue": "8",
+            "key": "ref77/cit77",
+            "doi-asserted-by": "crossref",
+            "first-page": "e71260",
+            "DOI": "10.1371/journal.pone.0071260",
+            "volume": "8",
+            "author": "Artells E.",
+            "year": "2013",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "ref78/cit78",
+            "unstructured": "Hsu, D. D.Chemicool Periodic Table.http://www.chemicool.com/, 2013, (accessed July 24, 2014)."
+        },
+        {
+            "key": "ref79/cit79",
+            "volume-title": "STATISTICS Methods and Applications. A Comprehensive Reference for Science, Industry and Data Mining",
+            "author": "Hill T.",
+            "year": "2006"
+        },
+        {
+            "key": "ref80/cit80",
+            "unstructured": "Estrada, E.; Gutiérrez, Y.MODESLAB, v1.5; Santiago de Compostela, 2002–2004."
+        },
+        {
+            "key": "ref81/cit81",
+            "unstructured": "Statsoft-Team. STATISTICA. Data analysis software system, v6.0; Tulsa, 2001."
+        },
+        {
+            "issue": "15",
+            "key": "ref82/cit82",
+            "doi-asserted-by": "crossref",
+            "first-page": "4848",
+            "DOI": "10.1016/j.bmc.2012.05.071",
+            "volume": "20",
+            "author": "Speck-Planche A.",
+            "year": "2012",
+            "journal-title": "Bioorg. Med. Chem."
+        },
+        {
+            "issue": "6",
+            "key": "ref83/cit83",
+            "doi-asserted-by": "crossref",
+            "first-page": "822",
+            "DOI": "10.1093/bioinformatics/btq037",
+            "volume": "26",
+            "author": "Hanczar B.",
+            "year": "2010",
+            "journal-title": "Bioinformatics"
+        },
+        {
+            "issue": "5",
+            "key": "ref84/cit84",
+            "doi-asserted-by": "crossref",
+            "first-page": "2727",
+            "DOI": "10.1021/la2042058",
+            "volume": "28",
+            "author": "Suresh A. K.",
+            "year": "2012",
+            "journal-title": "Langmuir"
+        },
+        {
+            "issue": "2",
+            "key": "ref85/cit85",
+            "doi-asserted-by": "crossref",
+            "first-page": "101",
+            "DOI": "10.1016/j.tox.2011.02.010",
+            "volume": "283",
+            "author": "Ahamed M.",
+            "year": "2011",
+            "journal-title": "Toxicology"
+        },
+        {
+            "issue": "9",
+            "key": "ref86/cit86",
+            "doi-asserted-by": "crossref",
+            "first-page": "e46286",
+            "DOI": "10.1371/journal.pone.0046286",
+            "volume": "7",
+            "author": "Zhu X.",
+            "year": "2012",
+            "journal-title": "PLoS One"
+        },
+        {
+            "key": "ref87/cit87",
+            "doi-asserted-by": "crossref",
+            "volume-title": "QSAR: Hansch analysis and related approaches",
+            "volume": "1",
+            "author": "Kubinyi H.",
+            "year": "1993",
+            "DOI": "10.1002/9783527616824"
+        }
+    ],
+    "container-title": "Environmental Science &amp; Technology",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.acs.org/doi/pdf/10.1021/es503861x",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2021,
+                8,
+                14
+            ]
+        ],
+        "date-time": "2021-08-14T17:38:30Z",
+        "timestamp": 1628962710000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.acs.org/doi/10.1021/es503861x"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2014,
+                11,
+                21
+            ]
+        ]
+    },
+    "references-count": 87,
+    "journal-issue": {
+        "issue": "24",
+        "published-print": {
+            "date-parts": [
+                [
+                    2014,
+                    12,
+                    16
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1021/es503861x"
+    ],
+    "URL": "http://dx.doi.org/10.1021/es503861x",
+    "relation": {},
+    "ISSN": [
+        "0013-936X",
+        "1520-5851"
+    ],
+    "subject": [
+        "Environmental Chemistry",
+        "General Chemistry"
+    ],
+    "container-title-short": "Environ. Sci. Technol.",
+    "published": {
+        "date-parts": [
+            [
+                2014,
+                11,
+                21
+            ]
+        ]
+    }
+}

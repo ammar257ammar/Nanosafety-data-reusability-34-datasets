@@ -1,0 +1,556 @@
+{
+    "indexed": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                8
+            ]
+        ],
+        "date-time": "2022-04-08T01:40:17Z",
+        "timestamp": 1649382017788
+    },
+    "reference-count": 61,
+    "publisher": "American Chemical Society (ACS)",
+    "issue": "11",
+    "license": [
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        17
+                    ]
+                ],
+                "date-time": "2021-05-17T00:00:00Z",
+                "timestamp": 1621209600000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-029"
+        },
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        17
+                    ]
+                ],
+                "date-time": "2021-05-17T00:00:00Z",
+                "timestamp": 1621209600000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-037"
+        },
+        {
+            "start": {
+                "date-parts": [
+                    [
+                        2021,
+                        5,
+                        17
+                    ]
+                ],
+                "date-time": "2021-05-17T00:00:00Z",
+                "timestamp": 1621209600000
+            },
+            "content-version": "stm-asf",
+            "delay-in-days": 0,
+            "URL": "https://doi.org/10.15223/policy-045"
+        }
+    ],
+    "content-domain": {
+        "domain": [],
+        "crossmark-restriction": false
+    },
+    "published-print": {
+        "date-parts": [
+            [
+                2021,
+                6,
+                1
+            ]
+        ]
+    },
+    "DOI": "10.1021/acs.est.1c01603",
+    "type": "journal-article",
+    "created": {
+        "date-parts": [
+            [
+                2021,
+                5,
+                17
+            ]
+        ],
+        "date-time": "2021-05-17T19:13:41Z",
+        "timestamp": 1621278821000
+    },
+    "page": "7491-7500",
+    "source": "Crossref",
+    "is-referenced-by-count": 3,
+    "title": "Prediction of Plant Uptake and Translocation of Engineered Metallic Nanoparticles by Machine Learning",
+    "prefix": "10.1021",
+    "volume": "55",
+    "author": [
+        {
+            "ORCID": "http://orcid.org/0000-0002-3214-3933",
+            "authenticated-orcid": true,
+            "given": "Xiaoxuan",
+            "family": "Wang",
+            "sequence": "first",
+            "affiliation": [
+                {
+                    "name": "Zachry Department of Civil and Environmental Engineering, Texas A&M University, College Station, Texas 77843, United States"
+                }
+            ]
+        },
+        {
+            "given": "Liwei",
+            "family": "Liu",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Zachry Department of Civil and Environmental Engineering, Texas A&M University, College Station, Texas 77843, United States"
+                },
+                {
+                    "name": "Department of Civil Engineering, National Pingtung University of Science and Technology, Neipu 91201, Pingtung County, Taiwan"
+                }
+            ]
+        },
+        {
+            "given": "Weilan",
+            "family": "Zhang",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Zachry Department of Civil and Environmental Engineering, Texas A&M University, College Station, Texas 77843, United States"
+                }
+            ]
+        },
+        {
+            "ORCID": "http://orcid.org/0000-0003-4650-2455",
+            "authenticated-orcid": true,
+            "given": "Xingmao",
+            "family": "Ma",
+            "sequence": "additional",
+            "affiliation": [
+                {
+                    "name": "Zachry Department of Civil and Environmental Engineering, Texas A&M University, College Station, Texas 77843, United States"
+                }
+            ]
+        }
+    ],
+    "member": "316",
+    "published-online": {
+        "date-parts": [
+            [
+                2021,
+                5,
+                17
+            ]
+        ]
+    },
+    "reference": [
+        {
+            "key": "ref1/cit1",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.impact.2020.100232"
+        },
+        {
+            "key": "ref2/cit2",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/biomimetics5020027"
+        },
+        {
+            "key": "ref3/cit3",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.jhazmat.2019.03.080"
+        },
+        {
+            "key": "ref4/cit4",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41565-018-0223-y"
+        },
+        {
+            "key": "ref5/cit5",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s10311-016-0600-4"
+        },
+        {
+            "key": "ref6/cit6",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3389/fchem.2015.00064"
+        },
+        {
+            "key": "ref7/cit7",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1038/s41565-018-0131-1"
+        },
+        {
+            "key": "ref8/cit8",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1071/EN19254"
+        },
+        {
+            "key": "ref9/cit9",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/10643389.2020.1740546"
+        },
+        {
+            "key": "ref10/cit10",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.coesh.2018.07.008"
+        },
+        {
+            "key": "ref11/cit11",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ecoenv.2020.111128"
+        },
+        {
+            "key": "ref12/cit12",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1039/C8EN00645H"
+        },
+        {
+            "key": "ref13/cit13",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2020.136991"
+        },
+        {
+            "key": "ref14/cit14",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2020.142368"
+        },
+        {
+            "key": "ref15/cit15",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1155/2021/6618407"
+        },
+        {
+            "key": "ref16/cit16",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.bj.2020.05.001"
+        },
+        {
+            "key": "ref17/cit17",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/w11081704"
+        },
+        {
+            "key": "ref18/cit18",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.3390/w11071479"
+        },
+        {
+            "key": "ref19/cit19",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1126/science.aaa8415"
+        },
+        {
+            "key": "ref20/cit20",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.estlett.9b00476"
+        },
+        {
+            "key": "ref21/cit21",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2018.09.048"
+        },
+        {
+            "key": "ref22/cit22",
+            "first-page": "87",
+            "volume-title": "International Conference on Computational Science and Its Applications",
+            "author": "Shah H.",
+            "year": "2012"
+        },
+        {
+            "key": "ref23/cit23",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envpol.2018.12.029"
+        },
+        {
+            "key": "ref24/cit24",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/15226514.2020.1768513"
+        },
+        {
+            "key": "ref25/cit25",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2019.133999"
+        },
+        {
+            "key": "ref26/cit26",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2020.141418"
+        },
+        {
+            "key": "ref27/cit27",
+            "volume-title": "Microsoft Excel 2013 Data Analysis and Business Modeling: Data Analysis and Business Modeling",
+            "author": "Winston W.",
+            "year": "2014"
+        },
+        {
+            "key": "ref28/cit28",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2307/3147159"
+        },
+        {
+            "key": "ref29/cit29",
+            "doi-asserted-by": "crossref",
+            "first-page": "359",
+            "DOI": "10.1109/TC.2007.70821",
+            "volume": "5",
+            "author": "Wang Y.-M.",
+            "year": "2008",
+            "journal-title": "WSEAS Trans. Comput."
+        },
+        {
+            "key": "ref30/cit30",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.est.7b00813"
+        },
+        {
+            "key": "ref31/cit31",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2014.02.044"
+        },
+        {
+            "key": "ref32/cit32",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s00299-014-1624-5"
+        },
+        {
+            "key": "ref33/cit33",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.est.8b01664"
+        },
+        {
+            "key": "ref34/cit34",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11051-015-3079-1"
+        },
+        {
+            "key": "ref35/cit35",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.17756/JFCN.2016-011"
+        },
+        {
+            "key": "ref36/cit36",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.scitotenv.2016.06.087"
+        },
+        {
+            "key": "ref37/cit37",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.ecoenv.2017.06.074"
+        },
+        {
+            "key": "ref38/cit38",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2113/gselements.4.6.395"
+        },
+        {
+            "key": "ref39/cit39",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/1943815X.2013.852591"
+        },
+        {
+            "key": "ref40/cit40",
+            "volume-title": "NeuroSolutions–Documentation",
+            "author": "Principe J.",
+            "year": "2005"
+        },
+        {
+            "key": "ref41/cit41",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1001/jama.286.14.1754"
+        },
+        {
+            "key": "ref42/cit42",
+            "volume-title": "Gene expression programming: mathematical modeling by an artificial intelligence",
+            "volume": "21",
+            "author": "Ferreira C.",
+            "year": "2006"
+        },
+        {
+            "key": "ref43/cit43",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/17435390.2020.1735550"
+        },
+        {
+            "key": "ref44/cit44",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1007/s11356-015-4867-y"
+        },
+        {
+            "key": "ref45/cit45",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/S1001-0742(10)60646-8"
+        },
+        {
+            "key": "ref46/cit46",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es902240k"
+        },
+        {
+            "key": "ref47/cit47",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es060847g"
+        },
+        {
+            "key": "ref48/cit48",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es902987d"
+        },
+        {
+            "key": "ref49/cit49",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.est.5b02761"
+        },
+        {
+            "key": "ref50/cit50",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es800422x"
+        },
+        {
+            "key": "ref51/cit51",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.envpol.2014.12.017"
+        },
+        {
+            "key": "ref52/cit52",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1002/etc.4220"
+        },
+        {
+            "key": "ref53/cit53",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1080/10643389.2013.829767"
+        },
+        {
+            "key": "ref54/cit54",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.2134/jeq2017.07.0284"
+        },
+        {
+            "key": "ref55/cit55",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acssuschemeng.8b01654"
+        },
+        {
+            "key": "ref56/cit56",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.coesh.2018.06.007"
+        },
+        {
+            "key": "ref57/cit57",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/acs.est.8b07243"
+        },
+        {
+            "key": "ref58/cit58",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1021/es301977w"
+        },
+        {
+            "key": "ref59/cit59",
+            "first-page": "2508",
+            "volume": "6",
+            "author": "Spielman-Sun E.",
+            "year": "2019",
+            "journal-title": "Environ. Sci.: Nano"
+        },
+        {
+            "key": "ref60/cit60",
+            "first-page": "138",
+            "volume": "14",
+            "author": "Tarafdar J.",
+            "year": "2012",
+            "journal-title": "Appl. Biol. Res."
+        },
+        {
+            "key": "ref61/cit61",
+            "doi-asserted-by": "publisher",
+            "DOI": "10.1016/j.plaphy.2014.07.010"
+        }
+    ],
+    "container-title": "Environmental Science &amp; Technology",
+    "original-title": [],
+    "language": "en",
+    "link": [
+        {
+            "URL": "https://pubs.acs.org/doi/pdf/10.1021/acs.est.1c01603",
+            "content-type": "unspecified",
+            "content-version": "vor",
+            "intended-application": "similarity-checking"
+        }
+    ],
+    "deposited": {
+        "date-parts": [
+            [
+                2022,
+                4,
+                8
+            ]
+        ],
+        "date-time": "2022-04-08T01:07:24Z",
+        "timestamp": 1649380044000
+    },
+    "score": 1,
+    "resource": {
+        "primary": {
+            "URL": "https://pubs.acs.org/doi/10.1021/acs.est.1c01603"
+        }
+    },
+    "subtitle": [],
+    "short-title": [],
+    "issued": {
+        "date-parts": [
+            [
+                2021,
+                5,
+                17
+            ]
+        ]
+    },
+    "references-count": 61,
+    "journal-issue": {
+        "issue": "11",
+        "published-print": {
+            "date-parts": [
+                [
+                    2021,
+                    6,
+                    1
+                ]
+            ]
+        }
+    },
+    "alternative-id": [
+        "10.1021/acs.est.1c01603"
+    ],
+    "URL": "http://dx.doi.org/10.1021/acs.est.1c01603",
+    "relation": {},
+    "ISSN": [
+        "0013-936X",
+        "1520-5851"
+    ],
+    "subject": [
+        "Environmental Chemistry",
+        "General Chemistry"
+    ],
+    "container-title-short": "Environ. Sci. Technol.",
+    "published": {
+        "date-parts": [
+            [
+                2021,
+                5,
+                17
+            ]
+        ]
+    }
+}
