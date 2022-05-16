@@ -94,4 +94,4 @@ Details 							|group_key                        |DOI                           
 
 ## Analysis & visualization of maturity indicators assessment results
 
-[![viz](image/mi_pichart.png)](image/mi_pichart.png)
+[![viz](images/mi_pichart.png)](images/mi_pichart.png)
