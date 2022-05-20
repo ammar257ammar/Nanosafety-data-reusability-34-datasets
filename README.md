@@ -1,6 +1,6 @@
 # Data completeness and reusability assessment for 34 nanosafety datasets
 
-Based on previous work of Irini Furxhi [https://doi.org/10.1016/j.impact.2021.100378](https://doi.org/10.1016/j.impact.2021.100378), a FAIR-based analysis for reusability has bee conducted on 3d datasets from the nanosafety domain.
+Based on previous work of Irini Furxhi [https://doi.org/10.1016/j.impact.2021.100378](https://doi.org/10.1016/j.impact.2021.100378), a FAIR-based analysis for reusability has been conducted on 34 datasets from the nanosafety domain.
 
 First, each dataset was described with an HTML page showing the main metadata about the original publication and a glimpse of the related datasets content.
 In parallel, each dataset overview page was annotated with nanosafety-community FAIR maturity indicators for reusability using the NSDRA framewrok JSON-LD metadata generator [http://w3id.org/nsdra/metadata-generator](http://w3id.org/nsdra/metadata-generator).
