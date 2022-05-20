@@ -68,7 +68,7 @@
 		"url": "http://dx.doi.org/10.1021/acs.est.8b02757",
 		"citation": "https://doi.org/10.1021/acs.est.8b02757",
 		"@id": "10.1021/acs.est.8b02757",
-		"http://purl.org/dc/terms/conformsTo": { "@type": "schema:CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+		"http://purl.org/dc/terms/conformsTo": { "@type": "schema:CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
 		"schema:license": "",
 		"schema:creator": [
 		  {

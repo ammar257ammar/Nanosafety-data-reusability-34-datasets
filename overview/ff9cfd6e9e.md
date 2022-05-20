@@ -36,7 +36,7 @@
 		"url": "http://www.nature.com/articles/s41467-020-16413-3.pdf",
 		"citation": "https://doi.org/10.1038/s41467-020-16413-3",
 		"@id": "10.1038/s41467-020-16413-3",
-		"http://purl.org/dc/terms/conformsTo": { "@type": "schema:CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+		"http://purl.org/dc/terms/conformsTo": { "@type": "schema:CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
 		"schema:license": "https://creativecommons.org/licenses/by/4.0",
 		"schema:creator": [
 		  {

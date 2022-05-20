@@ -52,7 +52,7 @@
 		"url": "https://api.wiley.com/onlinelibrary/tdm/v1/articles/10.1002%2Fsmll.201900510",
 		"citation": "https://doi.org/10.1002/smll.201900510",
 		"@id": "10.1002/smll.201900510",
-		"http://purl.org/dc/terms/conformsTo": { "@type": "schema:CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+		"http://purl.org/dc/terms/conformsTo": { "@type": "schema:CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
 		"schema:license": "http://onlinelibrary.wiley.com/termsAndConditions#am",
 		"schema:creator": [
 		  {

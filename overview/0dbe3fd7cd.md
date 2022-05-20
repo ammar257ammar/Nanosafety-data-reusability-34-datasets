@@ -28,7 +28,7 @@
 		"url": "http://dx.doi.org/10.1016/j.chemosphere.2019.125489",
 		"citation": "https://doi.org/10.1016/j.chemosphere.2019.125489",
 		"@id": "10.1016/j.chemosphere.2019.125489",
-		"http://purl.org/dc/terms/conformsTo": { "@type": "schema:CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+		"http://purl.org/dc/terms/conformsTo": { "@type": "schema:CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
 		"schema:license": "https://www.elsevier.com/tdm/userlicense/1.0/",
 		"schema:creator": [
 		  {
