@@ -18,7 +18,7 @@
 		"url": "$link",
 		"citation": "https://doi.org/$doi",
 		"@id": "$doi",
-		"http://purl.org/dc/terms/conformsTo": { "@type": "schema:CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/0.4-DRAFT" },
+		"http://purl.org/dc/terms/conformsTo": { "@type": "schema:CreativeWork", "@id": "https://bioschemas.org/profiles/Dataset/1.0-RELEASE" },
 		"schema:license": "$license",
 		"schema:creator": [
 		  {
