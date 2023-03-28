@@ -1,5 +1,9 @@
 # Data completeness and reusability assessment for 34 nanosafety datasets
 
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/ammar257ammar/Nanosafety-data-reusability-34-datasets) ![GitHub top language](https://img.shields.io/github/languages/top/ammar257ammar/Nanosafety-data-reusability-34-datasets) ![GitHub](https://img.shields.io/github/license/ammar257ammar/Nanosafety-data-reusability-34-datasets)
+
+## This work is part of the study titled: A data reusability assessment in the nanosafety domain based on the NSDRA framework followed by an exploratory Quantitative Structure Activity Relationships (QSAR) modeling targeting cellular viability. The other part is [available here](https://github.com/ammar257ammar/Nanosafety-cell-viability-pycaret).
+
 Based on previous work of Irini Furxhi [https://doi.org/10.1016/j.impact.2021.100378](https://doi.org/10.1016/j.impact.2021.100378), a FAIR-based analysis for reusability has been conducted on 34 datasets from the nanosafety domain.
 
 First, each dataset was described with an HTML page showing the main metadata about the original publication and a glimpse of the related datasets content.
