@@ -44,15 +44,15 @@
 			},
 			{
 				"@type": "schema:PropertyValue",
-				"name": "MI-R1.3-ABSTRACT-TOX-SUBJECT_AGE"
+				"name": "MI-R1.3-ABSTRACT-TOX-in_vivo_subject_age"
 			},
 			{
 				"@type": "schema:PropertyValue",
-				"name": "MI-R1.3-ABSTRACT-TOX-SUBJECT_WEIGHT"
+				"name": "MI-R1.3-ABSTRACT-TOX-in_vivo_subject_weight"
 			},
 			{
 				"@type": "schema:PropertyValue",
-				"name": "MI-R1.3-ABSTRACT-TOX-NUMBER_OF_TEST_SUBJECTS"
+				"name": "MI-R1.3-ABSTRACT-TOX-in_vivo_number_of_test_subjects"
 			},
 			{
 				"@type": "schema:PropertyValue",
