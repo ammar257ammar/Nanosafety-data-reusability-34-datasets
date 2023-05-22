@@ -6,7 +6,4 @@ profile_default/
 ipython_config.py
 
 
-script.ipynb
-
-pdf-json
-pdf-json/*
+backup/*

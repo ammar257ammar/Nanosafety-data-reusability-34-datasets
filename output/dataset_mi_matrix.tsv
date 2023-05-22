@@ -1,10 +1,10 @@
-hash	chemical composition	surface chemistry/coating/functionalization	purity	nanomaterial labeling/identity	nanomaterial source	size	shape	surface area	surface charge	zeta potential	crystallinity	solubility	stability	dispersibility	density	agglomeration state	dose/concentration	exposure time/duration	number of controls	number of replicates	data analysis methods	organism/species	method/route of administration	in vivo - number of test subjects	in vivo - subject weight	in vivo - subject age	in vivo - subject sex	in vivo - subject strain	in vitro - passage number	in vitro - cell mycoplasma testing
+hash	chemical composition	surface chemistry/coating/functionalization	purity	nanomaterial labeling/identity	nanomaterial source	size	shape	surface area	surface charge	zeta potential	crystallinity	solubility	stability	dispersibility	density	agglomeration state	dose/concentration	exposure time/duration	number of controls	number of replicates	data analysis methods	organism/species	method/route of administration	in vivo - number of test subjects	in vivo - subject age	in vivo - subject sex	in vivo - subject weight	in vivo - subject strain	in vitro - passage number	in vitro - cell mycoplasma testing
 9e1d426c9015fc15d718b0fbd3f41152	Y	Y				Y	Y			Y																				
 9a9ad3fe96432ca53a6ad331a5283ea6	Y					Y	Y			Y							Y													
 16876494884cd452d29ad6455ab7e4dc	Y					Y		Y	Y								Y	Y				Y								
 5d2e680699dcb1d8ec6ee07941653774	Y					Y		Y	Y								Y	Y				Y								
-0a77bd4afd69252e1fa0b8f3e52c1100	Y					Y		Y	Y								Y	Y				Y								
-51cbf2d4aebab163496fe926091be171	Y	Y				Y	Y	Y		Y							Y	Y				Y		Y	Y	Y				
+0a77bd4afd69252e1fa0b8f3e52c1100	Y	Y			Y	Y			Y								Y	Y				Y								
+51cbf2d4aebab163496fe926091be171	Y	Y				Y	Y	Y		Y							Y	Y				Y		Y	Y		Y			
 4f4d02f185841bd3bf33503d672fd16c	Y	Y				Y	Y	Y		Y							Y	Y												
 0e3c23628a103c9cf92cc651a30ccc4a	Y					Y			Y								Y													
 ff9cfd6e9e9373c0f4196ff2b093d57c	Y					Y	Y			Y																				
@@ -16,7 +16,7 @@ dd7e97719a7a4d561f8dbefc27b73390	Y					Y	Y	Y		Y							Y	Y				Y
 364572eee5b81bf59ff7ae8fc095ccfb	Y	Y				Y	Y	Y	Y			Y											Y							
 0904205a9a7d59d1274b61d2c83f97c4																														
 a1cc8d01610f24dc3ca54c053134d707	Y	Y				Y																								
-1e7da9d774c38851a23f5b0ec66b5aff	Y		Y			Y											Y	Y				Y			Y		Y			
+1e7da9d774c38851a23f5b0ec66b5aff	Y		Y			Y											Y	Y				Y				Y	Y			
 4ab8fc4886992f27977aa1161de85c00	Y	Y				Y		Y		Y				Y																
 409b3f244f83b2bfe21a1bccd586a221	Y	Y				Y				Y							Y	Y				Y								
 0dbe3fd7cd021f444d98c55132f48473	Y					Y																								
