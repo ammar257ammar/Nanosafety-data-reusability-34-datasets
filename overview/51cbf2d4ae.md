@@ -96,3 +96,39 @@
 
 Due to the numerous factors (e.g., nanoparticle [NP] properties and experimental conditions) influencing nanotoxicity, it is difficult to identify the priority factors dominating nanotoxicity. Herein, by integrating data from the literature and a random forest model, the priority factors determining reproductive toxicity were successfully screened from highly heterogeneous data. Among 10 factors from more than 18 different NPs, the NP type and the exposure pathway were found to dominantly determine NP accumulation. The reproductive toxicity of various NPs primarily depended on the NP type and the toxicity indicators. Nanoparticles containing major elements (e.g., Zn and Fe) tended to accumulate in rats but induced lower toxicity than NPs containing noble elements. Compared with other exposure pathways, i.p. injection posed significantly higher risks for NP accumulation. By combining similarity network analysis and hierarchical clustering, the sources of highly heterogeneous data were identified, the factor-toxicity dependencies were extracted and visualized, and the prediction of nanotoxicity was then achieved based on the screened priority factors. The present work provides insights for the design of animal experiments and the illustration and prediction of nanotoxicity.
 
+
+## Data Sample
+
+|Type of ENP|dTEM (nm)|Shape |Surface Ligand|dDLS (nm)|Zeta potential (mV)f|Solution|pH |Surface Area (m2/g)f|Title                                                                                                                                                  |Num.|Year|Animal          |Mean Age (calculated) (weeks)f|Mean Weight (calculated) (g)f|Num. per Groupf|Method                   |Exposure Duration (days)|Recovery Duration (days)f|Exposure Dose (mg/kg)|
+|-----------|---------|------|--------------|---------|--------------------|--------|---|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|----|----|----------------|------------------------------|-----------------------------|---------------|-------------------------|------------------------|-------------------------|---------------------|
+|TiO2       |25, 80, 155|-     |N             |-        |-                   |-       |-  |-                   |Acute toxicity and biodistribution of different sized titanium dioxide particles in mice after oral administration                                     |1   |2013|CD-1 (ICR) mice |-                             |19±2                         |10             |Oral gavage              |1                       |14                       |5000                 |
+|Au         |10-30    |Sphere|N             |-        |-                   |-       |-  |-                   |Acute and chronic effects of gold nanoparticles on sperm parameters and chromatin structure in Mice                                                    |2   |2009|BALB/c mice     |7                             |22                           |8              |Intraperitoneal injection|7-35                    |1                        |40-200 ?g/kg         |
+|TiO2       |50       |Sphere|N             |-        |-                   |-       |-  |-                   |Anatase titanium dioxide nanoparticles in mice: Evidence for induced structural and functional sperm defects after short-, but not long-, term exposure|3   |2015|Outbred mice    |19,28571429                   |25                           |3              |Intraperitoneal injection|3                       |24-120 h                 |2.5-5                |
+|TiO2       |20-30    |Sphere|N             |-        |-                   |-       |-  |-                   |Beneficial effects of quercetin on titanium dioxide nanoparticles induced spermatogenesis defects in mice                                              |6   |2017|NMR mice        |8                             |29,2                         |8              |Oral gavage              |35                      |1                        |300                  |
+|Au         |20       |Sphere|N             |-        |-                   |-       |-  |-                   |Biodistribution of gold nanoparticles and gene expression changes in the liver and spleen after intravenous administration in rats                     |6   |2010|Wistar rats     |-                             | 200–300                     |6              |Intravenous injection    |1                       |1-60                     |0.01-0.04            |
+
+
+## Data Summary
+
+| **Variable**                    | **Count (unique values)** |
+| ------------------------------- | ------------------------- |
+|Type of ENP|22 |
+|dTEM (nm)  |59 |
+|Shape      |10 |
+|Surface Ligand|13 |
+|dDLS (nm)  |20 |
+|Zeta potential (mV)|16 |
+|Solution   |9  |
+|pH         |4  |
+|Surface Area (m2/g)|13 |
+|Title      |82 |
+|Num.       |60 |
+|Year       |10 |
+|Animal     |40 |
+|Mean Age (calculated) (weeks)|32 |
+|Mean Weight (calculated) (g)|62 |
+|Num. per Group|15 |
+|Method     |9  |
+|Exposure Duration (days)|38 |
+|Recovery Duration (days)|41 |
+|Exposure Dose (mg/kg)|75 |

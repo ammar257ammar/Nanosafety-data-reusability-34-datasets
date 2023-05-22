@@ -62,3 +62,26 @@
 ## Original Study Abstract
 
 Modern nanotechnology research has generated numerous experimental data for various nanomaterials. However, the few nanomaterial databases available are not suitable for modeling studies due to the way they are curated. Here, we report the construction of a large nanomaterial database containing annotated nanostructures suited for modeling research. The database, which is publicly available through http://www.pubvinas.com/, contains 705 unique nanomaterials covering 11 material types. Each nanomaterial has up to six physicochemical properties and/or bioactivities, resulting in more than ten endpoints in the database. All the nanostructures are annotated and transformed into protein data bank files, which are downloadable by researchers worldwide. Furthermore, the nanostructure annotation procedure generates 2142 nanodescriptors for all nanomaterials for machine learning purposes, which are also available through the portal. This database provides a public resource for data-driven nanoinformatics modeling research aimed at rational nanomaterial design and other areas of modern computational nanotechnology.
+
+
+## Data Sample
+
+|Index|Cell viability (50 ?g/ml)|Standard deviation (n = 3)|Cell viability (200 ?g/ml)|Standard deviation (n = 3)|
+|-----|-------------------------|--------------------------|--------------------------|--------------------------|
+|CNT1 |0,63                     |0,06                      |0,42                      |0,04                      |
+|CNT2 |0,6                      |0,02                      |0,14                      |0,06                      |
+|CNT3 |0,64                     |0,07                      |0,37                      |0,08                      |
+|CNT4 |0,67                     |0,03                      |0,56                      |0,07                      |
+|CNT5 |0,65                     |0,02                      |0,49                      |0,02                      |
+|CNT6 |0,58                     |0,01                      |0,29                      |0,05                      |
+
+
+## Data Summary
+
+| **Variable**                    | **Count (unique values)** |
+| ------------------------------- | ------------------------- |
+|Index|80 |
+|Cell viability (50 ug/ml)|35 |
+|Standard deviation (n = 3)|78 |
+|Cell viability (200 ug/ml)|47 |
+|Standard deviation (n = 3)|77 |
