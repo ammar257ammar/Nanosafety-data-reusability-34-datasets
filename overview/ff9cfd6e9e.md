@@ -66,7 +66,7 @@ Modern nanotechnology research has generated numerous experimental data for vari
 
 ## Data Sample
 
-|Index|Cell viability (50 ?g/ml)|Standard deviation (n = 3)|Cell viability (200 ?g/ml)|Standard deviation (n = 3)|
+|Index|Cell viability (50 ug/ml)|Standard deviation (n = 3)|Cell viability (200 ug/ml)|Standard deviation (n = 3)|
 |-----|-------------------------|--------------------------|--------------------------|--------------------------|
 |CNT1 |0,63                     |0,06                      |0,42                      |0,04                      |
 |CNT2 |0,6                      |0,02                      |0,14                      |0,06                      |
